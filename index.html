@@ -1,78 +1,203 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sports Picks Ranked</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background: #1a1a1a; color: #e0e0e0; }
-        .tabs { display: flex; gap: 10px; margin-bottom: 20px; }
-        .tab-btn { padding: 10px 20px; cursor: pointer; background: #333; border: none; color: white; border-radius: 5px; }
-        .tab-btn.active { background: #007bff; }
-        table { border-collapse: collapse; width: 100%; background: #252525; border-radius: 8px; overflow: hidden; }
-        th, td { padding: 15px; text-align: left; border-bottom: 1px solid #333; }
-        th { background-color: #007bff; color: white; text-transform: uppercase; font-size: 0.8em; }
-        .MAX-BET { color: #2ecc71; font-weight: bold; }
-        .VALUE { color: #3498db; }
-        .SKIP { color: #888; }
-        .confidence-pill { background: #444; padding: 4px 8px; border-radius: 4px; font-weight: bold; }
+        :root {
+            --bg: #121212;
+            --card-bg: #1e1e1e;
+            --primary: #007bff;
+            --text: #e0e0e0;
+            --win: #2ecc71;
+            --value: #3498db;
+            --skip: #7f8c8d;
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
+            margin: 0; 
+            padding: 20px;
+            background: var(--bg); 
+            color: var(--text); 
+            line-height: 1.6;
+        }
+
+        .container { max-width: 900px; margin: 0 auto; }
+
+        header { text-align: center; margin-bottom: 30px; }
+        h1 { margin-bottom: 5px; color: #fff; }
+        .subtitle { color: #888; font-size: 0.9em; }
+
+        .tabs { 
+            display: flex; 
+            gap: 10px; 
+            margin-bottom: 20px; 
+            justify-content: center;
+        }
+
+        .tab-btn { 
+            padding: 12px 24px; 
+            cursor: pointer; 
+            background: #2a2a2a; 
+            border: 1px solid #333; 
+            color: #bbb; 
+            border-radius: 8px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .tab-btn:hover { background: #333; }
+        .tab-btn.active { 
+            background: var(--primary); 
+            color: white; 
+            border-color: var(--primary);
+            box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3);
+        }
+
+        .table-wrapper {
+            background: var(--card-bg);
+            border-radius: 12px;
+            overflow-x: auto;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+
+        table { 
+            border-collapse: collapse; 
+            width: 100%; 
+            min-width: 600px;
+        }
+
+        th, td { padding: 16px; text-align: left; border-bottom: 1px solid #2d2d2d; }
+        
+        th { 
+            background-color: #252525; 
+            color: #888; 
+            text-transform: uppercase; 
+            font-size: 0.75em; 
+            letter-spacing: 1px;
+        }
+
+        tr:last-child td { border-bottom: none; }
+
+        .MAX-BET { color: var(--win); font-weight: bold; }
+        .VALUE { color: var(--value); font-weight: bold; }
+        .SKIP { color: var(--skip); }
+
+        .score-pill { 
+            background: #333; 
+            padding: 5px 10px; 
+            border-radius: 6px; 
+            font-family: monospace;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .odds-badge {
+            background: #2c2c2c;
+            padding: 4px 8px;
+            border-radius: 4px;
+            border: 1px solid #444;
+            font-weight: 500;
+        }
+
+        #last-updated {
+            text-align: center;
+            font-size: 0.7em;
+            color: #555;
+            margin-top: 20px;
+        }
+
+        .loading { padding: 40px; text-align: center; color: #888; }
     </style>
 </head>
 <body>
-    <h1>Model-Ranked Picks</h1>
-    <p>Data-driven rankings updated hourly (Central Time).</p>
+
+<div class="container">
+    <header>
+        <h1>Sharp Ranker</h1>
+        <div class="subtitle">AI-Ranked Sports Picks & Consensus Analysis</div>
+    </header>
     
     <div class="tabs">
         <button class="tab-btn active" onclick="loadData('ranked_today.csv', this)">Today</button>
         <button class="tab-btn" onclick="loadData('ranked_tomorrow.csv', this)">Tomorrow</button>
     </div>
 
-    <div id="table-container">Loading picks...</div>
+    <div class="table-wrapper">
+        <div id="table-container" class="loading">Analyzing market data...</div>
+    </div>
 
-    <script>
-        function loadData(file, btn) {
-            // Update UI tabs
-            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
+    <div id="last-updated"></div>
+</div>
 
-            Papa.parse(file, {
-                download: true,
-                header: true,
-                skipEmptyLines: true,
-                complete: function(results) {
-                    let data = results.data;
-                    if (data.length === 0) {
-                        document.getElementById('table-container').innerHTML = "<p>No picks posted yet for this window.</p>";
-                        return;
-                    }
+<script>
+    function loadData(file, btn) {
+        // Update UI Tabs
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
 
-                    let table = '<table><thead><tr>';
-                    Object.keys(data[0]).forEach(key => table += `<th>${key}</th>`);
-                    table += '</tr></thead><tbody>';
-                    
-                    data.forEach(row => {
-                        table += '<tr>';
-                        Object.entries(row).forEach(([key, val]) => {
-                            let cellClass = "";
-                            if (val === "MAX BET") cellClass = "MAX-BET";
-                            if (val === "VALUE") cellClass = "VALUE";
-                            if (val === "SKIP") cellClass = "SKIP";
-                            
-                            let displayVal = (key === "Confidence") ? `<span class="confidence-pill">${val}</span>` : val;
-                            table += `<td class="${cellClass}">${displayVal}</td>`;
-                        });
-                        table += '</tr>';
-                    });
-                    table += '</tbody></table>';
-                    document.getElementById('table-container').innerHTML = table;
-                },
-                error: function() {
-                    document.getElementById('table-container').innerHTML = "<p>No data available for this time period.</p>";
+        document.getElementById('table-container').innerHTML = '<div class="loading">Fetching latest lines...</div>';
+
+        // Fetch CSV with Cache Buster (?v=...)
+        Papa.parse(file + "?v=" + Date.now(), {
+            download: true,
+            header: true,
+            skipEmptyLines: true,
+            complete: function(results) {
+                let data = results.data;
+                
+                if (data.length === 0 || !data[0].Score) {
+                    document.getElementById('table-container').innerHTML = "<div class='loading'>No active picks meeting criteria. Check back soon.</div>";
+                    return;
                 }
-            });
-        }
 
-        // Initial load
-        window.onload = () => loadData('ranked_today.csv', document.querySelector('.tab-btn'));
-    </script>
+                // Sorting handled in Python, but we'll double check it here
+                data.sort((a, b) => parseFloat(b.Score) - parseFloat(a.Score));
+
+                let table = '<table><thead><tr>';
+                // Define Header
+                Object.keys(data[0]).forEach(key => table += `<th>${key}</th>`);
+                table += '</tr></thead><tbody>';
+                
+                data.forEach(row => {
+                    table += '<tr>';
+                    Object.entries(row).forEach(([key, val]) => {
+                        let cellClass = "";
+                        let displayVal = val;
+
+                        if (val === "MAX BET") cellClass = "MAX-BET";
+                        if (val === "VALUE") cellClass = "VALUE";
+                        if (val === "SKIP") cellClass = "SKIP";
+                        
+                        // Formatting specific columns
+                        if (key === "Score") {
+                            displayVal = `<span class="score-pill">${val}</span>`;
+                        }
+                        if (key === "Odds") {
+                            displayVal = `<span class="odds-badge">${val > 0 ? '+' + val : val}</span>`;
+                        }
+
+                        table += `<td class="${cellClass}">${displayVal}</td>`;
+                    });
+                    table += '</tr>';
+                });
+
+                table += '</tbody></table>';
+                document.getElementById('table-container').innerHTML = table;
+                document.getElementById('last-updated').innerText = "Last checked: " + new Date().toLocaleTimeString();
+            },
+            error: function() {
+                document.getElementById('table-container').innerHTML = "<div class='loading'>Data currently unavailable.</div>";
+            }
+        });
+    }
+
+    // Initial load
+    window.onload = () => loadData('ranked_today.csv', document.querySelector('.tab-btn'));
+</script>
+
 </body>
 </html>
