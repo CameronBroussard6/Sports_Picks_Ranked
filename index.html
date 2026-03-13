@@ -11,165 +11,110 @@
             --card-bg: #1e1e1e;
             --primary: #007bff;
             --text: #ffffff; 
-            --win: #2ecc71;  /* Green for MAX BET */
-            --value: #3498db; /* Blue for VALUE */
+            --win: #2ecc71;
+            --value: #3498db;
         }
 
         body { 
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
             margin: 0; 
-            padding: 20px;
+            padding: 10px; /* Reduced padding for mobile edge-to-edge */
             background: var(--bg); 
             color: var(--text); 
-            line-height: 1.4;
+            line-height: 1.2;
         }
 
-        .container { max-width: 900px; margin: 0 auto; }
+        .container { max-width: 1000px; margin: 0 auto; }
 
-        header { text-align: center; margin-bottom: 25px; }
-        h1 { margin-bottom: 5px; color: #fff; font-size: 1.8rem; }
-        .subtitle { color: #888; font-size: 0.85em; }
+        header { text-align: center; margin-bottom: 15px; }
+        h1 { margin-bottom: 5px; color: #fff; font-size: 1.5rem; }
+        .subtitle { color: #888; font-size: 0.8em; }
 
-        .tabs { 
-            display: flex; 
-            gap: 8px; 
-            margin-bottom: 20px; 
-            justify-content: center;
-        }
+        .tabs { display: flex; gap: 8px; margin-bottom: 15px; justify-content: center; }
 
         .tab-btn { 
-            padding: 10px 20px; 
+            padding: 8px 16px; 
             cursor: pointer; 
             background: #2a2a2a; 
             border: 1px solid #333; 
             color: #bbb; 
             border-radius: 6px;
             font-weight: bold;
-            transition: 0.2s;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
         }
 
-        .tab-btn.active { 
-            background: var(--primary); 
-            color: white; 
-            border-color: var(--primary);
-        }
+        .tab-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
 
+        /* TABLE SETTINGS FOR NO-WRAP */
         .table-wrapper {
             background: var(--card-bg);
-            border-radius: 10px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            border-radius: 8px;
             border: 1px solid #333;
-            overflow: hidden;
+            width: 100%;
+            overflow: hidden; /* No container scroll */
         }
 
         table { 
             border-collapse: collapse; 
             width: 100%; 
-            table-layout: auto;
+            table-layout: fixed; /* Force fixed widths */
         }
 
         th, td { 
-            padding: 14px 12px; 
+            padding: 10px 8px; 
             text-align: left; 
             border-bottom: 1px solid #2d2d2d; 
-            color: #ffffff !important; /* Force all text to white */
-            word-wrap: break-word;
-            overflow-wrap: break-word;
+            color: #ffffff !important;
+            white-space: nowrap; /* PREVENTS WRAPPING */
+            overflow: hidden;    /* HIDES OVERFLOW */
+            text-overflow: ellipsis; /* ADDS "..." IF TOO LONG */
         }
         
+        /* Column Width Allocations */
+        th:nth-child(1), td:nth-child(1) { width: 22%; } /* Action */
+        th:nth-child(2), td:nth-child(2) { width: 12%; } /* Score */
+        th:nth-child(3), td:nth-child(3) { width: 48%; } /* The Pick */
+        th:nth-child(4), td:nth-child(4) { width: 18%; } /* Odds */
+
         th { 
             background-color: #252525; 
-            color: #ffffff !important;
-            text-transform: uppercase; 
-            font-size: 0.7rem; 
-            letter-spacing: 1px;
+            font-size: 0.65rem; 
+            text-transform: uppercase;
         }
 
-        /* Status colors override the white text for the first column only */
+        /* Shrink text on smaller screens */
+        @media screen and (max-width: 600px) {
+            td, th { font-size: 0.7rem; padding: 8px 4px; }
+            .score-pill { padding: 2px 4px; }
+            .odds-badge { padding: 2px 4px; }
+        }
+
+        @media screen and (max-width: 400px) {
+            td, th { font-size: 0.6rem; }
+        }
+
         .MAX-BET { color: var(--win) !important; font-weight: bold; }
         .VALUE { color: var(--value) !important; font-weight: bold; }
-        .SKIP { color: #ffffff !important; font-weight: normal; opacity: 0.7; }
+        .SKIP { color: #ffffff !important; opacity: 0.6; }
 
         .score-pill { 
             background: #333; 
-            padding: 4px 8px; 
+            padding: 3px 6px; 
             border-radius: 4px; 
             font-family: monospace;
-            font-weight: bold;
             color: #fff !important;
         }
 
         .odds-badge {
             background: #2c2c2c;
-            padding: 4px 6px;
-            border-radius: 4px;
+            padding: 3px 5px;
+            border-radius: 3px;
             border: 1px solid #444;
             color: #ffffff !important;
-            font-weight: 600;
         }
 
-        #last-updated {
-            text-align: center;
-            font-size: 0.7rem;
-            color: #444;
-            margin-top: 20px;
-        }
-
-        /* MOBILE OPTIMIZATION: NO HORIZONTAL SCROLLING */
-        @media screen and (max-width: 650px) {
-            body { padding: 10px; }
-            
-            table, thead, tbody, th, td, tr { display: block; }
-            
-            thead { display: none; } /* Hide headers on mobile */
-            
-            tr { 
-                margin-bottom: 15px; 
-                border-bottom: 2px solid #333;
-                padding: 10px 0;
-            }
-
-            td { 
-                border: none; 
-                padding: 8px 10px; 
-                position: relative;
-                padding-left: 40%; 
-                text-align: right;
-                font-size: 0.9rem;
-                min-height: 25px;
-            }
-
-            /* This inserts the Header label on the left side of the mobile "card" */
-            td:before { 
-                content: attr(data-label);
-                position: absolute;
-                left: 10px;
-                width: 35%;
-                text-align: left;
-                font-weight: bold;
-                font-size: 0.7rem;
-                color: #888;
-                text-transform: uppercase;
-            }
-
-            /* Make "The Pick" the focus of the card */
-            td[data-label="The Pick"] {
-                text-align: left;
-                padding-left: 10px;
-                padding-top: 35px;
-                display: block;
-                font-size: 1rem;
-                border-top: 1px solid #2d2d2d;
-                margin-top: 5px;
-            }
-            td[data-label="The Pick"]:before {
-                top: 10px;
-                width: 100%;
-            }
-        }
-
-        .loading { padding: 40px; text-align: center; color: #888; }
+        #last-updated { text-align: center; font-size: 0.65rem; color: #444; margin-top: 15px; }
+        .loading { padding: 30px; text-align: center; color: #888; font-size: 0.8rem; }
     </style>
 </head>
 <body>
@@ -177,7 +122,7 @@
 <div class="container">
     <header>
         <h1>Sharp Ranker</h1>
-        <div class="subtitle">Real-Time Consensus & Value Analysis</div>
+        <div class="subtitle">Consensus & Value Analysis</div>
     </header>
     
     <div class="tabs">
@@ -186,7 +131,7 @@
     </div>
 
     <div class="table-wrapper">
-        <div id="table-container" class="loading">Fetching latest data...</div>
+        <div id="table-container" class="loading">Fetching...</div>
     </div>
 
     <div id="last-updated"></div>
@@ -196,8 +141,7 @@
     function loadData(file, btn) {
         document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-
-        document.getElementById('table-container').innerHTML = '<div class="loading">Loading fresh lines...</div>';
+        document.getElementById('table-container').innerHTML = '<div class="loading">Updating...</div>';
 
         Papa.parse(file + "?v=" + Date.now(), {
             download: true,
@@ -205,18 +149,15 @@
             skipEmptyLines: true,
             complete: function(results) {
                 let data = results.data;
-                
                 if (data.length === 0 || !data[0].Score) {
-                    document.getElementById('table-container').innerHTML = "<div class='loading'>No active picks found at this moment.</div>";
+                    document.getElementById('table-container').innerHTML = "<div class='loading'>No picks active.</div>";
                     return;
                 }
 
-                // Ensure strict sorting by Score descending
                 data.sort((a, b) => parseFloat(b.Score) - parseFloat(a.Score));
 
                 let table = '<table><thead><tr>';
-                let headers = Object.keys(data[0]);
-                headers.forEach(key => table += `<th>${key}</th>`);
+                Object.keys(data[0]).forEach(key => table += `<th>${key}</th>`);
                 table += '</tr></thead><tbody>';
                 
                 data.forEach(row => {
@@ -224,32 +165,25 @@
                     Object.entries(row).forEach(([key, val]) => {
                         let cellClass = "";
                         let displayVal = val;
-
                         if (val === "MAX BET") cellClass = "MAX-BET";
                         if (val === "VALUE") cellClass = "VALUE";
                         if (val === "SKIP") cellClass = "SKIP";
                         
-                        if (key === "Score") {
-                            displayVal = `<span class="score-pill">${val}</span>`;
-                        }
-                        if (key === "Odds") {
-                            displayVal = `<span class="odds-badge">${val > 0 ? '+' + val : val}</span>`;
-                        }
+                        if (key === "Score") displayVal = `<span class="score-pill">${val}</span>`;
+                        if (key === "Odds") displayVal = `<span class="odds-badge">${val > 0 ? '+' + val : val}</span>`;
 
-                        // data-label allows the CSS to show the header name on mobile
-                        table += `<td class="${cellClass}" data-label="${key}">${displayVal}</td>`;
+                        // The "title" attribute lets you see the full text if you hover/long-press
+                        table += `<td class="${cellClass}" title="${val}">${displayVal}</td>`;
                     });
                     table += '</tr>';
                 });
 
                 table += '</tbody></table>';
                 document.getElementById('table-container').innerHTML = table;
-                document.getElementById('last-updated').innerText = "Last Checked: " + new Date().toLocaleTimeString();
+                document.getElementById('last-updated').innerText = "Updated: " + new Date().toLocaleTimeString();
             }
         });
     }
-
-    // Initial load
     window.onload = () => loadData('ranked_today.csv', document.querySelector('.tab-btn'));
 </script>
 
