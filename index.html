@@ -16,105 +16,95 @@
         }
 
         body { 
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; 
             margin: 0; 
-            padding: 10px; /* Reduced padding for mobile edge-to-edge */
+            padding: 10px;
             background: var(--bg); 
             color: var(--text); 
-            line-height: 1.2;
         }
 
         .container { max-width: 1000px; margin: 0 auto; }
-
         header { text-align: center; margin-bottom: 15px; }
-        h1 { margin-bottom: 5px; color: #fff; font-size: 1.5rem; }
-        .subtitle { color: #888; font-size: 0.8em; }
+        h1 { margin: 0; color: #fff; font-size: clamp(1.2rem, 4vw, 1.8rem); }
+        .subtitle { color: #888; font-size: 0.8em; margin-top: 4px; }
 
-        .tabs { display: flex; gap: 8px; margin-bottom: 15px; justify-content: center; }
-
+        .tabs { display: flex; gap: 6px; margin-bottom: 15px; justify-content: center; }
         .tab-btn { 
-            padding: 8px 16px; 
+            padding: 8px 14px; 
             cursor: pointer; 
             background: #2a2a2a; 
-            border: 1px solid #333; 
+            border: 1px solid #444; 
             color: #bbb; 
             border-radius: 6px;
             font-weight: bold;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
         }
-
         .tab-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
 
-        /* TABLE SETTINGS FOR NO-WRAP */
         .table-wrapper {
             background: var(--card-bg);
             border-radius: 8px;
             border: 1px solid #333;
             width: 100%;
-            overflow: hidden; /* No container scroll */
         }
 
         table { 
             border-collapse: collapse; 
             width: 100%; 
-            table-layout: fixed; /* Force fixed widths */
+            table-layout: fixed; /* Maintains structure */
         }
 
         th, td { 
-            padding: 10px 8px; 
+            padding: 10px 6px; 
             text-align: left; 
             border-bottom: 1px solid #2d2d2d; 
             color: #ffffff !important;
-            white-space: nowrap; /* PREVENTS WRAPPING */
-            overflow: hidden;    /* HIDES OVERFLOW */
-            text-overflow: ellipsis; /* ADDS "..." IF TOO LONG */
+            /* Fluid font size: scales between 10px and 14px based on screen width */
+            font-size: clamp(0.65rem, 2.5vw, 0.9rem);
+            line-height: 1.1;
+            vertical-align: middle;
         }
-        
-        /* Column Width Allocations */
-        th:nth-child(1), td:nth-child(1) { width: 22%; } /* Action */
-        th:nth-child(2), td:nth-child(2) { width: 12%; } /* Score */
-        th:nth-child(3), td:nth-child(3) { width: 48%; } /* The Pick */
-        th:nth-child(4), td:nth-child(4) { width: 18%; } /* Odds */
+
+        /* Column Width Allocation */
+        th:nth-child(1), td:nth-child(1) { width: 20%; white-space: nowrap; } /* Action */
+        th:nth-child(2), td:nth-child(2) { width: 14%; white-space: nowrap; } /* Score */
+        th:nth-child(3), td:nth-child(3) { 
+            width: 48%; 
+            white-space: normal; /* ALLOW WRAPPING HERE */
+            word-break: break-word; /* Prevents long words from breaking layout */
+        }
+        th:nth-child(4), td:nth-child(4) { width: 18%; white-space: nowrap; text-align: center; } /* Odds */
 
         th { 
             background-color: #252525; 
-            font-size: 0.65rem; 
+            font-size: 0.6rem; 
             text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
-        /* Shrink text on smaller screens */
-        @media screen and (max-width: 600px) {
-            td, th { font-size: 0.7rem; padding: 8px 4px; }
-            .score-pill { padding: 2px 4px; }
-            .odds-badge { padding: 2px 4px; }
-        }
-
-        @media screen and (max-width: 400px) {
-            td, th { font-size: 0.6rem; }
-        }
-
+        /* Status Colors */
         .MAX-BET { color: var(--win) !important; font-weight: bold; }
         .VALUE { color: var(--value) !important; font-weight: bold; }
-        .SKIP { color: #ffffff !important; opacity: 0.6; }
+        .SKIP { color: #ffffff !important; opacity: 0.5; }
 
         .score-pill { 
             background: #333; 
-            padding: 3px 6px; 
+            padding: 2px 5px; 
             border-radius: 4px; 
             font-family: monospace;
-            color: #fff !important;
+            font-weight: bold;
         }
 
         .odds-badge {
             background: #2c2c2c;
-            padding: 3px 5px;
-            border-radius: 3px;
+            padding: 3px 6px;
+            border-radius: 4px;
             border: 1px solid #444;
-            color: #ffffff !important;
+            font-weight: 600;
         }
 
-        #last-updated { text-align: center; font-size: 0.65rem; color: #444; margin-top: 15px; }
-        .loading { padding: 30px; text-align: center; color: #888; font-size: 0.8rem; }
+        #last-updated { text-align: center; font-size: 0.65rem; color: #555; margin-top: 15px; }
+        .loading { padding: 40px; text-align: center; color: #888; }
     </style>
 </head>
 <body>
@@ -122,7 +112,7 @@
 <div class="container">
     <header>
         <h1>Sharp Ranker</h1>
-        <div class="subtitle">Consensus & Value Analysis</div>
+        <div class="subtitle">Consensus & Data-Driven Sports Analysis</div>
     </header>
     
     <div class="tabs">
@@ -131,7 +121,7 @@
     </div>
 
     <div class="table-wrapper">
-        <div id="table-container" class="loading">Fetching...</div>
+        <div id="table-container" class="loading">Fetching current market data...</div>
     </div>
 
     <div id="last-updated"></div>
@@ -141,7 +131,7 @@
     function loadData(file, btn) {
         document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        document.getElementById('table-container').innerHTML = '<div class="loading">Updating...</div>';
+        document.getElementById('table-container').innerHTML = '<div class="loading">Updating picks...</div>';
 
         Papa.parse(file + "?v=" + Date.now(), {
             download: true,
@@ -150,7 +140,7 @@
             complete: function(results) {
                 let data = results.data;
                 if (data.length === 0 || !data[0].Score) {
-                    document.getElementById('table-container').innerHTML = "<div class='loading'>No picks active.</div>";
+                    document.getElementById('table-container').innerHTML = "<div class='loading'>No active picks. Check back in an hour.</div>";
                     return;
                 }
 
@@ -172,15 +162,14 @@
                         if (key === "Score") displayVal = `<span class="score-pill">${val}</span>`;
                         if (key === "Odds") displayVal = `<span class="odds-badge">${val > 0 ? '+' + val : val}</span>`;
 
-                        // The "title" attribute lets you see the full text if you hover/long-press
-                        table += `<td class="${cellClass}" title="${val}">${displayVal}</td>`;
+                        table += `<td class="${cellClass}">${displayVal}</td>`;
                     });
                     table += '</tr>';
                 });
 
                 table += '</tbody></table>';
                 document.getElementById('table-container').innerHTML = table;
-                document.getElementById('last-updated').innerText = "Updated: " + new Date().toLocaleTimeString();
+                document.getElementById('last-updated').innerText = "Last Checked: " + new Date().toLocaleTimeString();
             }
         });
     }
