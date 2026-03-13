@@ -1,46 +1,78 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Daily Pick Rankings</title>
+    <title>Sports Picks Ranked</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <style>
-        body { font-family: sans-serif; margin: 40px; background: #f4f4f9; }
-        table { border-collapse: collapse; width: 100%; background: white; }
-        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
-        th { background-color: #2c3e50; color: white; }
-        tr:hover { background-color: #f1f1f1; }
-        .MAX-BET { color: green; font-weight: bold; }
-        .VALUE { color: blue; }
-        .SKIP { color: gray; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background: #1a1a1a; color: #e0e0e0; }
+        .tabs { display: flex; gap: 10px; margin-bottom: 20px; }
+        .tab-btn { padding: 10px 20px; cursor: pointer; background: #333; border: none; color: white; border-radius: 5px; }
+        .tab-btn.active { background: #007bff; }
+        table { border-collapse: collapse; width: 100%; background: #252525; border-radius: 8px; overflow: hidden; }
+        th, td { padding: 15px; text-align: left; border-bottom: 1px solid #333; }
+        th { background-color: #007bff; color: white; text-transform: uppercase; font-size: 0.8em; }
+        .MAX-BET { color: #2ecc71; font-weight: bold; }
+        .VALUE { color: #3498db; }
+        .SKIP { color: #888; }
+        .confidence-pill { background: #444; padding: 4px 8px; border-radius: 4px; font-weight: bold; }
     </style>
 </head>
 <body>
-    <h1>Daily Sports Pick Rankings</h1>
-    <p>Automatically ranked by ROI, Momentum, and Niche Market Edge.</p>
-    <div id="table-container"></div>
+    <h1>Model-Ranked Picks</h1>
+    <p>Data-driven rankings updated hourly (Central Time).</p>
+    
+    <div class="tabs">
+        <button class="tab-btn active" onclick="loadData('ranked_today.csv', this)">Today</button>
+        <button class="tab-btn" onclick="loadData('ranked_tomorrow.csv', this)">Tomorrow</button>
+    </div>
+
+    <div id="table-container">Loading picks...</div>
 
     <script>
-        Papa.parse("public_picks.csv", {
-            download: true,
-            header: true,
-            complete: function(results) {
-                let data = results.data;
-                let table = '<table><thead><tr>';
-                Object.keys(data[0]).forEach(key => table += `<th>${key}</th>`);
-                table += '</tr></thead><tbody>';
-                data.forEach(row => {
-                    if(!row.Action) return;
-                    table += '<tr>';
-                    Object.values(row).forEach(val => {
-                        let className = (val === "MAX BET" || val === "VALUE" || val === "SKIP") ? val.replace(" ", "-") : "";
-                        table += `<td class="${className}">${val}</td>`;
+        function loadData(file, btn) {
+            // Update UI tabs
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            Papa.parse(file, {
+                download: true,
+                header: true,
+                skipEmptyLines: true,
+                complete: function(results) {
+                    let data = results.data;
+                    if (data.length === 0) {
+                        document.getElementById('table-container').innerHTML = "<p>No picks posted yet for this window.</p>";
+                        return;
+                    }
+
+                    let table = '<table><thead><tr>';
+                    Object.keys(data[0]).forEach(key => table += `<th>${key}</th>`);
+                    table += '</tr></thead><tbody>';
+                    
+                    data.forEach(row => {
+                        table += '<tr>';
+                        Object.entries(row).forEach(([key, val]) => {
+                            let cellClass = "";
+                            if (val === "MAX BET") cellClass = "MAX-BET";
+                            if (val === "VALUE") cellClass = "VALUE";
+                            if (val === "SKIP") cellClass = "SKIP";
+                            
+                            let displayVal = (key === "Confidence") ? `<span class="confidence-pill">${val}</span>` : val;
+                            table += `<td class="${cellClass}">${displayVal}</td>`;
+                        });
+                        table += '</tr>';
                     });
-                    table += '</tr>';
-                });
-                table += '</tbody></table>';
-                document.getElementById('table-container').innerHTML = table;
-            }
-        });
+                    table += '</tbody></table>';
+                    document.getElementById('table-container').innerHTML = table;
+                },
+                error: function() {
+                    document.getElementById('table-container').innerHTML = "<p>No data available for this time period.</p>";
+                }
+            });
+        }
+
+        // Initial load
+        window.onload = () => loadData('ranked_today.csv', document.querySelector('.tab-btn'));
     </script>
 </body>
 </html>
