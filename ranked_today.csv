@@ -1,38 +1,42 @@
 Action,Score,The Pick,Odds
 MAX BET,90,eSports Yandex +1.5 maps (vs Betboom) + Liquid ML (vs Heroic),-118
+MAX BET,80,NCAAB Florida -8.5 (vs Vanderbilt),-110
 VALUE,75,Cricket Abbottabad to win (vs Sialkot),-109
 VALUE,75,Football Rosario Central -1.0 Asian Handicap (vs Banfield),102
-VALUE,75,Curling Scotland W +2.5 (China W),-118
 VALUE,75,Football PSV vs NEC BTTS + o2.5 goals + Burnley vs Bournemouth o8.5 corners,107
-VALUE,75,Football Wellington Phoenix vs Perth Glory o1.5 TG + Girona vs Athletic o1.5 TG,-154
+VALUE,75,Curling Scotland W +2.5 (China W),-118
 VALUE,75,Football Borussia Dortmund double chance + o2.5 total goals (vs Augsburg),-135
-VALUE,75,NBA Jaylen Brown o5.5 assists (Wizards vs Celtics),-118
 VALUE,75,NBA VJ Edgecombe o24.5 P+A (76ers vs Nets),-125
-VALUE,65,NBA 76ers -8.5 (vs Nets),-107
-VALUE,65,Football Chelsea ML (vs Newcastle) + Man City ML (vs West Ham),220
-VALUE,65,Football Arsenal o1.5 TTG (vs Everton),-145
+VALUE,75,NBA Jaylen Brown o5.5 assists (Wizards vs Celtics),-118
+VALUE,75,Football Wellington Phoenix vs Perth Glory o1.5 TG + Girona vs Athletic o1.5 TG,-154
 VALUE,65,NBA De’Aaron Fox o22.5 Points + Assists (Spurs vs Hornets),-110
-SKIP,60,UFC Gillian Robertson ML + o1.5 (vs Amanda Lemos),-105
+VALUE,65,Football Chelsea ML (vs Newcastle) + Man City ML (vs West Ham),220
+VALUE,65,NBA 76ers -8.5 (vs Nets),-107
+VALUE,65,Football Arsenal o1.5 TTG (vs Everton),-145
+SKIP,60,Football Man City ML + o1.5 (vs West Ham),-105
 SKIP,60,Football Bayern Munchen ML + u.5.5 (vs Bayern Leverkusen),-111
 SKIP,60,NHL Josh Doan o0.5 pts (Maple Leafs vs Sabres),106
-SKIP,60,Golf Alex Noren ML round 3 H2H (vs Min Woo Lee),120
-SKIP,60,NASCAR Justin Allgaier Top 5 (O’Reilly The LiUNA),-140
-SKIP,60,Football Blackburn to win (vs Millwall),-125
 SKIP,60,eSports Aurora Map 2 ML (vs Astralis),-135
-SKIP,60,Football Man City ML + o1.5 (vs West Ham),-105
+SKIP,60,Golf Alex Noren ML round 3 H2H (vs Min Woo Lee),120
+SKIP,60,UFC Gillian Robertson ML + o1.5 (vs Amanda Lemos),-105
+SKIP,60,Football Chelsea vs Newcastle BTTS,-130
+SKIP,60,Football Blackburn to win (vs Millwall),-125
 SKIP,60,NCAAB St. Johns vs UConn o139.5,-125
-SKIP,50,NHL Stars 60 Min ML (vs Red Wings),100
-SKIP,50,NBA Nuggets -2.5 (vs Lakers),-114
+SKIP,60,NASCAR Justin Allgaier Top 5 (O’Reilly The LiUNA),-140
 SKIP,50,Football Kashima Antlers + o1.5 Goals (vs Kawasaki Frontale),132
+SKIP,50,NHL Stars 60 Min ML (vs Red Wings),100
 SKIP,50,Football Hibernian ML (vs Livingston) + Hoffenheim ML (vs Wolfsburg),104
-SKIP,50,Football MALMO +0.50 AH (vs MJALLBY),-167
+SKIP,50,NBA Nuggets -2.5 (vs Lakers),-114
+SKIP,50,NHL Kings ML (vs Devils),125
 SKIP,50,Football Bayern Munich ML (vs Bayer Leverkusen),-172
 SKIP,50,Football Gil Vicente vs Alverca o2.5 goals,105
-SKIP,50,Football Grazer vs Wolfsberger BTTS,-133
 SKIP,50,NBA Jamal Murray o32.5 points + assists (Nuggets vs Lakers),-122
-SKIP,50,eSports NAVI Map 2 ML (vs FUT) + XANTARES>Ryu Map 2 Kills (Aurora vs Astralis),144
+SKIP,50,Football MALMO +0.50 AH (vs MJALLBY),-167
+SKIP,50,Football Grazer vs Wolfsberger BTTS,-133
 SKIP,50,Football Burnley vs Bournemouth BTTS,-150
+SKIP,50,eSports NAVI Map 2 ML (vs FUT) + XANTARES>Ryu Map 2 Kills (Aurora vs Astralis),144
+SKIP,20,NBA Clippers -10.5 (vs Kings),-167
 SKIP,20,Football Viking to win + o2.5 TG (vs HamKam),150
-SKIP,20,Football Westerlo vs Club Brugge BTTS,-182
 SKIP,20,NCAAB UMBC ML (vs Vermont),-137
+SKIP,20,Football Westerlo vs Club Brugge BTTS,-182
 SKIP,20,NCAAB Florida -7.0 (vs Vanderbilt),-113
