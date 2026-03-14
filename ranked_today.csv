@@ -2,19 +2,23 @@ Action,Score,The Pick,Odds
 MAX BET,90,eSports Yandex +1.5 maps (vs Betboom) + Liquid ML (vs Heroic),-118
 VALUE,75,Football Rosario Central -1.0 Asian Handicap (vs Banfield),102
 VALUE,75,Football PSV vs NEC BTTS + o2.5 goals + Burnley vs Bournemouth o8.5 corners,107
-VALUE,75,Football Borussia Dortmund double chance + o2.5 total goals (vs Augsburg),-135
+VALUE,75,Curling Scotland W +2.5 (China W),-118
 VALUE,75,Football Wellington Phoenix vs Perth Glory o1.5 TG + Girona vs Athletic o1.5 TG,-154
-VALUE,65,Football Chelsea ML (vs Newcastle) + Man City ML (vs West Ham),220
-VALUE,65,NBA .,-110
-VALUE,65,Tennis Samuel ML (vs Dostanic),-182
+VALUE,75,Football Borussia Dortmund double chance + o2.5 total goals (vs Augsburg),-135
 VALUE,65,NBA De’Aaron Fox o22.5 Points + Assists (Spurs vs Hornets),-110
+VALUE,65,Tennis Samuel ML (vs Dostanic),-182
+VALUE,65,NBA .,-110
+VALUE,65,Football Chelsea ML (vs Newcastle) + Man City ML (vs West Ham),220
+SKIP,60,Golf Alex Noren ML round 3 H2H (vs Min Woo Lee),120
+SKIP,60,NBA Nuggets -2.5 (vs Lakers),-114
+SKIP,60,UFC Gillian Robertson ML + o1.5 (vs Amanda Lemos),-105
 SKIP,60,Rugby Melbourne Storm -8.5 (vs St George Dragons),-105
 SKIP,60,NASCAR Justin Allgaier Top 5 (O’Reilly The LiUNA),-140
-SKIP,60,NBA Nuggets -2.5 (vs Lakers),-114
-SKIP,60,Golf Alex Noren ML round 3 H2H (vs Min Woo Lee),120
-SKIP,60,UFC Gillian Robertson ML + o1.5 (vs Amanda Lemos),-105
+SKIP,60,eSports Aurora Map 2 ML (vs Astralis),-135
+SKIP,60,Football Man City ML + o1.5 (vs West Ham),-105
 SKIP,50,Football Kashima Antlers + o1.5 Goals (vs Kawasaki Frontale),132
 SKIP,50,NHL Stars 60 Min ML (vs Red Wings),100
+SKIP,50,Football Hibernian ML (vs Livingston) + Hoffenheim ML (vs Wolfsburg),104
 SKIP,50,AFL Lachie Whitfield O28.5 Disposals (GWS vs Bulldogs),-111
 SKIP,50,Football MALMO +0.50 AH (vs MJALLBY),-167
 SKIP,50,Football Gil Vicente vs Alverca o2.5 goals,105
@@ -22,6 +26,6 @@ SKIP,50,eSports NAVI Map 2 ML (vs FUT) + XANTARES>Ryu Map 2 Kills (Aurora vs Ast
 SKIP,50,Football Bayern Munich ML (vs Bayer Leverkusen),-172
 SKIP,50,Football Grazer vs Wolfsberger BTTS,-133
 SKIP,20,Rugby Jahream Bula ATTS (West Tigers vs North Queensland Cowboys),145
-SKIP,20,NCAAB Florida -7.0 (vs Vanderbilt),-113
 SKIP,20,AFL Geelong ML (vs Fremantle),-208
+SKIP,20,NCAAB Florida -7.0 (vs Vanderbilt),-113
 SKIP,20,NCAAB UMBC ML (vs Vermont),-137
