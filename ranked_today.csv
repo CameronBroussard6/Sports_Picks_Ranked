@@ -1,27 +1,18 @@
 Action,Score,The Pick,Odds
 VALUE,75,Football Rosario Central -1.0 Asian Handicap (vs Banfield),102
 VALUE,75,Multi Westerlo vs Brugge BTTS + Japan +2.5 (vs Venezuela),-103
-VALUE,75,NBA VJ Edgecombe o24.5 P+A (76ers vs Nets),-125
-VALUE,75,Football PSV vs NEC BTTS + o2.5 goals + Burnley vs Bournemouth o8.5 corners,107
-VALUE,75,Curling Scotland W +2.5 (China W),-118
 VALUE,75,NBA Jaylen Brown o5.5 assists (Wizards vs Celtics),-118
-VALUE,65,NBA 76ers -8.5 (vs Nets),-107
-VALUE,65,NBA De’Aaron Fox o22.5 Points + Assists (Spurs vs Hornets),-110
-SKIP,60,NBA Luka Doncic o8.5 rebounds (Lakers vs Nuggets),-105
+VALUE,75,NCAAB Duke -1.5 (vs Virginia) + Arkansas -1.5 (vs Ole Miss),-147
 SKIP,60,NHL Josh Doan o0.5 pts (Maple Leafs vs Sabres),106
-SKIP,60,Golf Alex Noren ML round 3 H2H (vs Min Woo Lee),120
-SKIP,60,UFC Gillian Robertson ML + o1.5 (vs Amanda Lemos),-105
-SKIP,60,Football Man City ML + o1.5 (vs West Ham),-105
-SKIP,60,eSports Aurora Map 2 ML (vs Astralis),-135
 SKIP,60,NCAAB St. Johns vs UConn o139.5,-125
+SKIP,60,UFC Gillian Robertson ML + o1.5 (vs Amanda Lemos),-105
 SKIP,60,NASCAR Justin Allgaier Top 5 (O’Reilly The LiUNA),-140
-SKIP,50,NHL Stars 60 Min ML (vs Red Wings),100
+SKIP,60,NBA Luka Doncic o8.5 rebounds (Lakers vs Nuggets),-105
 SKIP,50,NBA Nuggets -2.5 (vs Lakers),-114
-SKIP,50,Football Grazer vs Wolfsberger BTTS,-133
+SKIP,50,NBA Celtics o125.5 (vs Wizards),-110
 SKIP,50,NHL Kings ML (vs Devils),125
-SKIP,50,Football Gil Vicente vs Alverca o2.5 goals,105
+SKIP,50,NHL Stars 60 Min ML (vs Red Wings),100
+SKIP,50,eSports Aurora Map 2 ML (vs Astralis),-135
 SKIP,50,NBA Jamal Murray o32.5 points + assists (Nuggets vs Lakers),-122
 SKIP,20,NBA Clippers -10.5 (vs Kings),-167
-SKIP,20,Football Westerlo vs Club Brugge BTTS,-182
 SKIP,20,NCAAB UMBC ML (vs Vermont),-137
-SKIP,20,NCAAB Florida -7.0 (vs Vanderbilt),-113
