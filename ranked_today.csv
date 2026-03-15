@@ -1,9 +1,10 @@
 Action,Score,The Pick,Odds
 MAX BET,90,Curling Norway -3.5 (vs Australia),-122
 VALUE,75,Football Mainoo fouled o0.5 (Man United vs Aston Villa) + Kaiserslautern vs Karlsruher o2.5,106
-VALUE,75,Football Borneo FC vs Persib o1.5 total + Liverpool o5.5 corners (vs Tottenham),-125
 VALUE,75,Cricket S. Farhan o24.5 runs (Bangladesh vs Pakistan),-120
+VALUE,75,Football Borneo FC vs Persib o1.5 total + Liverpool o5.5 corners (vs Tottenham),-125
 VALUE,75,Tennis Kotov -3.5 games (vs Romano),-143
+VALUE,65,NCAAB Vanderbilt -2.5 (vs Arkansas),-110
 VALUE,65,Football Liverpool -1.5 1st half (vs Tottenham),235
 VALUE,65,NBA Quentin Grimes u25.5 P+A (76ers vs Trail Blazers),-120
 SKIP,60,NCAAB Purdue vs Michigan o148.5,-160
@@ -18,10 +19,10 @@ SKIP,50,Tennis Sabalenka ML (vs Rybakina),-149
 SKIP,50,Football Liverpool ML +1.5 total goals (vs Tottenham) + Stuttgart vs Leipzig BTTS,-127
 SKIP,50,eSports Betboom +1.5 maps (vs Liquid),-179
 SKIP,50,F1 Oscar Piastri H2H (vs Lando Norris),-139
-SKIP,50,Football Crystal Palace to win (vs Leeds),150
-SKIP,50,Football Sassoulo vs Bologna BTTS,-122
 SKIP,50,eSports Fut Map 2 ML (vs Astralis),-150
+SKIP,50,Football Sassoulo vs Bologna BTTS,-122
 SKIP,50,NHL Kraken ML (Panthers),114
+SKIP,50,NBA Jazz +3.0 (vs Kings),-110
 SKIP,50,Football BRONDBY vs VIBORG o2.5 TG,-130
 SKIP,50,NBA Karl-Anthony Towns 15+ rebounds (Warriors @ Knicks),179
 SKIP,50,Football Young Boys vs Lausanne BTTS + o2.5 goals,-150
