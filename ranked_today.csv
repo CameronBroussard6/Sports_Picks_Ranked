@@ -1,32 +1,31 @@
 Action,Score,The Pick,Odds
 MAX BET,90,Curling Norway -3.5 (vs Australia),-122
 VALUE,75,Football Mainoo fouled o0.5 (Man United vs Aston Villa) + Kaiserslautern vs Karlsruher o2.5,106
-VALUE,75,NBA Trail Blazers -7.5 (76ers),-112
 VALUE,75,NBA Pistons -3.5 (vs Raptors),-111
+VALUE,75,NBA Trail Blazers -7.5 (76ers),-112
 VALUE,75,NCAAB USF ML (vs Wichita State) + Michigan ML (vs Purdue),-119
-VALUE,75,Football Borneo FC vs Persib o1.5 total + Liverpool o5.5 corners (vs Tottenham),-125
 VALUE,75,Cricket S. Farhan o24.5 runs (Bangladesh vs Pakistan),-120
 VALUE,75,Tennis Kotov -3.5 games (vs Romano),-143
-VALUE,65,NBA Cody Williams o7.5 R+A (Jazz vs Kings),-124
-VALUE,65,Football B68 Toftir vs Skála ÍF u10.5 Asian Total Corners,-103
-VALUE,65,NCAAB Vanderbilt -2.5 (vs Arkansas),-110
-VALUE,65,Football Liverpool -1.5 1st half (vs Tottenham),235
 VALUE,65,NHL Panthers ML (vs Kraken),-125
+VALUE,65,Football B68 Toftir vs Skála ÍF u10.5 Asian Total Corners,-103
+VALUE,65,Football Liverpool -1.5 1st half (vs Tottenham),235
 VALUE,65,NBA Quentin Grimes u25.5 P+A (76ers vs Trail Blazers),-120
-SKIP,60,Baseball Cal Raleigh 1+ RBI (USA vs Dominican Republic),115
-SKIP,60,NCAAB Wichita State +6 (vs South Florida),-110
-SKIP,60,NASCAR Ross Chastain Top 10 (Cup Series Penzoil 400),100
-SKIP,60,Football Real Sociedad vs Osasuna o2.5 total goals,100
-SKIP,60,NCAAB Purdue vs Michigan o148.5,-160
+VALUE,65,NBA Cody Williams o7.5 R+A (Jazz vs Kings),-124
 SKIP,60,Football Barcelona vs Sevilla o3.5 total bookings,-200
+SKIP,60,NCAAB Purdue vs Michigan o148.5,-160
+SKIP,60,NCAAB Wichita State +6 (vs South Florida),-110
+SKIP,60,NCAAB Michigan ML (vs Purdue) + USF ML (vs Wichita St),-108
+SKIP,60,Football Real Sociedad vs Osasuna o2.5 total goals,100
+SKIP,60,NASCAR Ross Chastain Top 10 (Cup Series Penzoil 400),100
+SKIP,60,Baseball Cal Raleigh 1+ RBI (USA vs Dominican Republic),115
 SKIP,50,Tennis Sabalenka ML (vs Rybakina),-149
 SKIP,50,eSports Betboom +1.5 maps (vs Liquid),-179
 SKIP,50,Football Gifu -1 (vs Fukushima United),-106
 SKIP,50,Football Liverpool ML +1.5 total goals (vs Tottenham) + Stuttgart vs Leipzig BTTS,-127
 SKIP,50,Tennis Giron ML (vs Quinn),-161
 SKIP,50,F1 Oscar Piastri H2H (vs Lando Norris),-139
-SKIP,50,NHL Brendan Gallagher o1.5 shots (Canadiens vs Ducks),130
 SKIP,50,Football Sassoulo vs Bologna BTTS,-122
+SKIP,50,NHL Brendan Gallagher o1.5 shots (Canadiens vs Ducks),130
 SKIP,50,NHL Kraken ML (Panthers),114
 SKIP,50,Football Werder ML (vs Mainz),110
 SKIP,50,NBA Jazz +3.0 (vs Kings),-110
