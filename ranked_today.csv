@@ -1,11 +1,10 @@
 Action,Score,The Pick,Odds
-VALUE,65,Cricket New Zealand vs South Africa o319.5,-167
-VALUE,65,NBA Spurs -8.5 (vs Clippers),-110
-SKIP,60,eSports G2 to win with -2.5 Handicap (vs Team Secret Whales),140
-SKIP,50,Cricket Nadine de Klerk Total Player Performance o32.5 (New Zealand vs South Africa),-118
-SKIP,50,eSports BLG ML (vs BNK FearX) + G2 -1.5 (vs Team Secret Whales),105
-SKIP,50,eSports BLG -1.5 vs BNK FearX,-110
-SKIP,20,NBA Stephon Castle o12.5 R+A (Spurs vs Clippers),-120
-SKIP,20,eSports BLG vs BFX Map 1 o27.5 kills,-182
-SKIP,20,Tennis Tararudee to win 1st Set (vs Zakharova),100
-SKIP,20,eSports BLG Map 1 first dragon (vs BFX) + G2 Map 1 first dragon (vs TSW),-150
+VALUE,65,Football ADO den Haag ML (vs Jong Utrecht) + Bodo Glimt +1.5 (vs Sporting),112
+SKIP,60,"Football Bayer Leverkusen +1.0, +1.5 (vs Arsenal)",130
+SKIP,60,NCAAB Texas vs NC State o153.5,-167
+SKIP,60,Football Wrexham or Draw (vs Watford),-154
+SKIP,60,Football Lokomotiv Sofia vs Septemvri Sofia o2.5,105
+SKIP,60,Football Man City vs Real Madrid: BTTS + o2.5,-125
+SKIP,50,Football Glimt o3.5 SOT (vs Sporting),-108
+SKIP,50,Football Arsenal to Win + first half u2.5 (vs Bayer Leverkusen),-200
+SKIP,50,Football Haikin +2.5 saves (Sporting vs Bodo/Glimt) + Man City vs Madrid BTTS,110
