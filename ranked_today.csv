@@ -1,30 +1,11 @@
 Action,Score,The Pick,Odds
-VALUE,75,Football Barracas DC vs Atletico Tucuman + Racing Club ML vs Estudiantes de Rio Cuarto,102
-VALUE,75,NBA Cooper Flagg o11.5 R+A (Mavericks vs Pelicans),-104
-VALUE,75,Football Silkeborg vs Vejle o2.5 TG,-159
-VALUE,65,Tennis Ignacio Buse ML (vs Moez Echargui),-160
+VALUE,65,Cricket New Zealand vs South Africa o319.5,-167
 VALUE,65,NBA Spurs -8.5 (vs Clippers),-110
-VALUE,65,Football Bournemouth U21 vs Barnsley U21 o1.0 1H + Den Bosch vs Jong PSV BTTS,-169
-VALUE,65,NBA Bulls -5.5 (vs Grizzlies),-113
-VALUE,65,NBA Magic ML (vs Hawks),125
 SKIP,60,eSports G2 to win with -2.5 Handicap (vs Team Secret Whales),140
-SKIP,60,Football Vicenza vs Inter Milan ii - Over 2.5 goals,112
-SKIP,60,NHL Bruins ML (vs Devils),106
-SKIP,50,NBA Josh Giddey o17.5 R+A (Bulls vs Grizzlies),-120
-SKIP,50,NBA Celtics -9.5 (vs Suns),-120
-SKIP,50,NHL Red Wings ML (vs Flames),-180
-SKIP,50,NBA Magic vs Hawks o231.5,-110
+SKIP,50,Cricket Nadine de Klerk Total Player Performance o32.5 (New Zealand vs South Africa),-118
 SKIP,50,eSports BLG ML (vs BNK FearX) + G2 -1.5 (vs Team Secret Whales),105
-SKIP,50,NBA Josh Giddey o8.5 rebounds + o8.5 assists (Bulls vs Grizzlies),180
 SKIP,50,eSports BLG -1.5 vs BNK FearX,-110
-SKIP,35,NBA Magic ML (vs Hawks),120
-SKIP,20,NHL Mo Seider o2.5 SOG (Flames vs Red Wings),142
-SKIP,20,NBA Jalen Suggs u6.5 Assists (Magic vs Hawks),-137
-SKIP,20,eSports BLG Map 1 first dragon (vs BFX) + G2 Map 1 first dragon (vs TSW),-150
-SKIP,20,NBA Scottie Barnes o30.5 Points + Rebounds (Cavaliers vs Raptors),-115
-SKIP,20,Football Shelbourne double chance (vs Bohemians),-225
-SKIP,20,Football Universitatea Cluj vs CFR Cluj BTTS,-125
 SKIP,20,NBA Stephon Castle o12.5 R+A (Spurs vs Clippers),-120
-SKIP,20,NBA Nets +10.0 (vs Trail Blazers),-110
-SKIP,20,Tennis Tararudee to win 1st Set (vs Zakharova),100
 SKIP,20,eSports BLG vs BFX Map 1 o27.5 kills,-182
+SKIP,20,Tennis Tararudee to win 1st Set (vs Zakharova),100
+SKIP,20,eSports BLG Map 1 first dragon (vs BFX) + G2 Map 1 first dragon (vs TSW),-150
