@@ -1,32 +1,36 @@
 Action,Score,The Pick,Odds
 MAX BET,90,Curling Türkiye W +2.5 (vs Korea W),100
 MAX BET,90,NBA Thunder -5.5 (vs Magic) + Nuggets -5.5 (76ers),-150
+VALUE,75,NBA SGA assists -1.5 vs Suggs H2H (Thunder vs Magic),103
 VALUE,75,NBA Desmond Bane u2.5 threes (Thunder vs Magic),-154
-VALUE,65,Football ADO den Haag ML (vs Jong Utrecht) + Bodo Glimt +1.5 (vs Sporting),112
 VALUE,65,NBA Timberwolves -4.0 (vs Suns),-110
+VALUE,65,Football ADO den Haag ML (vs Jong Utrecht) + Bodo Glimt +1.5 (vs Sporting),112
+SKIP,60,Football Man City vs Real Madrid: BTTS + o2.5,-125
 SKIP,60,Football Bodø/Glimt o1.0 team goal (vs Sporting),-115
 SKIP,60,eSports Gen.G vs JD Gaming o3.5 Maps,-139
-SKIP,60,eSports GenG vs JDG Map 1 u30.5 kills,-182
 SKIP,60,NCAAB Texas vs NC State o153.5,-167
 SKIP,60,Football Wrexham or Draw (vs Watford),-154
+SKIP,60,eSports GenG vs JDG Map 1 u30.5 kills,-182
 SKIP,60,eSports LYON game 1 ML + Lyon 1st Dragon (vs LYON),129
-SKIP,60,Football Catanzora or draw (vs Modena) + Venezia ML (vs Padova),-120
+SKIP,60,Football FC Dordrecht vs Top Oss u3.0 asian total goals,-129
+SKIP,60,"Football Bayer Leverkusen +1.0, +1.5 (vs Arsenal)",130
 SKIP,60,Football Lokomotiv Sofia vs Septemvri Sofia o2.5,105
 SKIP,60,NBA Brandon Miller o5.5 rebounds (Heat vs Hornets),106
+SKIP,60,Football Catanzora or draw (vs Modena) + Venezia ML (vs Padova),-120
 SKIP,60,eSports GenG -1.5 (vs JDG) + Lyon -1.5 (vs LOUD),-103
-SKIP,60,Football Man City vs Real Madrid: BTTS + o2.5,-125
-SKIP,60,"Football Bayer Leverkusen +1.0, +1.5 (vs Arsenal)",130
-SKIP,50,Football Real Madrid +1.5 goal spread (vs Man City),-110
 SKIP,50,Football Glimt o3.5 SOT (vs Sporting),-108
+SKIP,50,Football Haikin +2.5 saves (Sporting vs Bodo/Glimt) + Man City vs Madrid BTTS,110
 SKIP,50,NHL Bobby McMann o2.5 shots (Kraken vs Lightning),110
 SKIP,50,Football Man City to win 1H (vs Real Madrid),-119
-SKIP,50,Football BLACKPOOL o5.5 corners (vs PORT VALE),-111
+SKIP,50,Football Real Madrid +1.5 goal spread (vs Man City),-110
 SKIP,50,Football Arsenal to Win + first half u2.5 (vs Bayer Leverkusen),-200
-SKIP,50,Football Haikin +2.5 saves (Sporting vs Bodo/Glimt) + Man City vs Madrid BTTS,110
 SKIP,50,NHL Sabres ML (vs Golden Knights),106
+SKIP,50,Football Wrexham ML + o1.5 TG (vs Watford),117
 SKIP,50,NCAAB UMBC -1 (vs Howard),-110
+SKIP,50,Football BLACKPOOL o5.5 corners (vs PORT VALE),-111
 SKIP,20,Football Bodo/Glimt double chance (vs Sporting),162
+SKIP,20,Football Bodo/Glimt +1.5 AH + Bodo/Glimt o0.5 TTG (vs Sporting),200
 SKIP,20,eSports Gen.G 3-0 (vs JDG),115
 SKIP,20,NBA Pacers +16.5 (vs Knicks),-111
 SKIP,20,Football Arsenal u2.5 goals (vs LEVERKUSEN),-143
-SKIP,20,Football Bodo/Glimt +1.5 AH + Bodo/Glimt o0.5 TTG (vs Sporting),200
+SKIP,20,Tennis Tirante ML (vs Landaluce),105
