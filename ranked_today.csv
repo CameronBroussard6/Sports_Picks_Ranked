@@ -4,12 +4,12 @@ MAX BET,90,NBA Thunder -5.5 (vs Magic) + Nuggets -5.5 (76ers),-150
 VALUE,75,NBA Desmond Bane u2.5 threes (Thunder vs Magic),-154
 VALUE,75,NBA SGA assists -1.5 vs Suggs H2H (Thunder vs Magic),103
 VALUE,65,NBA Timberwolves -4.0 (vs Suns),-110
-SKIP,60,NCAAB Texas vs NC State o153.5,-167
-SKIP,60,eSports LYON game 1 ML + Lyon 1st Dragon (vs LYON),129
 SKIP,60,NBA Heat +5.5 (vs Hornets),-110
+SKIP,60,eSports LYON game 1 ML + Lyon 1st Dragon (vs LYON),129
 SKIP,60,NBA Brandon Miller o5.5 rebounds (Heat vs Hornets),106
+SKIP,60,NCAAB Texas vs NC State o153.5,-167
 SKIP,50,NHL Bobby McMann o2.5 shots (Kraken vs Lightning),110
-SKIP,50,NHL Sabres ML (vs Golden Knights),106
 SKIP,50,NCAAB UMBC -1 (vs Howard),-110
+SKIP,50,NHL Sabres ML (vs Golden Knights),106
 SKIP,20,NBA Pacers +16.5 (vs Knicks),-111
 SKIP,20,Tennis Tirante ML (vs Landaluce),105
