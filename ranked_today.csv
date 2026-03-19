@@ -1,29 +1,5 @@
 Action,Score,The Pick,Odds
-MAX BET,80,NBA Zion Williamson o19.5 Points (Pelicans vs Clippers + Thunder -4.5 (vs Nets),-141
-VALUE,75,NBA Hawks -8.0 (vs Mavericks),-110
-VALUE,75,Tennis Martin ML (vs Hayen) + Andrade ML (vs Daniel),105
-VALUE,75,Tennis Collignon ML 1st Set + ML (vs Dimitrov),182
-VALUE,75,Tennis Navone ML (vs Basilashvili),-125
 VALUE,65,Curling Switzerland W -5.5 (vs Australia W),-125
-VALUE,65,NBA Cooper Flagg o26.5 PRA (Hawks vs Mavericks),-121
-VALUE,65,NBA Nickeil Walker o19.5 (Hawks vs Mavericks),-115
 VALUE,65,NBA Rockets -2.0 (vs Lakers),-120
-SKIP,60,eSports BLG vs G2 Map 1 o28.5 Kills,-147
-SKIP,60,Basketball Vilpas -4 (vs Helsinky),-140
-SKIP,60,NBA Mmavericks vs Hawks o238.0,-105
-SKIP,60,NHL Rangers ML (vs Devils),-102
-SKIP,60,NHL Senators vs Capitals u6.5 Goals,-135
 SKIP,50,NBA LeBron James o4.5 Rebounds (Lakers vs Rockets),-150
-SKIP,50,NBA Clippers ML+108 (vs Pelicans),108
-SKIP,50,NBA Daniel Gafford 10+ rebounds (Hawks vs Mavericks),183
-SKIP,50,Football Deportivo vs Chico o2.5 goals,116
-SKIP,50,eSports BLG vs G2 o3.5 + NAVI ML (vs B8),-105
-SKIP,50,NCAAB Prairie View A&M +3.5 (vs Lehigh),-110
-SKIP,50,eSports BNk FearX -2.5 (vs Team Secret),-150
-SKIP,50,NCAAB Lehigh -3.0 (vs Prairie View),-120
-SKIP,50,eSports Falcons -1.5 (vs NRG) + Aurora Map 2 ML (vs Faze),194
-SKIP,20,Tennis Kouame vs Svajda u19.5 games,125
-SKIP,20,Tennis van de Zandschulp to win a set (vs Shapovalov),-164
-SKIP,20,NCAAB Providence -8.5 (vs Quinnipiac),-115
-SKIP,20,Volleyball Civitanova ML (vs Trentino) + Verona ML (vs Milano) + Perugia ML (vs Monza),-132
-SKIP,20,NCAAB Prairie View +3.5 (vs Lehigh),-110
+SKIP,50,NHL Stars vs Avalanche o6.0,-120
