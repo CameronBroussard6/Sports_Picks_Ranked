@@ -4,28 +4,21 @@ MAX BET,90,Curling USA W +2.5 (vs Denmark W),-139
 VALUE,75,Tennis Cobolli ML (vs Collignon),100
 VALUE,75,Tennis Bertrand ML (vs Searle),-137
 VALUE,75,NBA Celtics -7.5 (vs Grizzlies) + Knicks -11.5 (vs Nets),-121
-SKIP,60,Football Oss vs Eindhoven BTTS + o2.5 goals,-123
 SKIP,60,Football Gunma vs Shonan Bellmare : BTTS,103
 SKIP,60,Football Auckland FC to win (vs MacArthur) + Napoli o0.5 TTG (vs Cagliari),-105
 SKIP,60,NBA Jalen Brunson u8.5 assists (Knicks vs Nets),-136
-SKIP,60,Football RB Leipzig v Hoffenheim - BTTS + O 2.5,-159
 SKIP,60,Football Wolves ML (vs Trailblazers),-135
-SKIP,60,NBA Timberwolves ML (vs Trail Blazers),-148
-SKIP,60,Football Cagliari Vs Napoli O 1.5 goals + Villareal vs Real Sociedad O 1.5 goals,-125
 SKIP,60,NCAAB Kentucky -3.0 (vs Santa Clara),-110
+SKIP,60,NBA Timberwolves ML (vs Trail Blazers),-148
 SKIP,60,eSports JD Gaming -2.5 vs LYON,-110
-SKIP,60,Football Preston vs Stoke u2.5 TG + Bournemouth vs Manchester BTTS,157
-SKIP,50,Football Bournemouth vs Man U BTTS + o2.5 goals + Leipzig DC +0.5 TTG (vs Hoffenheim),147
-SKIP,50,NCAAB Kentucky vs Santa Clara 1H u73.5,-106
-SKIP,50,NCAAB Iowa vs Clemson o128.5,-110
-SKIP,50,NHL Flames ML (vs Panthers),-105
-SKIP,50,Football Villarreal CF vs Real Sociedad o2.5 TG,-130
 SKIP,50,NHL Hurricanes ML + o3.5 total goals (vs Leafs),-156
+SKIP,50,NCAAB Iowa vs Clemson o128.5,-110
+SKIP,50,NCAAB Kentucky vs Santa Clara 1H u73.5,-106
+SKIP,50,Basketball Maccabi Tel-Aviv ML (vs Asvel),-139
+SKIP,50,NHL Flames ML (vs Panthers),-105
 SKIP,50,Football GREUTHER FURTH o1.5 TG (vs KARLSRUHER),133
 SKIP,50,Football Dublin vs Cok City o2.5 goals,-106
-SKIP,50,Basketball Maccabi Tel-Aviv ML (vs Asvel),-139
 SKIP,50,eSports Kscerato u8.5 headshots Map 1 (FURIA vs. Aurora),-139
 SKIP,50,eSports B8 ML (vs NRG),-182
-SKIP,50,Football Oss vs FC Eindhoven o10.5 corners,-125
 SKIP,35,NCAAB Akron +7.5 (vs Texas Tech),-110
 SKIP,20,Golf Xander Schauffele u70.5 strokes + Amen Thompson o18.5 pts (Rockets vs Hawks),190
