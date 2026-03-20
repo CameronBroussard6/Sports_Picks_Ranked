@@ -1,14 +1,21 @@
 Action,Score,The Pick,Odds
-VALUE,65,NBA Hornets -3.5 (vs Magic),-155
-SKIP,60,NBA Bub Carrington o11.5 points (Wizards vs Pistons),120
-SKIP,60,NCAAB Texas A&M +3.0 (vs SMC),-110
-SKIP,60,NCAAB VCU +4.5 (vs North Carolina),-110
-SKIP,60,NHL Lightning -1.5 (vs Canucks),-106
-SKIP,60,NHL Cole Caufield o0.5 points (Canadiens vs Red Wings,-200
-SKIP,60,NBA Stephon Castle o11.5 Rebounds + Assists (Spurs vs Suns),-125
-SKIP,60,NBA 76ers -3.5 (vs Kings),-116
-SKIP,50,NBA Oso Ighodaro 4+ assists (Suns vs Spurs),124
-SKIP,50,NCAAB BYU -2.0 (vs Texas),-120
-SKIP,50,NHL Kraken ML (vs Predators),116
-SKIP,50,NCAAB UGA ML (vs Saint Louis),-148
-SKIP,50,NCAAB North Dakota State vs Michigan State o144.0,-110
+MAX BET,90,Basketball Adelaide vs Western Bulldogs o193.5,-110
+VALUE,75,Tennis Bertrand ML (vs Searle),-137
+SKIP,60,Football Gunma vs Shonan Bellmare : BTTS,103
+SKIP,60,Football Oss vs Eindhoven BTTS + o2.5 goals,-123
+SKIP,60,Rugby Faalago ATTS (Melbourne Storm vs Brisbane Broncos),-120
+SKIP,60,NBA Jalen Brunson u8.5 assists (Knicks vs Nets),-136
+SKIP,60,Football RB Leipzig v Hoffenheim - BTTS + O 2.5,-159
+SKIP,60,Football Cagliari Vs Napoli O 1.5 goals + Villareal vs Real Sociedad O 1.5 goals,-125
+SKIP,60,Football Wolves ML (vs Trailblazers),-135
+SKIP,60,eSports JD Gaming -2.5 vs LYON,-110
+SKIP,50,NCAAB Iowa vs Clemson o128.5,-110
+SKIP,50,Football Bournemouth vs Man U BTTS + o2.5 goals + Leipzig DC +0.5 TTG (vs Hoffenheim),147
+SKIP,50,Rugby Penrith Panthers -2.5 1st half line (vs Sydney Roosters),-105
+SKIP,50,Basketball Maccabi Tel-Aviv ML (vs Asvel),-139
+SKIP,50,Football GREUTHER FURTH o1.5 TG (vs KARLSRUHER),133
+SKIP,50,Football Dublin vs Cok City o2.5 goals,-106
+SKIP,50,NBA Timberwolves ML (vs Trail Blazers),-148
+SKIP,50,eSports Kscerato u8.5 headshots Map 1 (FURIA vs. Aurora),-139
+SKIP,50,Football Oss vs FC Eindhoven o10.5 corners,-125
+SKIP,20,Rugby Penrith Panthers ML (vs Sydney Roosters),-192
