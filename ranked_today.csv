@@ -1,15 +1,14 @@
 Action,Score,The Pick,Odds
-VALUE,75,NCAAB VCU +2.5 (vs North Carolina),-110
 VALUE,65,NBA Hornets -3.5 (vs Magic),-155
 SKIP,60,NBA Bub Carrington o11.5 points (Wizards vs Pistons),120
-SKIP,60,NBA Stephon Castle o11.5 Rebounds + Assists (Spurs vs Suns),-125
 SKIP,60,NCAAB Texas A&M +3.0 (vs SMC),-110
-SKIP,60,NBA 76ers -3.5 (vs Kings),-116
 SKIP,60,NCAAB VCU +4.5 (vs North Carolina),-110
 SKIP,60,NHL Lightning -1.5 (vs Canucks),-106
 SKIP,60,NHL Cole Caufield o0.5 points (Canadiens vs Red Wings,-200
-SKIP,50,NCAAB UGA ML (vs Saint Louis),-148
-SKIP,50,NHL Kraken ML (vs Predators),116
-SKIP,50,NCAAB North Dakota State vs Michigan State o144.0,-110
+SKIP,60,NBA Stephon Castle o11.5 Rebounds + Assists (Spurs vs Suns),-125
+SKIP,60,NBA 76ers -3.5 (vs Kings),-116
 SKIP,50,NBA Oso Ighodaro 4+ assists (Suns vs Spurs),124
 SKIP,50,NCAAB BYU -2.0 (vs Texas),-120
+SKIP,50,NHL Kraken ML (vs Predators),116
+SKIP,50,NCAAB UGA ML (vs Saint Louis),-148
+SKIP,50,NCAAB North Dakota State vs Michigan State o144.0,-110
