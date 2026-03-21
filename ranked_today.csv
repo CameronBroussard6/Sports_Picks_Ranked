@@ -2,10 +2,11 @@ Action,Score,The Pick,Odds
 MAX BET,95,NCAAB Michigan State -4.5 (vs Louisville),-112
 MAX BET,90,Curling South Korea W ML (vs Sweden W),100
 MAX BET,80,NCAAB Michigan State -4.5 (vs Louisville),-110
-VALUE,75,Football Japan W -1.0 AH (vs Australia W),-130
 VALUE,75,Football Mallorca +2.5 saves + Mallorca +1.5 team total cards (vs Elche),110
 VALUE,75,NCAAB St Louis vs Michigan CBB u161.5,-110
+VALUE,75,Football Japan W -1.0 AH (vs Australia W),-130
 VALUE,65,Tennis Ugo Humbert ML (vs Gabriel Diallo),-114
+VALUE,65,UFC Dyer ML (vs Oliveira) + Riley ML (vs Aswell Jr.),-130
 VALUE,65,Tennis Rublev ML ( v A.Tabilo),-200
 VALUE,65,NBA Bilal Coulibaly o11.5 points (Wizards vs Thunder),-130
 VALUE,65,NBA Nickeil Walker o18.5 points (Warriors vs Hawks),-113
@@ -27,10 +28,10 @@ SKIP,50,NCAAB Duke vs TCU o138.5,-115
 SKIP,50,Football Parma vs Cremonese o2.5 goals,124
 SKIP,50,NASCAR Austin Hill to place higher than Sam Mayer,-110
 SKIP,50,NBA Moussa Diabate 11+ rebounds (Grizzlies vs Hornets),199
-SKIP,20,Rugby Leinster ML (vs Glasgow Warriors),-125
 SKIP,20,Football Henan vs Wuhan Three Towns o2.5 TG + Nashville vs Orlando o2.5 TG,107
-SKIP,20,eSports TNC Pro Team +1.5 Maps (vs Aurora Gaming PH),-108
-SKIP,20,NHL Sabres ML (vs Kings),-115
+SKIP,20,Rugby Leinster ML (vs Glasgow Warriors),-125
 SKIP,20,Cycling Jasper Philipsen top 10 (Milano-Sanremo),115
 SKIP,20,NHL Maple Leafs vs Senators o5.5,-142
+SKIP,20,eSports TNC Pro Team +1.5 Maps (vs Aurora Gaming PH),-108
+SKIP,20,NHL Sabres ML (vs Kings),-115
 SKIP,20,NCAAB Michigan -12.5 (vs Saint Louis),-110
