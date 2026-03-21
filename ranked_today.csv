@@ -1,22 +1,28 @@
 Action,Score,The Pick,Odds
 MAX BET,80,AFL Fremantle vs Melbourne o192.5,-110
 VALUE,75,Rugby Mitchell ATTS (South Sydney Rabbitohs vs Wests Tigers),100
+VALUE,75,Football Japan W -1.0 AH (vs Australia W),-130
+VALUE,75,NCAAB St Louis vs Michigan CBB u161.5,-110
 VALUE,75,Tennis Rublev ML ( v A.Tabilo),-200
 VALUE,75,Football Liverpool ML (vs Brighton),128
-VALUE,75,NCAAB St Louis vs Michigan CBB u161.5,-110
 VALUE,75,Football Liverpool ML (vs Brighton),-110
-SKIP,60,Football Bayern Munich goal range 2-6 (vs Union Berlin) + Ipswich 4+ corners (vs Millwall),-196
-SKIP,60,Football Ingolstadt vs Alemannia Aachen BTTS + o2.5 goals,-120
-SKIP,60,UFC Michael Page to win by Decision (vs Sam Patterson),200
+VALUE,65,Tennis Ugo Humbert ML (vs Gabriel Diallo),-114
+SKIP,60,UFC Michael Page ML o1.5 (vs Sam Patterson),160
 SKIP,60,NHL Macklin Celebrini o0.5 goals (Flyers vs Sharks),120
+SKIP,60,UFC Michael Page to win by Decision (vs Sam Patterson),200
+SKIP,60,Football Ingolstadt vs Alemannia Aachen BTTS + o2.5 goals,-120
+SKIP,60,eSports Zweih o12.5 Kills Map 1 (PARIVISION vs Spirit) + Vitality Map 2 ML (vs MongolZ),-105
+SKIP,60,Football Bayern Munich goal range 2-6 (vs Union Berlin) + Ipswich 4+ corners (vs Millwall),-196
 SKIP,60,Rugby Mitchell ATTS South Sydney Rabbitohs vs West Tigers,100
 SKIP,60,Football UNION BERLIN +2.5 (vs BAYERN MUNICH),-137
+SKIP,60,UFC Evloev 5+ takedowns (vs Murphy),-190
 SKIP,50,Football Gamba Osaka ML (vs Avispa Fukuoka),120
 SKIP,50,Rugby Cronulla Sharks -5.5 (vs Redcliffe Dolphins),-133
-SKIP,50,Football Union Berlin vs Bayern Munich BTTS,-111
-SKIP,50,NBA Lakers -3.5 (vs Magic),-102
-SKIP,50,NCAAB Duke vs TCU o138.5,-115
 SKIP,50,Football Auckland FC vs Macarthur FC over 1.5 Goals+Elche Vs Mallorca over 1.5 Goals,-159
+SKIP,50,NCAAB Duke vs TCU o138.5,-115
+SKIP,50,NBA Lakers -3.5 (vs Magic),-102
+SKIP,50,Football Union Berlin vs Bayern Munich BTTS,-111
 SKIP,50,Football Parma vs Cremonese o2.5 goals,124
 SKIP,20,Football Henan vs Wuhan Three Towns o2.5 TG + Nashville vs Orlando o2.5 TG,107
 SKIP,20,Rugby Cronulla Sharks ML (vs Dolphins) + Sydney Kings ML (vs Adelaide 36ers),-102
+SKIP,20,NCAAB Michigan -12.5 (vs Saint Louis),-110
