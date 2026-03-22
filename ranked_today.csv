@@ -1,13 +1,11 @@
 Action,Score,The Pick,Odds
-MAX BET,80,Curling Sweden W ML (vs Japan W),120
 VALUE,75,NCAAB Virginia +1.0 (vs Tennessee),-110
-VALUE,75,eSports Furia -1.5 map handicap (vs NRG),-125
 VALUE,75,NBA Deni Avdija o12.5 Rebounds + Assists (Trail Blazers vs Nuggets),-130
 VALUE,75,NCAAB Virginia ML (vs Tennessee),-106
 VALUE,65,NCAAB Virginia ML (vs Tennessee),-105
 VALUE,65,NHL Luke Evangelista o2.5 sog (Predators vs Blackhawks),160
-SKIP,60,Football Real Madrid vs Atletico Madrid BTTS + u13.5 corners,-125
 SKIP,60,NBA Jrue Holiday u3.5 1Q points + 1Q u61.5 (Trail Blazers vs Nuggets),183
+SKIP,60,Football Real Madrid vs Atletico Madrid BTTS + u13.5 corners,-125
 SKIP,60,NCAAB Arizona -2.5 (vs Utah State) + Florida ML (vs Iowa),-149
 SKIP,60,Golf Sungjae Im to beat Brandy Snedeker H2H (Valspar Championship),115
 SKIP,60,NBA Devin booker o25.5 points (Suns vs Raptors),-112
@@ -16,11 +14,11 @@ SKIP,60,Football Atletico Madrid double chance (vs Real Madrid),100
 SKIP,60,NBA Knicks -20.5 (vs Wizards),-115
 SKIP,60,NHL Avalanches vs Capitals u6.5 goals,-135
 SKIP,60,NHL Sabres ML (vs Ducks),-104
-SKIP,60,eSports Br0 U 15.5 Kills Map 1 (FURIA vs NRG),-139
 SKIP,60,NBA DeMar DeRozan 20+ points (Kings vs Nets),-117
+SKIP,60,Football LEGIA vs RAKOW BTTS,-127
 SKIP,50,Football Kashima Antlers -1 Asian (vs JEF United),100
 SKIP,50,NCAAB Iowa +10 (vs Florida),-110
 SKIP,50,NASCAR Hamlin to place higher than Larson (NASCAR O'Reilly Series Sport Clips 200),110
 SKIP,20,Football Real Madrid vs Atletico Madrid BTTS + o2.5 goals,-125
-SKIP,20,NBA Toumani Camara u12.5 points (Trail Blazers vs Nuggets),-125
 SKIP,20,Multi Fils ML (vs Tsitsipas) + Jaylen Brown 10+ R+A (Celtics vs Timberwolves),116
+SKIP,20,NBA Toumani Camara u12.5 points (Trail Blazers vs Nuggets),-125
