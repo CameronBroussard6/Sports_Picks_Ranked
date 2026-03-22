@@ -1,6 +1,7 @@
 Action,Score,The Pick,Odds
 MAX BET,80,Curling Sweden W ML (vs Japan W),120
 MAX BET,80,Football Tottenham ML (vs Nottingham),130
+VALUE,75,NCAAB Virginia +1.0 (vs Tennessee),-110
 VALUE,75,Football N.E.C vs Heerenveen o3.25 (asian goal line),-143
 VALUE,75,Football Tottenham +0.5 goals 1H (vs Nottingham) + Atlético +0.5 TTG (vs Real Madrid),187
 VALUE,75,NBA Deni Avdija o12.5 Rebounds + Assists (Trail Blazers vs Nuggets),-130
@@ -34,8 +35,8 @@ SKIP,50,Tennis Fritz vs Opelka o25.5 games,-137
 SKIP,50,Football Aston Villa vs West Ham u2.75 asian goal line,-111
 SKIP,50,Football Barcelona -1.5 (vs Rayo Vallecano),-139
 SKIP,20,Football Man City to lift the cup (vs Arsenal),110
+SKIP,20,Football Perth Glory vs Melbourne City - Under 10.5 Total Corners,-172
 SKIP,20,Football Real Madrid 1H ML (vs Atletico Madrid),137
 SKIP,20,NBA Toumani Camara u12.5 points (Trail Blazers vs Nuggets),-125
 SKIP,20,NCAAB Iowa St -4.5 (vs Kentucky),-115
-SKIP,20,Football Perth Glory vs Melbourne City - Under 10.5 Total Corners,-172
 SKIP,20,NCAAB Miami +7.5 (vs Purdue),-105
