@@ -1,23 +1,23 @@
 Action,Score,The Pick,Odds
 VALUE,75,Football Japan W -1.0 AH (vs Australia W),-130
 VALUE,65,Tennis Ugo Humbert ML (vs Gabriel Diallo),-114
-VALUE,65,UFC Dyer ML (vs Oliveira) + Riley ML (vs Aswell Jr.),-130
 VALUE,65,NBA Nickeil Walker o18.5 points (Warriors vs Hawks),-113
 VALUE,65,Tennis Rublev ML ( v A.Tabilo),-200
 VALUE,65,NBA Bilal Coulibaly o11.5 points (Wizards vs Thunder),-130
+VALUE,65,UFC Dyer ML (vs Oliveira) + Riley ML (vs Aswell Jr.),-130
 SKIP,60,UFC Michael Page ML o1.5 (vs Sam Patterson),160
 SKIP,60,NCAAB Texas A&M +10.5 (vs Houston),-110
-SKIP,60,UFC Michael Page to win by Decision (vs Sam Patterson),200
-SKIP,60,UFC Evloev 5+ takedowns (vs Murphy),-190
-SKIP,60,NCAAB Duke -11.5 (vs TCU),-105
 SKIP,60,eSports Zweih o12.5 Kills Map 1 (PARIVISION vs Spirit) + Vitality Map 2 ML (vs MongolZ),-105
-SKIP,50,NBA Lakers -3.5 (vs Magic),-102
+SKIP,60,NCAAB Duke -11.5 (vs TCU),-105
+SKIP,60,UFC Evloev 5+ takedowns (vs Murphy),-190
+SKIP,60,UFC Michael Page to win by Decision (vs Sam Patterson),200
 SKIP,50,NCAAB Duke vs TCU o138.5,-115
+SKIP,50,NBA Lakers -3.5 (vs Magic),-102
 SKIP,50,NASCAR Austin Hill to place higher than Sam Mayer,-110
 SKIP,50,NHL Red Wings vs Bruins u6.5,-145
 SKIP,50,NBA Moussa Diabate 11+ rebounds (Grizzlies vs Hornets),199
 SKIP,20,eSports TNC Pro Team +1.5 Maps (vs Aurora Gaming PH),-108
-SKIP,20,Rugby Leinster ML (vs Glasgow Warriors),-125
-SKIP,20,NHL Maple Leafs vs Senators o5.5,-142
-SKIP,20,NCAAB Chris Cenac Jr o8.5 rebounds (Texas A&M vs Houston),-150
 SKIP,20,NCAAB Nebraska ML (vs Vanderbilt),110
+SKIP,20,NCAAB Chris Cenac Jr o8.5 rebounds (Texas A&M vs Houston),-150
+SKIP,20,NHL Maple Leafs vs Senators o5.5,-142
+SKIP,20,Rugby Leinster ML (vs Glasgow Warriors),-125
