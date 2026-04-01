@@ -1,1 +1,29 @@
 Action,Score,The Pick,Odds
+MAX BET,90,Multi Bayern Munich W ML (vs Manchester United W) + Dodgers ML (vs Guardians),101
+MAX BET,90,Curling Switzerland ML (vs Canada),150
+VALUE,75,Tennis Bennani +6.5 games (vs Hanfmann),-124
+VALUE,75,Cricket Multan Sultans ML (vs Hyderabad Kingsmen),-164
+VALUE,75,NBA Paul George o2.5 3PM (76ers vs Wizards),-105
+VALUE,65,NCAAB Colorado vs Oklahoma u166.0,-110
+VALUE,65,MLB Shohei Ohtani o0.5 walks (Guardians vs Dodgers),-160
+VALUE,65,NBA Nickeil Alexander-Walker o18.5 (Hawks vs Magic),-130
+VALUE,65,NBA Hawks -4.5 (vs Magic),-110
+VALUE,65,Football Chelsea W o5.5 corners (vs Arsenal W),-152
+SKIP,60,NBA Hawks -4.0 (vs Magic),-110
+SKIP,60,eSports Aurora -1.5 maps (vs Alliance),-106
+SKIP,60,MLB Rays vs Brewers NRSI,-169
+SKIP,60,NBA Karl Anthony-Towns o11.5 rebounds (Grizzlies vs Knicks),-125
+SKIP,60,Cricket Lucknow Super Giants to score the most sixes (vs Delhi Capitals),-105
+SKIP,60,Cricket Aiden Markram o1.5 fours (Lucknow SuperGiants vs Delhi Capitals),-152
+SKIP,60,MLB Cristopher Sanchez o18.5 outs (Nationals vs Phillies),110
+SKIP,60,Football Hearts W vs Celtic W over 2.5 TG,-111
+SKIP,60,NBA Jayson Tatum 9+ rebounds (Celtics vs Heat),104
+SKIP,60,MLB Giants vs Dodgers u8.0,-110
+SKIP,60,Cricket Delhi Capitals ML (vs Lucknow Super Giants),-104
+SKIP,50,MLB Blue Jays ML (vs Rockies) + Marlins ML (vs White Sox),140
+SKIP,50,MLB Shohei Ohtani o0.5 RBI (Guardians vs Dodgers),130
+SKIP,50,Football Bayern Munich W vs Manchester United W o3.5 TG,100
+SKIP,50,Football Bayern Munchen W vs Manchester United W o2.5 TG,105
+SKIP,50,Football Andorra vs Malaga BTTS,-135
+SKIP,20,MLB Blue Jays ML + Blue Jays race to 4 runs (vs Rockies),-133
+SKIP,20,MLB Pirates vs Reds NRSI,-172
