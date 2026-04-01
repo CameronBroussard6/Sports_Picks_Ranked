@@ -1,11 +1,13 @@
 Action,Score,The Pick,Odds
-VALUE,75,Cricket Sameer Minhas o17.5 runs (Islamabad United vs Peshawar Zalmo),-118
-VALUE,65,MLB Yankees vs Mariners u7.0,-120
-VALUE,65,MLB Logan Webb o5.5 SO (Giants vs Padres),105
-SKIP,60,eSports Monte ML (vs Alliance),104
-SKIP,60,Football Norway draw no bet (vs Switzerland),-200
-SKIP,60,eSports Juhan o2.5 deaths M1 (OMG vs JDG) + Alliance +1.5 maps (vs Monte),-120
-SKIP,60,MLB Shohei Ohtani o0.5 RBI (Guardians vs Dodgers),110
-SKIP,60,NBA Brook Lopez 2+ blocks (Trail Blazers vs Clippers),103
-SKIP,50,NBA James Harden o30.5 PRA (Lakers vs Cavaliers),-160
-SKIP,20,NBA Keon Ellis o6.5 points (Lakers vs Cavaliers),-112
+VALUE,75,Cricket Multan Sultans ML (vs Hyderabad Kingsmen),-164
+VALUE,75,Tennis Bennani +6.5 games (vs Hanfmann),-124
+VALUE,65,NCAAB Colorado vs Oklahoma u166.0,-110
+VALUE,65,KBO Tigers vs Twins o9.5,100
+VALUE,65,Football Chelsea W o5.5 corners (vs Arsenal W),-152
+SKIP,60,Football Hearts W vs Celtic W over 2.5 TG,-111
+SKIP,60,NBA Jayson Tatum 9+ rebounds (Celtics vs Heat),104
+SKIP,60,Cricket Lucknow Super Giants to score the most sixes (vs Delhi Capitals),-105
+SKIP,50,Football Machida Zelvia vs FC Tokyo BTTS,-111
+SKIP,50,Football Iraq double chance (vs Bolivia) + Belgium tie no bet (vs Mexico),120
+SKIP,50,Football Bayern Munchen W vs Manchester United W o2.5 TG,105
+SKIP,20,Tennis Medjedovic ML (vs Kopriva),-140
