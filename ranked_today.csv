@@ -1,11 +1,33 @@
 Action,Score,The Pick,Odds
-VALUE,75,Football Castellon vs Cultural y Deportiva Leonesa o3,-139
-VALUE,75,NBA Quentin Grimes u2.5 3P (76ers vs Thunder),-170
-VALUE,75,Football Union Berlin (W) Vs Werder Bremen (W) BTTS,-164
-SKIP,60,Tennis Tiafoe ML (vs Mensik),129
-SKIP,60,NHL Senators (vs Rangers),-192
-SKIP,60,NBA Thunder -15.5 (vs 76ers),-110
-SKIP,60,NBA Ryan Rollins o17.5 points (Bucks vs Clippers),-118
-SKIP,60,NBA Onyeka Okongwu 21+ PR (Grizzlies @ Hawks),-127
-SKIP,60,Football Boyaca Chico vs Tolima BTTS,101
-SKIP,60,eSports Techno u12.5 Kills Map 2 (Spirit vs. MongolZ),-118
+MAX BET,90,Football Denmark o1.0 1H corners + Denmark o4.0 total corners (vs Czech Republic),-116
+VALUE,75,Cricket Sameer Minhas o17.5 runs (Islamabad United vs Peshawar Zalmo),-118
+VALUE,75,NBA Scottie Barnes 8+ assists (Raptors vs Pistons),107
+VALUE,75,MLB Blue Jays -1.5 (vs Rockies),-117
+VALUE,75,MLB Nationals vs Phillies o9.0,-120
+VALUE,75,NBA Daniel Gafford o11.5 points (Mavericks vs Bucks),-135
+VALUE,65,Curling Japan ML (vs Germany),135
+VALUE,65,MLB Logan Webb o5.5 SO (Giants vs Padres),105
+VALUE,65,MLB Yankees vs Mariners u7.0,-120
+SKIP,60,eSports Monte ML (vs Alliance),104
+SKIP,60,Football Juventude vs Novorizontino BTTS,100
+SKIP,60,Football Canada vs Tunisia u2.5 TG + Brazil vs Croatia BTTS,189
+SKIP,60,Football Deportivo ML (vs Córdoba),-118
+SKIP,60,NHL Hurricanes ML (vs Blue Jackets),-133
+SKIP,60,NHL Lightning ML (vs Canadiens),-170
+SKIP,60,Football Norway draw no bet (vs Switzerland),-200
+SKIP,60,NBA Kevin Durant o24.5 points (Rockets vs Knicks),-114
+SKIP,60,MLB Shohei Ohtani o0.5 RBI (Guardians vs Dodgers),110
+SKIP,60,eSports Juhan o2.5 deaths M1 (OMG vs JDG) + Alliance +1.5 maps (vs Monte),-120
+SKIP,60,MLB Red Sox vs Astros NRSI,-154
+SKIP,60,MLB Rangers vs Orioles o8.5,100
+SKIP,60,Ice Hockey Manitoba Moose u2.5 goals (vs Toronto Marlies),-130
+SKIP,60,NBA Brook Lopez 2+ blocks (Trail Blazers vs Clippers),103
+SKIP,50,NBA Hornets -17.5 (vs Nets),-110
+SKIP,50,NBA James Harden o30.5 PRA (Lakers vs Cavaliers),-160
+SKIP,50,NBA Rockets ML (vs Knicks),-108
+SKIP,50,NBA Suns +2.5 (vs Magic),-110
+SKIP,20,NBA Keon Ellis o6.5 points (Lakers vs Cavaliers),-112
+SKIP,20,MLB Hunter Brown o17.5 Outs (Astros vs Red Sox),-148
+SKIP,20,NBA Suns vs Magic u224.5,-110
+SKIP,20,Football Portugal draw no bet (vs USA) + Türkiye double chance (vs Kosovo),-179
+SKIP,20,MLB Yankees vs Mariners tie first inning + Dodgers ML (vs Guardians),134
