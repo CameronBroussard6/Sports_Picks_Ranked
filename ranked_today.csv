@@ -1,17 +1,8 @@
 Action,Score,The Pick,Odds
-VALUE,75,NBA Paul George o2.5 3PM (76ers vs Wizards),-105
-VALUE,65,MLB Yankees vs Mariners u7.5,-110
-VALUE,65,NBA Nickeil Alexander-Walker o18.5 (Hawks vs Magic),-130
-VALUE,65,MLB Shohei Ohtani o0.5 walks (Guardians vs Dodgers),-160
-VALUE,65,NBA Hawks -4.5 (vs Magic),-110
-VALUE,65,NCAAB Colorado vs Oklahoma u166.0,-110
-SKIP,60,NBA Hawks -4.0 (vs Magic),-110
-SKIP,60,NBA Spurs -14.0 (vs Warriors),-110
-SKIP,60,NBA Karl Anthony-Towns o11.5 rebounds (Grizzlies vs Knicks),-125
-SKIP,60,NBA Heat +4.5 (vs Celtics),-108
-SKIP,60,MLB Giants vs Padres u8.0,-110
-SKIP,60,NBA Kings u106.5 (vs Raptors),-115
-SKIP,60,NBA Jayson Tatum 9+ rebounds (Celtics vs Heat),104
-SKIP,50,NBA Kyle Filipowski 21+ P+A (Jazz vs Nuggets),125
-SKIP,20,NHL Beckett Sennecke o0.5 pts (Ducks vs Sharks),-120
-SKIP,20,MLB Yoshinobu Yamamoto o17.5 outs (Dodgers vs Guardians),-172
+MAX BET,90,Rugby Anytime Tryscorer - Isaako (Dolphins vs Sea Eagles),-115
+VALUE,75,Football OL Lyonnes o8.5 Corners (vs Wolfsburg),-143
+VALUE,75,Football Santos o1.5 (vs Remo),-149
+SKIP,60,Rugby Tom Trbojevic ATTS (Dolphins vs Sea Eagles),115
+SKIP,50,AFL Brisbane v Collingwood u175.5,-111
+SKIP,50,Rugby Dolphins -9.5 (vs Sea Eagles),-115
+SKIP,50,eSports Gentle Mates -2.5 Rounds M2 (vs 9INE),-125
