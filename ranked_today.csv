@@ -2,19 +2,13 @@ Action,Score,The Pick,Odds
 MAX BET,90,Multi Bayern Munich W ML (vs Manchester United W) + Dodgers ML (vs Guardians),101
 VALUE,75,NBA Paul George o2.5 3PM (76ers vs Wizards),-105
 VALUE,65,NBA Nickeil Alexander-Walker o18.5 (Hawks vs Magic),-130
+VALUE,65,NCAAB Colorado vs Oklahoma u166.0,-110
 VALUE,65,NBA Hawks -4.5 (vs Magic),-110
 VALUE,65,MLB Shohei Ohtani o0.5 walks (Guardians vs Dodgers),-160
-VALUE,65,Football Chelsea W o5.5 corners (vs Arsenal W),-152
-VALUE,65,NCAAB Colorado vs Oklahoma u166.0,-110
-SKIP,60,NBA Hawks -4.0 (vs Magic),-110
-SKIP,60,NBA Kings u106.5 (vs Raptors),-115
-SKIP,60,MLB Giants vs Dodgers u8.0,-110
 SKIP,60,NBA Karl Anthony-Towns o11.5 rebounds (Grizzlies vs Knicks),-125
-SKIP,60,Football Hearts W vs Celtic W over 2.5 TG,-111
-SKIP,60,MLB Cristopher Sanchez o18.5 outs (Nationals vs Phillies),110
+SKIP,60,NBA Kings u106.5 (vs Raptors),-115
+SKIP,60,NBA Hawks -4.0 (vs Magic),-110
+SKIP,60,MLB Giants vs Padres u8.0,-110
 SKIP,60,NBA Jayson Tatum 9+ rebounds (Celtics vs Heat),104
-SKIP,50,MLB Blue Jays ML (vs Rockies) + Marlins ML (vs White Sox),140
 SKIP,50,MLB Shohei Ohtani o0.5 RBI (Guardians vs Dodgers),130
-SKIP,50,MLB Mariners F5 ML (vs Yankees),110
-SKIP,20,MLB Blue Jays ML + Blue Jays race to 4 runs (vs Rockies),-133
 SKIP,20,MLB Yoshinobu Yamamoto o17.5 outs (Dodgers vs Guardians),-172
