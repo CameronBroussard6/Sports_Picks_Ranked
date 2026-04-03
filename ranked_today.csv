@@ -1,24 +1,32 @@
 Action,Score,The Pick,Odds
+MAX BET,90,NBA Sandro Mamukelashvili o16.5 PR (Raptors vs Grizzlies),-115
 MAX BET,80,MLB Yankees -1.0 (vs Marlins),-125
 VALUE,75,NBA Hawks -16.5 (vs Nets),-110
 VALUE,75,NASCAR Chandler Smith Top 5 (Truck Series Black’s Tire 200),1954
-VALUE,75,NBA Pacers vs Hornets o235.0,-110
+VALUE,75,NBA Ayo Dosunmu o15.5 points (Timberwolves vs 76ers),120
 VALUE,75,NBA Rudy Gobert 12+ rebounds (Timberwolves vs 76ers),100
+VALUE,75,NBA Pacers vs Hornets o235.0,-110
 VALUE,65,Cricket Chennai Super Kings vs Kings XI Punjab o0.5 total ducks,-179
+SKIP,60,MLB Blue Jays vs White Sox NRFI,-155
+SKIP,60,MLB Bryan Woo o6.5 strikeouts (Mariners vs Angels),-158
+SKIP,60,NHL Flyers vs Islanders o5.5 goals,-125
+SKIP,60,MLB Yankees F5 ML (vs Mariners),-135
+SKIP,60,MLB Blue Jays -1.5 (vs White Sox) +Phillies vs Rockies both to score 2+ runs,133
+SKIP,60,NCAAB South Carolina W u64.5 (vs UConn W),-115
 SKIP,60,NBA Franz Wager o14.5 points (Magic vs Mavericks),-140
 SKIP,60,Football Paris ML o2.5 TG (vs Toulouse),-161
-SKIP,60,MLB Bryan Woo o6.5 strikeouts (Mariners vs Angels),-158
-SKIP,60,MLB Blue Jays -1.5 (vs White Sox) +Phillies vs Rockies both to score 2+ runs,133
-SKIP,60,NHL Flyers vs Islanders o5.5 goals,-125
+SKIP,50,MLB Mets ML (vs Giants),-135
 SKIP,50,Football Rayo Vallecano vs Elche BTTS + o2.5 TG,-120
 SKIP,50,NBA Scottie Barnes o8.5 AST (Raptors vs Grizzlies),102
 SKIP,50,Football PSG -1.5 AH (vs Toulouse),-141
-SKIP,50,MLB Mets ML (vs Giants),-135
-SKIP,50,MLB Blue Jays -1.5 (vs White Sox),-118
+SKIP,50,Football Coventry o5.5 corners (vs Derby County),-167
 SKIP,50,MLB Marlins vs Yankees o8.0,-105
+SKIP,50,MLB Blue Jays -1.5 (vs White Sox),-118
 SKIP,50,Ice Hockey Montreal Victoire vs Ottawa Charge u4.5 TG,-125
+SKIP,50,Football Finn vs Cork o2.5 goals,100
 SKIP,50,MLB Mets vs Giants NRSI,-158
 SKIP,50,eSports KT +1.5 (vs Gen.G),165
 SKIP,20,Cricket Punjab Kings ML (vs Chennai Supper Kings),-145
 SKIP,20,NBA Celtics -17.0 (vs Bucks),-110
 SKIP,20,MLB Tigers ML (vs Cardinals),-170
+SKIP,20,NCAA Baseball Florida State ML (vs Virginia),105
