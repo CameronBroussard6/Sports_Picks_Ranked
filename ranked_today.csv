@@ -2,24 +2,22 @@ Action,Score,The Pick,Odds
 MAX BET,80,Football Worthing -1.5 AH (vs Eastbourne Borough F.C.),-103
 VALUE,75,Tennis Ugo Carabelli ML (vs Van Assche),-102
 VALUE,75,NASCAR Chandler Smith Top 5 (Truck Series Black’s Tire 200),1954
-VALUE,75,Football Arema vs Malut United o2.5 TG,-130
 VALUE,75,NBA Rudy Gobert 12+ rebounds (Timberwolves vs 76ers),100
 VALUE,65,Tennis Carabelli ML (vs Van Assche),-143
 VALUE,65,Cricket Chennai Super Kings vs Kings XI Punjab o0.5 total ducks,-179
-SKIP,60,Football Doncaster draw no bet (vs Manfield),-152
 SKIP,60,MLB Blue Jays -1.5 (vs White Sox) +Phillies vs Rockies both to score 2+ runs,133
 SKIP,60,Cricket Ruturaj Gaikwad o0.5 sixes (Chennai Super Kings vs Punjab Kings),-120
-SKIP,60,MLB Shohei Ohtani o0.5 RBIs (Dodgers vs Nationals),-115
-SKIP,60,NHL Flyers vs Islanders o5.5 goals,-125
-SKIP,60,Football Hvidovre vs Hillerod BTTS,-125
 SKIP,60,MLB Bryan Woo o6.5 strikeouts (Mariners vs Angels),-158
+SKIP,60,NHL Flyers vs Islanders o5.5 goals,-125
+SKIP,60,MLB Shohei Ohtani o0.5 RBIs (Dodgers vs Nationals),-115
+SKIP,60,Football Hvidovre vs Hillerod BTTS,-125
 SKIP,50,Curling Italy +2.5 (vs Canada),-105
-SKIP,50,Football Rayo Vallecano vs Elche BTTS + o2.5 TG,-120
+SKIP,50,MLB Mets ML (vs Giants),-135
 SKIP,50,MLB Marlins vs Yankees o8.0,-105
 SKIP,50,Darts Jarred Cole -1.5 legs (vs Danny van Trijp),-143
+SKIP,50,Football Rayo Vallecano vs Elche BTTS + o2.5 TG,-120
 SKIP,50,Ice Hockey Montreal Victoire vs Ottawa Charge u4.5 TG,-125
-SKIP,50,MLB Mets vs Giants NRSI,-158
 SKIP,50,eSports KT +1.5 (vs Gen.G),165
+SKIP,50,MLB Mets vs Giants NRSI,-158
 SKIP,20,Cricket Punjab Kings ML (vs Chennai Supper Kings),-145
 SKIP,20,MLB Tigers ML (vs Cardinals),-170
-SKIP,20,Tennis Prizmic ML (vs Altmaier),-140
