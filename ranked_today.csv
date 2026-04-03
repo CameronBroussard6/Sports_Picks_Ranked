@@ -1,19 +1,15 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA Derik Queen o8.5 points (Pelicans vs Trailblazers),-117
-VALUE,75,NBA Hornets -5.5 (vs Suns),-110
-VALUE,75,NHL Jets ML (vs Stars),125
-VALUE,75,NCAAB Auburn ML + Auburn u84.5 (vs Illinois State),-110
 VALUE,75,NBA Trail Blazers -6.5 (vs Pelicans),-110
 VALUE,65,Tennis Merida ML (vs Mannarino) + Baez ML (vs Drouget),-143
-SKIP,60,NBA Daniss Jenkins 10+ rebounds + assists (Timberwolves vs Pistons),-130
-SKIP,60,MLB Mets vs Giants NRSI,-154
-SKIP,50,NCAAB Rutgers vs Creighton u151.5,-108
+SKIP,60,NBA Stephon Castle o32.5 P+R+A (Spurs vs Clippers),-111
+SKIP,60,NBA Ayo Dosonmu o9.5 R+A (Timberwolves vs Pistons),-124
 SKIP,50,NBA Austin Reeves o28.5 P+R+A (Lakers vs Thunder),-122
-SKIP,50,MLB Braves ML (vs Diamondbacks),-120
 SKIP,50,MLB Maikel Garcia o0.5 RBIs (Twins vs Royals),-190
 SKIP,50,Rugby South Sydney vs Bulldogs either team to win by 1-12,-154
-SKIP,50,NBA Pistons -3.5 (vs Timberwolves),-105
-SKIP,20,NHL Cole Caufield o0.5 goals (Canadiens vs Rangers),125
-SKIP,20,NBA Brandon Miller u19.5 points (Hornets vs Suns),-120
-SKIP,20,Tennis Dino Prizmic ML (vs Daniel Altmaier),-140
+SKIP,50,NCAAB Rutgers vs Creighton u151.5,-108
+SKIP,50,MLB Cole Ragans o7.5 strikeouts (Twins vs Royals),118
+SKIP,50,MLB Braves ML (vs Diamondbacks),-120
 SKIP,20,Football Castrumfavara vs Acireale u2.0 TG,108
+SKIP,20,NBA LeBron James u29.5 P+R+A (Lakers vs Thunder),-110
+SKIP,20,NCAAB Illinois State +12.5 (vs Auburn),-120
