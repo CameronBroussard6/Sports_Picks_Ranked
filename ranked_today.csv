@@ -4,19 +4,17 @@ MAX BET,80,NBA Thunder 1H -11.5 (vs Jazz),-110
 VALUE,75,NBA Max Strus p12.5 points (Cavaliers vs Pacers),-115
 VALUE,75,NBA Coby White 3+ rebounds (Hornets @ Timberwolves),-153
 VALUE,75,NBA Thunder o120.5 (vs Jazz),-115
-SKIP,60,NBA Bronny James o5.5p (Lakers vs Mavericks),-125
 SKIP,60,NCAAB South Carolina -3.5 (vs UCLA),-110
+SKIP,60,NBA Bronny James o5.5p (Lakers vs Mavericks),-125
 SKIP,60,UFC Estevam 1+ takedowns in R1 (vs Ewing) + Jandiroba 1+ takedowns R1 (vs Ricci),105
-SKIP,60,NBA Ajay Mitchell o10.5 points + Jared Mccain o6.5 points (Thunder vs Jazz),-105
-SKIP,60,MLB Cardinals vs Tigers o8.0,100
-SKIP,60,MLB Chris Paddack o3.5 strikeouts (Marlins @ Yankees),-141
-SKIP,60,NBA Magic ML (vs Pelicans),-190
 SKIP,60,Multi South Carolina W ML (vs UCLA W) + Yankees ML (vs Marlins),110
+SKIP,60,MLB Cardinals vs Tigers o8.0,100
+SKIP,60,NBA Ajay Mitchell o10.5 points + Jared Mccain o6.5 points (Thunder vs Jazz),-105
+SKIP,60,NBA Magic ML (vs Pelicans),-190
+SKIP,60,MLB Chris Paddack o3.5 strikeouts (Marlins @ Yankees),-141
 SKIP,60,Football Inter Milan vs Roma o2.5,-101
 SKIP,50,MLB Javier Baez o0.5 hits (Cardinals vs Tigers),-190
 SKIP,50,MLB Athletics F5 ML (vs Astros),110
 SKIP,50,NBA Pacers u53.5 first half points (vs Cavaliers),-125
-SKIP,20,MLB Diamondbacks vs Braves o9.5,105
-SKIP,20,Golf Robert MacIntyre to Win — Valero Texas Open,-200
 SKIP,20,Rugby Bordeaux -28.5 (vs Leicester Tigers),-110
-SKIP,20,Tennis Muller ML (vs Arnaldi),-128
+SKIP,20,MLB Diamondbacks vs Braves o9.5,105
