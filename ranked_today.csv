@@ -1,16 +1,20 @@
 Action,Score,The Pick,Odds
+MAX BET,90,NBA Dennis Schroder o5.5 RA (Pacers vs Cavaliers),102
+MAX BET,90,Tennis Comesana ML (vs Quinn),-104
 MAX BET,80,NBA Thunder 1H -11.5 (vs Jazz),-110
-MAX BET,80,NBA Dennis Schroder o5.5 RA (Pacers vs Cavaliers),102
 VALUE,75,NBA Coby White 3+ rebounds (Hornets @ Timberwolves),-153
 VALUE,75,NBA Thunder o120.5 (vs Jazz),-115
-SKIP,60,NBA Jakob Poeltl o9.5 pts (Raptors @ Celtics),-108
-SKIP,60,UFC Estevam 1+ takedowns in R1 (vs Ewing) + Jandiroba 1+ takedowns R1 (vs Ricci),105
-SKIP,60,NCAAB South Carolina -3.5 (vs UCLA),-110
+VALUE,65,MLB Orioles vs Pirates u8.5,-110
+VALUE,65,MLB Orioles vs Pirates u8.5,-112
 SKIP,60,NBA Jayson Tatum o8.5 rebounds (Raptors @ Celtics),-140
+SKIP,60,NBA Jakob Poeltl o9.5 pts (Raptors @ Celtics),-108
+SKIP,60,NCAAB South Carolina -3.5 (vs UCLA),-110
+SKIP,60,UFC Estevam 1+ takedowns in R1 (vs Ewing) + Jandiroba 1+ takedowns R1 (vs Ricci),105
 SKIP,60,MLB Chris Paddack o3.5 strikeouts (Marlins @ Yankees),-141
+SKIP,60,NBA Magic ML (vs Pelicans),-190
 SKIP,60,Football Inter Milan vs Roma o2.5,-101
 SKIP,50,MLB Javier Baez o0.5 hits (Cardinals vs Tigers),-190
-SKIP,50,MLB Orioles vs Pirates u8.5,-112
-SKIP,20,MLB Blue Jays ML (vs White Sox),-150
+SKIP,50,MLB Cubs vs Guardian NRSI game 2,-150
 SKIP,20,Golf Robert MacIntyre to Win — Valero Texas Open,-200
 SKIP,20,Tennis Muller ML (vs Arnaldi),-128
+SKIP,20,MLB Blue Jays ML (vs White Sox),-150
