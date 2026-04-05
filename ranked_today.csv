@@ -1,34 +1,16 @@
 Action,Score,The Pick,Odds
-MAX BET,80,NCAAB Michigan o37.5 1st Half Points (vs Arizona),-105
 VALUE,75,Curling Sweden ML (vs Canada),-159
 VALUE,75,NBA Stephon Castle o13.5 R+A (Spurs vs Nuggets),-129
-SKIP,60,NBA Victor Wembanyama o26.5 points (Spurs vs Nuggets),-112
-SKIP,60,Multi Illinois ML (vs UConn) + Man City to Advance (vs Liverpool),141
-SKIP,60,NBA Castle 0ver 7.5 Assists (Spurs vs Nuggets) + Wemby 20+ points,110
-SKIP,60,MLB Brewers -1.5 (vs Royals),145
+SKIP,60,MLB Yankees ML (vs Marlins),-197
 SKIP,60,NCAAB Arizona +1.5 (vs Michigan),-110
-SKIP,60,NCAAB UConn ML (vs Illinois),112
-SKIP,60,MLB Pittsburgh Pirates F5 ML (vs Orioles),-105
-SKIP,60,Ice Hockey Minnesota Frost -1.5 (vs Vancouver Goldeneyes),152
 SKIP,60,MLB Giants vs Mets NRSI,-164
-SKIP,60,NHL Adam Pelech under 1.5 blocked shots ( Islanders vs Hurricanes),-105
 SKIP,60,eSports T1 vs HLE o2.5 games,-117
-SKIP,50,NASCAR Jesse Love or Justin Allgaier to win,122
-SKIP,50,Football Shonan Bellmare -1 AH (vs Tochigi SC),115
-SKIP,50,NBA Julian Champagnie o9.5 points (Spurs vs Nuggets),-118
-SKIP,50,UFC Chris Duncan 2+ Takedowns vs Renato Moicano,175
+SKIP,60,NHL Adam Pelech under 1.5 blocked shots ( Islanders vs Hurricanes),-105
 SKIP,50,NHL Cole Caufield o0.5 goals (Canadiens vs Devils),125
+SKIP,50,UFC Chris Duncan 2+ Takedowns vs Renato Moicano,175
 SKIP,50,Cricket Washington Sundar o14.5 runs (Gujarat Titans vs Rajasthan Royals),-120
 SKIP,50,MLB Shota Imanaga u5.5 strikeouts (Guardians vs Cubs),-161
-SKIP,50,Football Porto vs Famalicao o2.5 TG,-105
-SKIP,50,NBA Victor Wembanyama o41.5 P+R+A (Spurs vs Nuggets),-120
-SKIP,50,NHL Dallas Stars ML (vs Colorado Avalanche),-105
-SKIP,50,MLB Dustin May u4.5 strikeouts (Cardinals vs Tigers),105
-SKIP,50,Cricket Pathum Nissanka u23.5 Runs (Delhi Capitals vs Mumbai Indians),-118
 SKIP,50,NCAAB Arizona ML (vs Michigan),100
 SKIP,50,eSports Saadzin u14.5 Kills Map 1 (Legacy vs PARIVISION),-133
-SKIP,20,NHL Drake Batherson over 0.5 points (Senators vs Wild),-125
-SKIP,20,Cricket Jasprit Bumrah to take 1+ wicket + Mumbai Indians ML (vs Delhi Capitals),-116
-SKIP,20,Golf Robert MacIntyre to Win (Valero Texas Open),-159
 SKIP,20,NBA Kelly Oubre Jr. o11.5 points (76ers vs Pistons),-125
-SKIP,20,NBA Victor Wembanyama o12.5R (Spurs vs Nuggets),100
+SKIP,20,Golf Robert MacIntyre to Win (Valero Texas Open),-159
