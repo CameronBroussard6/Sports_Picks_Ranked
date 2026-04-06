@@ -2,28 +2,19 @@ Action,Score,The Pick,Odds
 MAX BET,90,NBA Hawks -1.5 (vs Knicks),-110
 MAX BET,80,NCAAB Michigan 1H o36.5 (vs UConn),102
 MAX BET,80,NBA Pistons ML (vs Magic),-148
-VALUE,75,NBA Pistons ML (vs Magic),-165
 VALUE,75,NBA Trail Blazers vs Nuggets o238.0,-110
-VALUE,75,Football MIDDLESBROUGH o5.5 corners (vs SWANSEA),-120
-VALUE,65,Football Almere City FC vs FC Den Bosch o11.0 corners,110
-SKIP,60,Football Luke Ayling o0.5 Shots (Swansea vs Middlesbrough),-105
+VALUE,75,NBA Pistons ML (vs Magic),-165
 SKIP,60,MLB Christian Walker o1.5 bases (Rockies vs Astros),102
-SKIP,60,Football Napoli vs AC Milan o1.5 goals in 1H,120
-SKIP,60,NBA Victor Wembanyama o27.5 points (76ers vs Spurs),-105
 SKIP,60,NBA Paul George o16.5P (Sixers vs Spurs),-112
-SKIP,60,eSports Retchy u13.5 Kills Map 2 (BC Game vs VOCA),-147
-SKIP,60,MLB Braves vs Angels NRSI,-155
 SKIP,60,NBA Nuggets -5.5 (vs Trail Blazers),-160
-SKIP,60,Football Servette vs Luzern BTTS o2.5 TG,-137
+SKIP,60,MLB Braves vs Angels NRSI,-155
+SKIP,60,NBA Victor Wembanyama o27.5 points (76ers vs Spurs),-105
+SKIP,50,NCAAB Michigan to WIN + Over 66.5 1st Half Total Points (vs UConn),115
+SKIP,50,NCAAB Michigan 1H o35.5 (vs UConn),-135
 SKIP,50,NCAAB UConn +7.5 (vs Michigan),-122
 SKIP,50,NBA CJ McCollum u2.5 threes (Knicks vs Hawks),-126
-SKIP,50,NCAAB Michigan 1H o35.5 (vs UConn),-135
-SKIP,50,eSports B8 Map 1 ML 3-way (vs 3DMAX),-133
-SKIP,50,eSports B8 ML (vs 3DMAX) + BCG ML (vs voca),116
 SKIP,50,NBA Grizzlies +14.5 (vs Cavaliers),-110
-SKIP,50,Football Juventus ML + o1.5 TG (vs Genoa),-149
 SKIP,20,NBA Victor Wembanyama o16.5 R+A (Spurs vs Nuggets),-104
-SKIP,20,Football St. Gallen vs Zurich BTTS + o2.5 goals,-137
 SKIP,20,MLB Pirates ML (vs Padres),-136
 SKIP,20,NBA Deni Avdija u25.5 points (Trail Blazers vs Nuggets),-112
 SKIP,20,NBA Michigan ML + Tarris Reed Jr 10+ pts (vs UConn),-159
