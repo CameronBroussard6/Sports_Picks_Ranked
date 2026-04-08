@@ -2,26 +2,32 @@ Action,Score,The Pick,Odds
 MAX BET,90,NBA Nuggets 1H -13.5 (vs Grizzlies),-110
 MAX BET,90,NBA Tobias Harris o11.5 pts (Bucks vs Pistons),-130
 VALUE,75,Tennis Cobolli ML (vs Blockx),-192
+VALUE,75,MLB Reds ML (vs Marlins),113
 VALUE,75,MLB Royals vs Guardians NRSI,-165
-VALUE,65,MLB Royals ML (vs Guardians),-126
+VALUE,65,Football Barcelona -1.0 AH (vs Athletico Madrid),-119
 VALUE,65,Football PSG vs Liverpool o10.5 SOT,-125
-SKIP,60,eSports Peeping to have u11.5 frags in Map 2 (Parivision vs Wildcard Gaming),-104
 SKIP,60,NBA Trail Blazers +3.5 (vs Spurs),-110
-SKIP,60,Football Barcelona o1.5 goals + BTTS (vs Atlético Madrid),-118
-SKIP,60,MLB Astros ML (vs Rockies),-163
 SKIP,60,Football Barcelona ML (vs Atletico Madrid),-175
+SKIP,60,MLB Astros ML (vs Rockies),-163
+SKIP,60,Football Barcelona o1.5 goals + BTTS (vs Atlético Madrid),-118
+SKIP,60,MLB Aaron Nola o17.5 outs recorded (Phillies vs Mets),-147
 SKIP,60,Football Real Betis vs SC Braga BTTS,2
 SKIP,60,eSports FOKUS Map 1 ML (vs EYEBALLERS),-154
 SKIP,60,Football PSG ML (vs Liverpool),-137
 SKIP,60,MLB Bryan Woo u4.5 total hits allowed (Mariners vs Rangers),-105
-SKIP,50,Football Galatasaray ML (vs Goztepe),-115
-SKIP,50,NBA De’Aron Fox O25.5 P+A (Spurs vs Trail Blazers),-111
+SKIP,60,MLB Astros o6.5 (vs Rockies),114
 SKIP,50,UFL St. Louis Battlehawks vs Dallas Renegades o42.5 points,-110
 SKIP,50,MLB Mets vs Diamondbacks u8.0,-130
+SKIP,50,Football Galatasaray ML (vs Goztepe),-115
+SKIP,50,NBA De’Aron Fox O25.5 P+A (Spurs vs Trail Blazers),-111
+SKIP,50,MLB Francisco Lindor o0.5 RBIs (DiamondBacks vs Mets),205
 SKIP,50,MLB Dodgers -1.5 (vs Blue Jays),116
 SKIP,50,Football PSG ML (vs Liverpool) + Barcelona vs Atletico both teams to receive a card,100
-SKIP,50,Football Braga vs Real Betos o2.5 TG,100
+SKIP,50,NBA Hawks ML (vs Cavaliers),100
+SKIP,50,MLB Orioles vs White Sox o7.5,-110
 SKIP,50,Football PSG to win (vs Liverpool),-137
+SKIP,50,Football Braga vs Real Betos o2.5 TG,100
+SKIP,50,NBA Nickeil Alexander-Walker o20.5P (Hawks vs Cavaliers),-107
 SKIP,50,eSports DPlus KIA vs Hanwa Life o2.5 maps,100
 SKIP,50,Football Barcelona o1.5 goals + BTTS (vs Atletico Madrid),-125
 SKIP,20,Golf Scottie Scheffler to finish top 10 at The Masters,-137
