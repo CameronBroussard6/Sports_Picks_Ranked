@@ -1,27 +1,9 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA Nuggets 1H -13.5 (vs Grizzlies),-110
-MAX BET,90,NBA Tobias Harris o11.5 pts (Bucks vs Pistons),-130
 VALUE,75,NBA De'Aaron Fox 2+ steals (Trail Blazers vs Spurs),104
-VALUE,75,MLB Reds ML (vs Marlins),113
-VALUE,75,MLB Royals vs Guardians NRSI,-165
-VALUE,75,NBA Magic -7.0 (vs Timberwolves),-110
-SKIP,60,MLB Aaron Nola o17.5 outs recorded (Phillies vs Mets),-147
-SKIP,60,eSports FOKUS Map 1 ML (vs EYEBALLERS),-154
 SKIP,60,NBA Trail Blazers +3.5 (vs Spurs),-110
-SKIP,60,MLB Astros o6.5 (vs Rockies),114
-SKIP,60,MLB Mets F5 ML (vs Diamondback),-130
-SKIP,60,MLB Bailey Ober o2.5 earned runs (Tigers vs Twins),-105
-SKIP,60,MLB Bryan Woo u4.5 total hits allowed (Mariners vs Rangers),-105
-SKIP,60,MLB Astros ML (vs Rockies),-163
-SKIP,50,MLB Mets vs Diamondbacks u8.0,-130
+SKIP,60,eSports FOKUS Map 1 ML (vs EYEBALLERS),-154
+SKIP,60,MLB Aaron Nola o17.5 outs recorded (Phillies vs Giants),-147
 SKIP,50,NBA De’Aron Fox O25.5 P+A (Spurs vs Trail Blazers),-111
-SKIP,50,MLB Francisco Lindor o0.5 RBIs (DiamondBacks vs Mets),205
-SKIP,50,UFL St. Louis Battlehawks vs Dallas Renegades o42.5 points,-110
-SKIP,50,NBA Hawks ML (vs Cavaliers),100
-SKIP,50,MLB Dodgers -1.5 (vs Blue Jays),116
-SKIP,50,MLB Orioles vs White Sox o7.5,-110
-SKIP,50,NBA Nickeil Alexander-Walker o20.5P (Hawks vs Cavaliers),-107
-SKIP,50,eSports DPlus KIA vs Hanwa Life o2.5 maps,100
 SKIP,50,eSports Zede>LTZ Map 2 kills (UNO MILLE vs. Keyd Stars),-118
-SKIP,20,Golf Scottie Scheffler to finish top 10 at The Masters,-137
 SKIP,20,NBA Thunder 1Q ML (vs Clippers),-110
+SKIP,20,Golf Scottie Scheffler to finish top 10 at The Masters,-137
