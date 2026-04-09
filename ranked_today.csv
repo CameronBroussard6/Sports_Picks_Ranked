@@ -1,9 +1,11 @@
 Action,Score,The Pick,Odds
-VALUE,75,NBA De'Aaron Fox 2+ steals (Trail Blazers vs Spurs),104
-SKIP,60,NBA Trail Blazers +3.5 (vs Spurs),-110
-SKIP,60,eSports FOKUS Map 1 ML (vs EYEBALLERS),-154
-SKIP,60,MLB Aaron Nola o17.5 outs recorded (Phillies vs Giants),-147
-SKIP,50,NBA De’Aron Fox O25.5 P+A (Spurs vs Trail Blazers),-111
-SKIP,50,eSports Zede>LTZ Map 2 kills (UNO MILLE vs. Keyd Stars),-118
-SKIP,20,NBA Thunder 1Q ML (vs Clippers),-110
-SKIP,20,Golf Scottie Scheffler to finish top 10 at The Masters,-137
+VALUE,65,Rugby Penrith Panthers -13.0 (vs Cantebury Banstown Bulldogs),-182
+SKIP,60,Rugby Thomas Jenkins to score 2 or more tries (Bulldogs vs Panthers),200
+SKIP,60,AFL Adelaide -33.5 (vs Carlton),-111
+SKIP,60,Rugby Panthers -17.5 (vs Bulldogs),-110
+SKIP,50,Golf Bryson Dechambeau u71.5 Round 1,-150
+SKIP,50,MLB Francisco Lindor o0.5 RBIs (DiamondBacks vs Mets),205
+SKIP,50,Football CP vs Fiorentina o2.5 goals,100
+SKIP,50,Rugby Thomas Jenkins ATTS (Bulldogs vs Panthers),-167
+SKIP,20,Tennis Blockx +4.5 (vs Di Minaur),-149
+SKIP,20,Golf Justin Rose to finish top 20 at the Masters,110
