@@ -1,17 +1,4 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA Luke Kennard o5.5 assists (Lakers vs Warriors),108
-VALUE,75,NBA Collin Sexton 4+ rebounds (Bulls vs Wizards),116
-VALUE,75,NBA 76ers vs Rockets o225.0,-110
-VALUE,65,Cricket Kolkata Knight Riders vs Lucknow Super Giants o0.5 total ducks,-169
-VALUE,65,Curling Alpine Curling Club ML (vs Maple),120
-VALUE,65,NBA Rockets -3.5 (vs 76ers),-110
-SKIP,60,NBA Bulls 1Q ML (vs Wizads),-150
-SKIP,60,NBA Maxey o31.5PA (Houston vs Philadelphia),-114
 SKIP,60,MLB Rockies vs Padres u8.5,-150
-SKIP,60,NHL Taylor Hall o0.5 Points (Hurricanes vs Blackhawks),-115
-SKIP,60,NBA Paul George o2.5 3s (76ers vs Rockets),-108
-SKIP,50,MLB Francisco Lindor o0.5 RBIs (DiamondBacks vs Mets),205
-SKIP,50,MLB Royals 7th inning ML (vs White Sox),-140
-SKIP,50,NBA 76ers vs Rockets o225.5,-130
 SKIP,20,Golf Justin Rose to finish top 20 at the Masters,110
-SKIP,20,NBA Knicks -4.5 (vs Celtics),-110
