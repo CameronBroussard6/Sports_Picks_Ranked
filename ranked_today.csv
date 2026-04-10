@@ -1,10 +1,21 @@
 Action,Score,The Pick,Odds
+VALUE,75,Football Belgrano ML (vs Aldosivi),-143
+VALUE,75,Curling Alpine Curling Club ML (vs Typhoon),-196
 VALUE,75,Rugby Tom Trbojevic ATTS (Illawarra Dragons vs Manly Sea Eagles),-120
 VALUE,75,Football WEST HAM vs WOLVES o2.5 TG,-125
+VALUE,65,Rugby St George Dragons to Win (vs Manly Sea Eagles),200
+SKIP,60,NBA Lakers ML (vs Suns),105
 SKIP,60,eSports Gentle Mates ML (vs Karmine Corp),-177
+SKIP,60,MLB Brewers -1.5 (vs Nationals),115
 SKIP,60,Rugby Sea Eagles to win the first half + win the game (vs Dragons),-133
 SKIP,60,Football Deportivo Pereira vs Once Caldas o2.5 TG,100
-SKIP,50,MLB Francisco Lindor o0.5 RBIs (Athletics vs Mets),205
-SKIP,50,Rugby Koula ATS (Dragons vs Eagles),-118
-SKIP,50,Rugby Sea Eagles -7.5 (vs Dragons),-118
+SKIP,60,Darts Reece Colley -1.5 (vs David Munyua),-154
+SKIP,50,Cricket Quetta Gladiators v Rawalpindi Pindiz o12.5 total wickets,-137
 SKIP,50,AFL Fremantle to win by 1-39 points (vs Collingwood),120
+SKIP,50,MLB Francisco Lindor o0.5 RBIs (Athletics vs Mets),215
+SKIP,50,Rugby Koula ATS (Dragons vs Eagles),-118
+SKIP,50,eSports Astralis Map 2 ML 3-way (3DMAX),-192
+SKIP,50,Rugby Sea Eagles -7.5 (vs Dragons),-118
+SKIP,50,NBA Suns ML (vs Lakers),-135
+SKIP,50,Football West Ham ML (vs Wolves),-111
+SKIP,50,MLB Royals vs White Sox NRSI,-134
