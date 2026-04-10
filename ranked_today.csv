@@ -2,20 +2,25 @@ Action,Score,The Pick,Odds
 MAX BET,90,NBA Pelicans 16.5 (vs Celtics),-110
 MAX BET,90,Cricket Jacob Duffy player performance o19.5 (Rajasthan vs Bangalore),-118
 MAX BET,80,Tennis De Minaur -2.5 (vs Vacherot),-137
-VALUE,75,Curling Alpine Curling Club ML (vs Typhoon),-196
 VALUE,75,Football Belgrano ML (vs Aldosivi),-143
+VALUE,75,Curling Alpine Curling Club ML (vs Typhoon),-196
 VALUE,75,Football WEST HAM vs WOLVES o2.5 TG,-125
-SKIP,60,NBA Lakers ML (vs Suns),105
+VALUE,65,NBA Heat o131.5 (vs Wizards),-115
 SKIP,60,eSports Gentle Mates ML (vs Karmine Corp),-177
+SKIP,60,NBA Lakers ML (vs Suns),105
 SKIP,60,MLB Brewers -1.5 (vs Nationals),115
-SKIP,60,Football Deportivo Pereira vs Once Caldas o2.5 TG,100
 SKIP,60,Darts Reece Colley -1.5 (vs David Munyua),-154
+SKIP,60,MLB Kris Bubic o17.5 outs recorded (White Sox vs Royals),-130
+SKIP,60,Football Deportivo Pereira vs Once Caldas o2.5 TG,100
 SKIP,50,Cricket Quetta Gladiators v Rawalpindi Pindiz o12.5 total wickets,-137
-SKIP,50,NASCAR Corey Heim Top 3 Finish (O'reilly Series North Carolina Education Lottery 250),125
 SKIP,50,MLB Francisco Lindor o0.5 RBIs (Athletics vs Mets),215
+SKIP,50,MLB Astros vs Mariners u7.5,-110
 SKIP,50,MLB Dodgers vs Texans u8.5 runs,100
-SKIP,50,NBA Suns ML (vs Lakers),-135
+SKIP,50,NASCAR Corey Heim Top 3 Finish (O'reilly Series North Carolina Education Lottery 250),125
 SKIP,50,eSports Astralis Map 2 ML 3-way (3DMAX),-192
+SKIP,50,NBA Suns ML (vs Lakers),-135
+SKIP,50,MLB Rangers vs Dodgers u8.5,-102
+SKIP,50,Golf Bryson DeChambeau u71.5 Round 2 score (Masters),100
 SKIP,50,NBA Nickeil Alexander-Walker 20+ points (Cavaliers vs Hawks),-161
 SKIP,50,Football West Ham ML (vs Wolves),-111
 SKIP,50,MLB Royals vs White Sox NRSI,-134
