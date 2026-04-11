@@ -1,11 +1,11 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA Toumani Camara o13.5 points (Clippers vs Trail Blazers),-108
-MAX BET,90,Cricket Jacob Duffy player performance o19.5 (Rajasthan vs Bangalore),-118
-VALUE,75,NBA Rockets ML (Timberwolves) + Hawks ML (vs Cavaliers),-160
-SKIP,60,NBA Lakers ML (vs Suns),105
-SKIP,60,UFL Louisville Kings +3.0 (vs Orlando Storm),100
-SKIP,50,NBA Suns ML (vs Lakers),-135
-SKIP,50,MLB Dodgers vs Texans u8.5 runs,100
-SKIP,50,MLB Astros vs Mariners u7.5,-110
-SKIP,50,MLB Rangers vs Dodgers u8.5,-102
-SKIP,50,MLB Padres F5 ML (vs Rockies),-154
+VALUE,65,Football Bournemouth o0.5 TG (vs Arsenal),-132
+SKIP,60,AFL Hawthorn vs Western Bulldogs u182.5 points,-111
+SKIP,60,UFC Mateusz Gamrot ML (vs Esteban Ribovics),-188
+SKIP,60,Football Wolfsburg vs Eintracht Frankfurt BTTS + o2.5 TG,-125
+SKIP,50,Football Sparta Rotterdam vs PSV BTTS + o2.5 TG + Viking vs Bodø/Glimt o2.5 TG,2
+SKIP,50,MLB Francisco Lindor o0.5 RBIs (Athletics vs Mets),215
+SKIP,50,Football FC Tokyo draw no bet (vs Yokohama FM) + Shimizu o0.5 TG (vs Sanfrecce),164
+SKIP,50,Football Wigan vs Mansfield Town o2.5 TG,100
+SKIP,50,Football Song Lam Nghe An vs Da Nang BTTS,-120
+SKIP,50,Rugby Sua Fa'alogo ATS (Storm vs Warriors),-143
