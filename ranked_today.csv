@@ -1,11 +1,5 @@
 Action,Score,The Pick,Odds
 VALUE,75,NHL Mason McTavish o0.5 points (Canucks vs Ducks),115
-VALUE,75,NBA Nets vs Raptors u219.5,-110
-VALUE,75,MLB Cade Povich o9.5 hits+walks+earned runs (Orioles vs Giants),105
 SKIP,60,NBA Timberwolves vs Pelicans o237.0,-110
-SKIP,60,MLB Guardians vs Braves NRSI,-149
-SKIP,50,NBA Immanuel Quickley o4.5 assists (Nets vs Raptors),-140
-SKIP,50,MLB Guardians vs Braves u7.5,-120
-SKIP,50,NBA Deni Avdija 41+ P+R+A (Kings vs Trail Blazers),-117
 SKIP,50,NBA Suns vs Thunder o215.5,-105
-SKIP,20,NBA Franz Wagner o2.5 assists (Magic vs Celtics),120
+SKIP,50,NBA Deni Avdija 41+ P+R+A (Kings vs Trail Blazers),-117
