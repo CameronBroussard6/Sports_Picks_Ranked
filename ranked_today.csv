@@ -3,11 +3,14 @@ MAX BET,90,Football B. Fernandes to score or assist (Manchester United vs Leeds 
 VALUE,75,Football LANUS vs BANFIELD o7.5 Total Cards,-137
 VALUE,75,Cricket Peshawar Zalmi vs Multan Sultans u13.5 total wickets,-120
 VALUE,75,Football AIK o1.5 TG (vs IF Brommapojkarna),-122
-SKIP,60,Football Manchester United o4.5 SOT + o3.5 corners (vs Leeds),-143
 SKIP,60,Football Getafe draw no bet (vs Getafe),100
+SKIP,60,Football Manchester United o4.5 SOT + o3.5 corners (vs Leeds),-143
+SKIP,60,Football Akron u4.4 team corners (vs Dynamo Moscow),-137
 SKIP,60,Tennis Blockx ML (vs Hanfmann),-115
 SKIP,50,MLB Diamondbacks ML (vs Orioles),115
 SKIP,50,Football Liverpool Montevideo o0.5 TTG (vs Peñarol),-139
 SKIP,50,MLB Pirates -1.5 (vs Nationals),100
+SKIP,50,MLB Mets vs Dodgers o8.5,-115
 SKIP,50,Tennis Norrie vs Wawrinka u20.5 games,110
+SKIP,50,Football Man United to win + Man United to score o1.5 goals (vs Leeds),-125
 SKIP,50,MLB Nationals vs Pirates NRSI,-170
