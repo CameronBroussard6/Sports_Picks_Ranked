@@ -1,20 +1,22 @@
 Action,Score,The Pick,Odds
 MAX BET,80,Football Arsenal goalkeeper o1.5 saves (vs Sporting) + o9.5 corners (Bayern vs Madrid),110
-VALUE,75,Football Bayern ML (vs Real Madrid),-164
 VALUE,75,Football Arsenal vs Sporting 07.5 SOT,-152
-SKIP,60,Football Sporting o0.5 TTG (vs Arsenal),-137
-SKIP,60,Football Bangkok United vs Gamba Osaka BTTS,103
-SKIP,60,NBA Darius Garland o27.5 P+A (Warriors vs Clippers),-116
+VALUE,75,Football Bayern ML (vs Real Madrid),-164
 SKIP,60,NBA 76ers 1Q ML (vs Magic),-120
+SKIP,60,Football Bayern Win/Draw + Bayern Most Shots on Target (vs Real Madrid),-139
 SKIP,60,eSports Kyousuke>FlameZ Map 1 kills (Vitality vs Falcons),-118
 SKIP,60,Football Podhale Nowy Targ vs Sokol Kleczew o9.5 total corners,-120
+SKIP,60,NBA 76ers ML (vs Magic),-125
+SKIP,60,NBA Darius Garland o27.5 P+A (Warriors vs Clippers),-116
+SKIP,60,Football Sporting o0.5 TTG (vs Arsenal),-137
+SKIP,60,Football Lunin saves o4.5 (Beyern Munich vs Real Madrid),-118
 SKIP,60,Football Bayern ML (vs Real Madrid) + Arsenal to win either half (vs Sporting),-103
 SKIP,50,Cricket Quetta Gladiators ML (vs Peshawar Zalmi),125
+SKIP,50,NBA Clippers -5.5 (vs Warriors),-110
 SKIP,50,MLB Dodgers -1.5 (vs Mets),102
-SKIP,50,Football Bayern ML + BTTS (vs Real Madrid CF),120
 SKIP,50,Multi Phillies ML (vs Cubs) + Maxey 6+ assists (76ers vs Magic),192
-SKIP,50,NBA Paolo Banchero o4.5 assists (Magic vs 76ers),-138
+SKIP,50,Football Bayern ML + BTTS (vs Real Madrid CF),120
 SKIP,50,Football Harry Kane o1.5 SOT (Bayern Munchen vs Real Madrid),-120
+SKIP,50,NBA Paolo Banchero o4.5 assists (Magic vs 76ers),-138
 SKIP,50,MLB Dodgers vs Mets NRSI,-145
 SKIP,50,MLB Braves ML (vs Marlins),-160
-SKIP,20,eSports KT Rolster ML (vs DKPlus),-182
