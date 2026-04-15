@@ -1,4 +1,10 @@
 Action,Score,The Pick,Odds
-SKIP,50,NBA Devin Booker 2+ steals (Suns vs Trail Blazers),184
-SKIP,50,MLB Mariners vs Padres u7.5,-135
-SKIP,20,MLB MLB Grand Salami o132.5 total runs combined 15 games total (Betonline),-125
+MAX BET,80,Football Arsenal goalkeeper o1.5 saves (vs Sporting) + o9.5 corners (Bayern vs Madrid),110
+VALUE,75,Football Arsenal vs Sporting 07.5 SOT,-152
+SKIP,60,Football Bangkok United vs Gamba Osaka BTTS,103
+SKIP,60,Football Sporting o0.5 TTG (vs Arsenal),-137
+SKIP,60,Football Podhale Nowy Targ vs Sokol Kleczew o9.5 total corners,-120
+SKIP,50,MLB Dodgers -1.5 (vs Mets),102
+SKIP,50,Football Harry Kane o1.5 SOT (Bayern Munchen vs Real Madrid),-120
+SKIP,20,eSports KT Rolster ML (vs DKPlus),-182
+SKIP,20,NBA Trail Blazers ML (vs Suns),137
