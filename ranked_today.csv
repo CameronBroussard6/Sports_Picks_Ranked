@@ -4,11 +4,13 @@ VALUE,75,Football AEK ML (vs Rayo Vallecano),-111
 VALUE,65,Football Palmeiras -1.5 AH (vs Sporting Cristal),-143
 SKIP,60,MLB Maikel Garcia 2+ Total Bases (KC @ DET),111
 SKIP,60,MLB Reds ML (vs Giants),-130
-SKIP,60,MLB Blue Jays ML (vs Brewers),109
-SKIP,60,MLB Rays ML (vs White Sox),-126
 SKIP,60,Cricket Mumbai Indians vs Punjab Kings o54.5 boundaries,110
-SKIP,60,MLB Guardians ML (vs Orioles),-126
+SKIP,60,MLB Rockies vs Astros u8.5,-105
+SKIP,60,MLB Rays ML (vs White Sox),-126
 SKIP,60,Football Fiorentina vs CP o2.5 TG,100
+SKIP,60,MLB Blue Jays ML (vs Brewers),109
+SKIP,60,MLB Guardians ML (vs Orioles),-126
+SKIP,50,MLB Yankees -1.5 (vs Angels),-135
 SKIP,50,MLB Royals vs Tigers NRSI,-134
 SKIP,50,Football Betis vs Braga BTTS,-119
 SKIP,50,Cricket Mumbai Indians vs Punjab Kings o397.5,-115
