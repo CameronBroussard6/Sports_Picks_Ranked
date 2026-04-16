@@ -1,9 +1,20 @@
 Action,Score,The Pick,Odds
 MAX BET,80,Rugby Tom Trbojevic ATTS (Cowboys vs Sea Eagles),-120
+VALUE,75,Football AEK ML (vs Rayo Vallecano),-111
+VALUE,65,Tennis Molcan ML 1st Set + Molcan ML (vs Altmaier),178
 VALUE,65,Tennis Altmaier ML (vs Molcan),-128
+SKIP,60,Baseball Hanshin Tigers -1.5 F5 (vs Yomiuri Giants),180
 SKIP,60,Football AZ Alkmaar ML (vs Shakhtar Donetsk),100
+SKIP,60,MLB Maikel Garcia 2+ Total Bases (KC @ DET),111
 SKIP,60,Football Fiorentina vs CP o2.5 TG,100
+SKIP,60,eSports Delight u1.5 Kills M1 (DN vs Hanwha) + Canyon o2.5 Kills M1 (BRION vs GenG),110
 SKIP,50,AFL Carlton vs Collingwood o156.5,-113
+SKIP,50,MLB Rays ML (@ White Sox),-126
+SKIP,50,Cricket Mumbai Indians vs Punjab Kings o397.5,-115
+SKIP,50,MLB Royals vs Tigers NRSI,-134
+SKIP,50,Rugby Jaxon Purdue ATT (Cowboys vs Sea Eagles),2
+SKIP,50,Rugby Cowboys -3.5 (vs Manly),-111
 SKIP,50,MLB Guardians ML (vs Orioles),-126
 SKIP,20,Golf Si Woo Kim Round 1 draw no bet (vs Collin Morikawa),-114
+SKIP,20,Football Athens o7 corners (vs Rayo Vallecano),-123
 SKIP,20,MLB Konnor Griffin o1.5 total bases (Nationals vs Pirates),110
