@@ -1,16 +1,9 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA Jordan Miller o8.5 pts (Warriors vs Clippers),-115
-VALUE,75,NBA Warriors +5.5 (vs Clippers),-110
-SKIP,60,NBA 76ers ML (vs Magic),-125
-SKIP,60,NBA Darius Garland o27.5 P+A (Warriors vs Clippers),-116
-SKIP,60,NBA 76ers 1Q ML (vs Magic),-120
-SKIP,60,eSports Kyousuke>FlameZ Map 1 kills (Vitality vs Falcons),-118
-SKIP,60,MLB JT Ginn u2.5 earned runs (Texans vs Athletics),-175
-SKIP,50,Multi Phillies ML (vs Cubs) + Maxey 6+ assists (76ers vs Magic),192
-SKIP,50,NBA Clippers -5.5 (vs Warriors),-110
-SKIP,50,Cricket Quetta Gladiators ML (vs Peshawar Zalmi),125
-SKIP,50,MLB Dodgers -1.5 (vs Mets),102
-SKIP,50,MLB Braves ML (vs Marlins),-160
-SKIP,50,MLB Dodgers vs Mets NRSI,-145
-SKIP,50,NBA Paolo Banchero o4.5 assists (Magic vs 76ers),-138
-SKIP,20,Golf J.T. Poston to finish top 20 RBC Heritage (will resolve on Sunday),150
+MAX BET,80,Rugby Tom Trbojevic ATTS (Cowboys vs Sea Eagles),-120
+VALUE,65,Tennis Altmaier ML (vs Molcan),-128
+SKIP,60,Football AZ Alkmaar ML (vs Shakhtar Donetsk),100
+SKIP,60,Football Fiorentina vs CP o2.5 TG,100
+SKIP,50,AFL Carlton vs Collingwood o156.5,-113
+SKIP,50,MLB Guardians ML (vs Orioles),-126
+SKIP,20,Golf Si Woo Kim Round 1 draw no bet (vs Collin Morikawa),-114
+SKIP,20,MLB Konnor Griffin o1.5 total bases (Nationals vs Pirates),110
