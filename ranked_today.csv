@@ -1,19 +1,16 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA Jordan Miller o8.5 pts (Warriors vs Clippers),-115
 VALUE,75,NBA Warriors +5.5 (vs Clippers),-110
-VALUE,65,NBA VJ Edgecombe o10.5 R+A (Magic vs 76ers),-109
-SKIP,60,eSports Kyousuke>FlameZ Map 1 kills (Vitality vs Falcons),-118
 SKIP,60,NBA 76ers ML (vs Magic),-125
-SKIP,60,NBA 76ers 1Q ML (vs Magic),-120
-SKIP,60,MLB Cubs ML (vs Phillies),122
-SKIP,60,MLB Cubs +1.5 (vs Phillies),-170
-SKIP,60,MLB JT Ginn u2.5 earned runs (Texans vs Athletics),-175
 SKIP,60,NBA Darius Garland o27.5 P+A (Warriors vs Clippers),-116
-SKIP,50,Cricket Quetta Gladiators ML (vs Peshawar Zalmi),125
+SKIP,60,NBA 76ers 1Q ML (vs Magic),-120
+SKIP,60,eSports Kyousuke>FlameZ Map 1 kills (Vitality vs Falcons),-118
+SKIP,60,MLB JT Ginn u2.5 earned runs (Texans vs Athletics),-175
 SKIP,50,Multi Phillies ML (vs Cubs) + Maxey 6+ assists (76ers vs Magic),192
 SKIP,50,NBA Clippers -5.5 (vs Warriors),-110
+SKIP,50,Cricket Quetta Gladiators ML (vs Peshawar Zalmi),125
 SKIP,50,MLB Dodgers -1.5 (vs Mets),102
-SKIP,50,NBA Paolo Banchero o4.5 assists (Magic vs 76ers),-138
-SKIP,50,MLB Dodgers vs Mets NRSI,-145
 SKIP,50,MLB Braves ML (vs Marlins),-160
+SKIP,50,MLB Dodgers vs Mets NRSI,-145
+SKIP,50,NBA Paolo Banchero o4.5 assists (Magic vs 76ers),-138
 SKIP,20,Golf J.T. Poston to finish top 20 RBC Heritage (will resolve on Sunday),150
