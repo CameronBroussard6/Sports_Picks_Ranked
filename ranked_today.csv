@@ -1,25 +1,22 @@
 Action,Score,The Pick,Odds
 VALUE,75,Football Broendby vs Soenderjyske BTTS,-179
-VALUE,65,Rugby Thomas Jenkins to score 2+ tries (Dolphins vs Panthers),125
-VALUE,65,Football Como ML (vs Sassuolo),-159
 VALUE,65,Tennis Silva ML (vs Houkes),-137
+VALUE,65,Football Como ML (vs Sassuolo),-159
 VALUE,65,Football DJURGARDEN vs MALMO o2.5 TG,-114
+SKIP,60,NBA Hornets at Magic o218.0 points,-110
 SKIP,60,NBA Brandon Miller 20+ points (Magic vs Hornets),-141
 SKIP,60,MLB Jose Soriano o5.5 strikeouts (Padres vs Angels),102
-SKIP,60,NBA Hornets at Magic o218.0 points,-110
-SKIP,60,MLB Diamondbacks ML (vs Blue Jays),-143
+SKIP,60,Table Tennis Artur Daniel vs Piotr Chlodnicki u73.5,-120
 SKIP,60,AFL Sydney vs GWS u178.5,-111
-SKIP,60,AFL Bailey Dale disposals u24.5 (Bulldogs vs Cats),-125
+SKIP,60,Tennis Shelton +3.5 (vs Fonseca),-200
 SKIP,60,Darts Kevin Doets -2.5 (vs Jurjen van der Velde),-105
 SKIP,60,Golf Fowler Round 2 draw no bet (vs Stevens),-114
 SKIP,60,MLB Braves ML (vs Phillies),-106
 SKIP,60,Football Inter vs Cagliari o2.5 TG,-164
-SKIP,60,Table Tennis Shelton +3.5 (vs Fonseca),-200
-SKIP,50,Tennis Fonseca vs Shelton o22.5 games,-126
+SKIP,60,MLB Diamondbacks ML (vs Blue Jays),-143
 SKIP,50,NBA Kalkbrenner o3.5 rebounds + Coby White o1.5 3PM (Hornets vs Magic),174
-SKIP,50,Table Tennis Fonseca/Shelton o22.5 games,-128
-SKIP,50,Rugby Panthers -6.5 first half (vs Dolphins),112
+SKIP,50,Tennis Fonseca vs Shelton o22.5 games,-126
+SKIP,50,Tennis Fonseca/Shelton o22.5 games,-128
 SKIP,50,NBA Hornets ML (vs Magic),-170
 SKIP,50,MLB White Sox vs Athletics NRSI,-122
-SKIP,20,NHL Wild vs Stars series to go o5.5 games (will resolve 05/02),-200
-SKIP,20,Rugby Thomas Jenkins 2+ Tries (Dolphins vs Panthers),105
+SKIP,20,NHL Wild vs Stars series to go o5.5 games (will resolve 04/28),-200
