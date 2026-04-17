@@ -2,10 +2,9 @@ Action,Score,The Pick,Odds
 VALUE,75,NBA Gui Santos 4+ assists (Warriors vs Suns),170
 VALUE,65,Tennis Silva ML (vs Houkes),-137
 SKIP,60,NBA Hornets at Magic o218.0 points,-110
-SKIP,60,NBA Paolo Banchero o22.5 points (Magic vs Hornets),-122
 SKIP,60,NBA Brandon Miller 20+ points (Magic vs Hornets),-141
+SKIP,60,NBA Paolo Banchero o22.5 points (Magic vs Hornets),-122
 SKIP,60,MLB Jose Soriano o5.5 strikeouts (Padres vs Angels),102
-SKIP,60,MLB Cubs F5 ML (vs Mets),-140
 SKIP,60,MLB Braves ML (vs Phillies),-106
 SKIP,60,Football Inter vs Cagliari o2.5 TG,-164
 SKIP,60,NBA Hornets vs Magic o218.5,-108
