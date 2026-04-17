@@ -1,2 +1,16 @@
 Action,Score,The Pick,Odds
+VALUE,65,Rugby Thomas Jenkins to score 2+ tries (Dolphins vs Panthers),125
+VALUE,65,Football Como ML (vs Sassuolo),-159
 VALUE,65,Tennis Silva ML (vs Houkes),-137
+VALUE,65,Football DJURGARDEN vs MALMO o2.5 TG,-114
+SKIP,60,NBA Brandon Miller 20+ points (Magic vs Hornets),-141
+SKIP,60,NBA Hornets at Magic o218.0 points,-110
+SKIP,60,AFL Sydney vs GWS u178.5,-111
+SKIP,60,MLB Diamondbacks ML (vs Blue Jays),-143
+SKIP,60,MLB Braves ML (vs Phillies),-106
+SKIP,60,Golf Fowler Round 2 draw no bet (vs Stevens),-114
+SKIP,60,Football Inter vs Cagliari o2.5 TG,-164
+SKIP,50,Football Melbourne Victory o5.5 corners (vs Newcastle Jets),-143
+SKIP,50,Tennis Fonseca vs Shelton o22.5 games,-126
+SKIP,50,NBA Hornets ML (vs Magic),-170
+SKIP,20,Rugby Thomas Jenkins 2+ Tries (Dolphins vs Panthers),105
