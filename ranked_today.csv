@@ -1,15 +1,24 @@
 Action,Score,The Pick,Odds
-MAX BET,90,Rugby Dallin Watene-Zelezniak ATTS + Warriors to win (vs Titans),-125
-VALUE,75,AFL Hawthorn -35.5 (vs Port Adelaide),-137
+MAX BET,90,MLB Twins ML (vs Reds),-134
+VALUE,75,Tennis Fils ML (vs Jodar),-145
+VALUE,75,Tennis Fils ML (vs Jodar),-160
+VALUE,75,MLB Twins ML (vs Reds),-140
 VALUE,65,Football TOTTENHAM vs BRIGHTON o2.5 TG,-143
-SKIP,60,NBA Raptors vs Cavaliers o219.5 total points,-110
-SKIP,60,Rugby D. Watene-Zelezniak & L. Halasima 2+ combined tries (Warriors vs Titans),120
-SKIP,60,Football Melbourne City o3.5 shots on target (vs Brisbane Roar),-167
+VALUE,65,Football OFI double chance (vs Levadiakos),-192
+SKIP,60,UFL St. Louis BattleHawks vs DC Defenders o44.5,-110
 SKIP,60,Football Newcastle vs Bournemouth o10.5 corners,-125
-SKIP,60,MLB Twins ML (vs Reds),-134
-SKIP,60,Tennis Fils ML (vs Jodar),-145
+SKIP,60,Football Brighton DNB (vs Tottenham),-139
+SKIP,60,eSports Effort>Peter Map 1 Kills (KT vs DNS),-139
+SKIP,60,NBA Rockets -4.5 (vs Lakers),-110
+SKIP,60,Cricket Lahore to win (vs Rawalpindiz),-137
+SKIP,60,Football Duisburg ML (vs Hoffenheim II),-143
+SKIP,60,Golf Cauley round 3 ML (vs Vilips),-164
+SKIP,60,Football Union Berlin vs VfL Wolfsburg o2.5,-111
+SKIP,60,MLB Rays vs Pirates NRSI,-180
 SKIP,60,Football Chelsea vs Man United o1.5 goals in the 2nd half,-137
-SKIP,60,Rugby Alex Johnston ATTS (Rabbitohs vs Dragons),-200
-SKIP,50,Football Shonan -1.0 AH (vs Gunma),-111
+SKIP,50,NBA Raptors vs Cavaliers o219.5 total points,-110
+SKIP,50,NBA Mitchell Robinson o8.5 reboundss (Knicks vs Hawks),-116
 SKIP,50,NBA Timberwolves +6.5 (vs Nuggets),-115
-SKIP,50,eSports Effort>Peter Map 1 Kills (KT vs DNS),-139
+SKIP,50,NHL Porter Martone o0.5 points (Penguins vs Flyers),-105
+SKIP,20,Football Śląsk Wrocław ML (vs Znicz Pruszków),-137
+SKIP,20,NBA Lebron James o1.5 A + o1.5 R in 1Q (Lakers vs Rockets),-105
