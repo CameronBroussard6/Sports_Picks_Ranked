@@ -1,40 +1,27 @@
 Action,Score,The Pick,Odds
-MAX BET,90,Rugby Latrell Mitchell ATTS + Rabbitohs ML (vs Dragons),100
 MAX BET,90,MLB Twins ML (vs Reds),-134
-VALUE,75,Football Brighton DNB (vs Tottenham),-139
-VALUE,75,Football Duisburg ML (vs Hoffenheim II),-143
 VALUE,75,Tennis Fils ML (vs Jodar),-160
-VALUE,75,Tennis Fils ML (vs Jodar),-145
-VALUE,75,Football Duisburg ML (vs Hoffenheim II),-143
 VALUE,75,MLB Twins ML (vs Reds),-140
-VALUE,75,Football Brighton DNB (vs Tottenham),-139
+VALUE,75,Tennis Fils ML (vs Jodar),-145
 VALUE,65,Football TOTTENHAM vs BRIGHTON o2.5 TG,-143
-VALUE,65,Football Ofi Win/Draw (vs Levadiakos),-192
 VALUE,65,Football OFI double chance (vs Levadiakos),-192
-SKIP,60,UFL St. Louis BattleHawks vs DC Defenders - Over 44.5,-110
-SKIP,60,Cricket Lahore to win (vs Rawalpindiz),-137
-SKIP,60,Cricket Lahore Qalandars ML (vs Rawalpindiz),-139
-SKIP,60,MLB Minnesota Twins ML (vs Cincinnati Reds),-140
-SKIP,60,Golf Cauley to beat Vilips in Round 3 of the RBC Heritage,-164
-SKIP,60,Football Union Berlin vs VfL Wolfsburg OVER 2.5,-111
-SKIP,60,UFL St. Louis BattleHawks vs DC Defenders o44.5,-110
-SKIP,60,Golf Cauley round 3 ML (vs Vilips),-164
-SKIP,60,Tennis Arthur Fils ML (vs Rafael Jodar),-160
 SKIP,60,Football Brighton o1.5 TTG (vs Tottenham),-110
+SKIP,60,Cricket Lahore to win (vs Rawalpindiz),-137
 SKIP,60,NBA Rockets -4.5 (vs Lakers),-110
+SKIP,60,UFL St. Louis BattleHawks vs DC Defenders o44.5,-110
 SKIP,60,MLB Rays vs Pirates NRSI,-180
 SKIP,60,Football Chelsea vs Man United o1.5 goals in the 2nd half,-137
-SKIP,60,Football Newcastle vs Bournemouth o10.5 corners,-125
-SKIP,60,Football Union Berlin vs VfL Wolfsburg o2.5,-111
-SKIP,60,Rugby South Sydney Rabbitohs +13 (vs St. George Illawarra Dragons),105
 SKIP,60,eSports Effort>Peter Map 1 Kills (KT vs DNS),-139
+SKIP,60,Rugby South Sydney Rabbitohs +13 (vs St. George Illawarra Dragons),105
+SKIP,60,Football Duisburg ML (vs Hoffenheim II),-143
+SKIP,60,Football Brighton DNB (vs Tottenham),-139
+SKIP,60,Football Union Berlin vs VfL Wolfsburg o2.5,-111
+SKIP,60,Golf Cauley round 3 ML (vs Vilips),-164
+SKIP,60,Football Newcastle vs Bournemouth o10.5 corners,-125
+SKIP,50,NBA Timberwolves +6.5 (vs Nuggets),-115
 SKIP,50,NBA Raptors vs Cavaliers o219.5 total points,-110
 SKIP,50,NBA Mitchell Robinson o8.5 reboundss (Knicks vs Hawks),-116
-SKIP,50,NBA Mitchell Robinson O8.5 Rebs (Knicks vs Hawks),-116
-SKIP,50,NBA Timberwolves +6.5 (vs Nuggets),-115
 SKIP,50,NHL Porter Martone o0.5 points (Penguins vs Flyers),-105
-SKIP,50,NHL Porter Martone over 0.5 points (Pittsburgh Penguins vs Philadelphia Flyers),-105
-SKIP,20,Football Leeds ML (vs Wolves),-167
-SKIP,20,NBA Lebron James o1.5 A + o1.5 R (Lakers vs Rockets),-105
 SKIP,20,Football Śląsk Wrocław ML (vs Znicz Pruszków),-137
 SKIP,20,NBA Lebron James o1.5 A + o1.5 R in 1Q (Lakers vs Rockets),-105
+SKIP,20,Football Leeds ML (vs Wolves),-167
