@@ -1,22 +1,15 @@
 Action,Score,The Pick,Odds
-VALUE,75,NBA Gui Santos 4+ assists (Warriors vs Suns),170
-SKIP,60,NBA Hornets at Magic o218.0 points,-110
-SKIP,60,NBA Paolo Banchero o22.5 points (Magic vs Hornets),-122
-SKIP,60,NBA Brandon Miller 20+ points (Magic vs Hornets),-141
-SKIP,60,NBA Hornets vs Magic o218.5,-108
-SKIP,60,MLB Jose Soriano o5.5 strikeouts (Padres vs Angels),102
-SKIP,60,MLB Braves ML (vs Phillies),-106
-SKIP,60,Golf Fowler Round 2 draw no bet (vs Stevens),-114
-SKIP,60,MLB Athletics ML (vs White Sox),-164
-SKIP,60,MLB Diamondbacks ML (vs Blue Jays),-143
-SKIP,50,NBA Kalkbrenner o3.5 rebounds + Coby White o1.5 3PM (Hornets vs Magic),174
-SKIP,50,NBA Hornets ML (vs Magic),-170
-SKIP,50,NBA Warriors +3.5 (vs Suns),-110
-SKIP,50,NBA Hornets -3.5 (vs Magic),-105
-SKIP,50,MLB Rays ML (vs Pirates),116
-SKIP,50,NBA Magic +3.5 (vs Hornets),-115
-SKIP,50,MLB White Sox vs Athletics NRSI,-122
-SKIP,50,eSports Zywoo u19.5 Kills Map 2 (Vitality vs. NAVI),-139
-SKIP,20,MLB Yankees -1.5 (vs Royals),119
-SKIP,20,NHL Wild vs Stars series to go o5.5 games (will resolve 04/28),-200
-SKIP,20,MLB Braves o2.5 runs (vs Phillies) + Twins o2.5 runs (vs Reds),-151
+MAX BET,90,Rugby Dallin Watene-Zelezniak ATTS + Warriors to win (vs Titans),-125
+VALUE,75,AFL Hawthorn -35.5 (vs Port Adelaide),-137
+VALUE,65,Football TOTTENHAM vs BRIGHTON o2.5 TG,-143
+SKIP,60,NBA Raptors vs Cavaliers o219.5 total points,-110
+SKIP,60,Rugby D. Watene-Zelezniak & L. Halasima 2+ combined tries (Warriors vs Titans),120
+SKIP,60,Football Melbourne City o3.5 shots on target (vs Brisbane Roar),-167
+SKIP,60,Football Newcastle vs Bournemouth o10.5 corners,-125
+SKIP,60,MLB Twins ML (vs Reds),-134
+SKIP,60,Tennis Fils ML (vs Jodar),-145
+SKIP,60,Football Chelsea vs Man United o1.5 goals in the 2nd half,-137
+SKIP,60,Rugby Alex Johnston ATTS (Rabbitohs vs Dragons),-200
+SKIP,50,Football Shonan -1.0 AH (vs Gunma),-111
+SKIP,50,NBA Timberwolves +6.5 (vs Nuggets),-115
+SKIP,50,eSports Effort>Peter Map 1 Kills (KT vs DNS),-139
