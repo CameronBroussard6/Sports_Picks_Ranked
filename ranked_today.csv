@@ -1,6 +1,7 @@
 Action,Score,The Pick,Odds
 MAX BET,90,MLB Twins ML (vs Reds),-134
 VALUE,75,Tennis Fils ML (vs Jodar),-160
+VALUE,75,NBA Lebron James o15.5 R + A (Rockets vs Lakers),-120
 VALUE,75,MLB Twins ML (vs Reds),-140
 VALUE,75,Tennis Fils ML (vs Jodar),-145
 VALUE,65,Football TOTTENHAM vs BRIGHTON o2.5 TG,-143
@@ -24,6 +25,6 @@ SKIP,50,NBA Mitchell Robinson o8.5 reboundss (Knicks vs Hawks),-116
 SKIP,50,NBA Raptors vs Cavaliers o219.5 total points,-110
 SKIP,50,NHL Porter Martone o0.5 points (Penguins vs Flyers),-105
 SKIP,50,MLB Emmet Sheehan o5.5 strikeouts (Dogers vs Rockies),-149
-SKIP,20,Football Śląsk Wrocław ML (vs Znicz Pruszków),-137
 SKIP,20,NBA Lebron James o1.5 A + o1.5 R in 1Q (Lakers vs Rockets),-105
+SKIP,20,Football Śląsk Wrocław ML (vs Znicz Pruszków),-137
 SKIP,20,Football Leeds ML (vs Wolves),-167
