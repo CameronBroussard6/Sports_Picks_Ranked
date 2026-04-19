@@ -1,14 +1,14 @@
 Action,Score,The Pick,Odds
 VALUE,75,NBA Lebron James o15.5 R + A (Rockets vs Lakers),-120
 VALUE,65,NHL Matvei Michkov o0.5 pts (Flyers vs Penguins),-102
+SKIP,60,Football Brighton DNB (vs Tottenham),-139
 SKIP,60,Cricket Lahore to win (vs Rawalpindiz),-137
 SKIP,60,NBA Rockets -4.5 (vs Lakers),-110
 SKIP,60,UFL St. Louis BattleHawks vs DC Defenders o44.5,-110
-SKIP,60,MLB Rays vs Pirates NRSI,-180
 SKIP,60,Rugby South Sydney Rabbitohs +13 (vs St. George Illawarra Dragons),105
-SKIP,60,Football Brighton DNB (vs Tottenham),-139
 SKIP,60,eSports Effort>Peter Map 1 Kills (KT vs DNS),-139
-SKIP,50,NBA Mitchell Robinson o8.5 reboundss (Knicks vs Hawks),-116
+SKIP,60,MLB Rays vs Pirates NRSI,-180
 SKIP,50,NHL Porter Martone o0.5 points (Penguins vs Flyers),-105
+SKIP,50,NBA Mitchell Robinson o8.5 reboundss (Knicks vs Hawks),-116
 SKIP,50,MLB Emmet Sheehan o5.5 strikeouts (Dodgers vs Rockies),-149
 SKIP,20,NBA Lebron James o1.5 A + o1.5 R in 1Q (Lakers vs Rockets),-105
