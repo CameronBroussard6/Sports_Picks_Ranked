@@ -1,22 +1,13 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA Stephon Castle o7.5 assists (Trail Blazers vs Spurs),-101
-MAX BET,80,NBA Andre Drummond o6.5 pts (Celtics vs 76ers),-130
 VALUE,65,NBA Shai Gilgeous-Alexander o6.5 assists (Thunder vs Suns),-105
-SKIP,60,NBA 76ers vs Celtics o213.5,-110
 SKIP,60,eSports Top Esports ML (vs IG) + Vitality ML (vs Team Spirit),-109
-SKIP,60,Football PSG vs Lyon BTTS,-145
 SKIP,60,MLB Will Smith 2+ total bases (Dodgers vs Rockies),-137
-SKIP,60,NBA Paul George u27.5 PRA (76ers vs Celtics),-115
 SKIP,60,NHL Avalanches -1.5 (vs Kings),100
-SKIP,60,Football UD Almeria vs Malaga BTTS + u5.5 TG,-119
 SKIP,50,NBA Magic +8.5 (vs Pistons),-110
-SKIP,50,MLB Cardinals vs Astros o8.5,-115
-SKIP,50,MLB Giants o4.5 (vs Nationals),-105
-SKIP,50,NBA Neemias Queta o16.5 points + rebounds (76ers vs Celtics),-130
 SKIP,50,MLB Grant Holmes o1.5 walks (Braves vs Phillies),-149
 SKIP,50,NHL Cole Caufield o0.5 goals (Canadiens vs Lightning),125
 SKIP,50,MLB Yankees ML (vs Royals),-140
 SKIP,50,MLB Mariners vs Rangers NRSI,-172
 SKIP,20,NBA Magic vs Pistons o218.5,-125
 SKIP,20,MLB Rangers vs Mariners u7.0,-110
-SKIP,20,MLB Yordan Alvarez o1.5 total bases (Cardinals vs Astros),100
