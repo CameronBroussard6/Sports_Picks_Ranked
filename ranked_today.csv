@@ -1,10 +1,9 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA Stephon Castle o7.5 assists (Trail Blazers vs Spurs),-101
 MAX BET,80,NBA Andre Drummond o6.5 pts (Celtics vs 76ers),-130
-VALUE,75,MLB Cubs F5 ML (vs Mets),-140
 VALUE,65,NBA Shai Gilgeous-Alexander o6.5 assists (Thunder vs Suns),-105
-SKIP,60,eSports Top Esports ML (vs IG) + Vitality ML (vs Team Spirit),-109
 SKIP,60,NBA 76ers vs Celtics o213.5,-110
+SKIP,60,eSports Top Esports ML (vs IG) + Vitality ML (vs Team Spirit),-109
 SKIP,60,Football PSG vs Lyon BTTS,-145
 SKIP,60,MLB Will Smith 2+ total bases (Dodgers vs Rockies),-137
 SKIP,60,NBA Paul George u27.5 PRA (76ers vs Celtics),-115
