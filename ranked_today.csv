@@ -2,17 +2,18 @@ Action,Score,The Pick,Odds
 MAX BET,80,NBA Sandro Mamukelashvili o4.5 Rebounds (Raptors vs Cavaliers),120
 SKIP,60,NBA Timberwolves +2.0 1Q (vs Nuggets),-110
 SKIP,60,NBA Nuggets 1H -3.5 (vs Timberwolves),-110
+SKIP,60,NBA Knicks -5.5 (vs Hawks),-110
 SKIP,60,Football Lecce vs Fiorentina BTTS,-106
 SKIP,60,MLB Dodgers ML + Ohtani o0.5 hit (vs Rockies),-164
 SKIP,60,NBA Hawks +5.5 (vs Knicks),-105
-SKIP,60,NBA Knicks -5.5 (vs Hawks),-110
 SKIP,60,MLB Braves ML (vs Nationals),-170
-SKIP,50,NBA Raptors vs Cavaliers o222.5,-110
 SKIP,50,NBA Jaden McDaniels 15+ Points (Nuggets vs Timberwolves),-135
 SKIP,50,NHL Porter Martone o0.5 points (Flyers vs Penguins),110
+SKIP,50,NBA Raptors vs Cavaliers o222.5,-110
 SKIP,50,MLB Athletics vs Mariners F5 u4.5,-110
 SKIP,50,Cricket Mumbai Indians ML (vs Gujarat Titans),-118
 SKIP,50,MLB Athletics vs Mariners NRSI,-135
 SKIP,20,NBA Nikola Jokic o10.5 assists (Timberwolves vs Nuggets),112
-SKIP,20,NBA Dyson Daniels o12.5 REB + AST (Knicks vs Hawks),-120
 SKIP,20,MLB Jameson Arrighetti o4.5 strikeouts (Guardians vs Astros),-135
+SKIP,20,NBA Dyson Daniels o12.5 REB + AST (Knicks vs Hawks),-120
+SKIP,20,MLB Kyle Stowers o1.5 total bases (Cardinals vs Marlins),106
