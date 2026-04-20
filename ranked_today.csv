@@ -1,8 +1,13 @@
 Action,Score,The Pick,Odds
 VALUE,75,Football Dewa United vs Persib o9.5 total corners,-133
+VALUE,75,eSports JieJie o2.5 Kills Map 1 (OMG vs Weibo Gaming),-156
 VALUE,65,Football FCSB o1.5 TTG (vs FARUL CONSTANTA),-141
-SKIP,60,Football Vissel Kobe double chance (vs Al-Ahli),103
+VALUE,65,Tennis Martina Trevisan +2.5 1st games handicap (vs Sinja Kraus),-152
 SKIP,60,NHL Porter Martone o0.5 points (Flyers vs Penguins),110
+SKIP,60,Football Vissel Kobe double chance (vs Al-Ahli),103
+SKIP,60,Football Club Bragge u19 vs Real Madrid u19 BTTS + u5.5 TG,-132
 SKIP,50,eSports Parivision ML (vs Aurora) + Xtreme ML (vs South America Rejects),131
+SKIP,50,Table Tennis Jakub Kosowski vs Karol Wisniewski u73.5,-120
 SKIP,50,Tennis Kovacevic ML (vs Echargui),-145
+SKIP,50,Cricket Mumbai Indians ML (vs Gujarat Titans),-118
 SKIP,50,MLB Braves ML (vs Nationals),-170
