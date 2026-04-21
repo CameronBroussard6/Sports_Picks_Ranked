@@ -4,28 +4,22 @@ VALUE,75,NBA Tyrese Maxey o6.5 assists (Celtics vs 76ers),110
 VALUE,75,MLB Guardians F5 -0.5 (vs Astros),-115
 VALUE,75,NBA Jayson Tatum o9.5 rebounds (Celtics vs 76ers),-120
 VALUE,75,eSports Gagkos o1.5 deaths M1 (Flyquest/LYON) + Impact o2.5 deaths M1 (Sentinels/C9),121
-SKIP,60,Football BTTS and Both teams to receive a card (Brighton vs Chelsea),-111
-SKIP,60,NBA Rockets -4.5 (vs Lakers),-113
+SKIP,60,NHL Morgan Geekie o0.5 points (Bruins vs Sabres),-105
 SKIP,60,MLB Mets -1.5 (vs Twins),125
 SKIP,60,MLB Giants F5 +0.5 (vs Dodgers),-120
-SKIP,60,NHL Morgan Geekie o0.5 points (Bruins vs Sabres),-105
-SKIP,50,eSports Parivision -1.5 maps (vs South America Rejects),-109
-SKIP,50,Football Brighton vs Chelsea o8.5 SOT,-130
-SKIP,50,NBA Blazers +7.0 1st Half (vs Spurs),-110
-SKIP,50,Football Danny Welbeck to score or assist (Brighton vs Chelsea),-105
-SKIP,50,MLB Cubs F5 ML (vs Phillies),-122
-SKIP,50,MLB Phillies vs Cubs o8.5,-105
-SKIP,50,MLB Royals ML (vs Orioles),-122
-SKIP,50,NBA Sengun o5.5 assists (Lakers vs Rockets),-113
+SKIP,60,NBA Rockets -4.5 (vs Lakers),-113
 SKIP,50,NBA Lakers vs Rockets o206.5,-110
-SKIP,50,Football Brighton v Chelsea Over 2.5 goals,-152
-SKIP,50,NHL Cole Caufield o0.5 goals (Canadiens vs Lightning),145
+SKIP,50,NBA Blazers +7.0 1st Half (vs Spurs),-110
+SKIP,50,eSports Parivision -1.5 maps (vs South America Rejects),-109
+SKIP,50,NBA Sengun o5.5 assists (Lakers vs Rockets),-113
 SKIP,50,MLB Cubs -1.5 (vs Phillies),170
+SKIP,50,MLB Royals ML (vs Orioles),-122
+SKIP,50,MLB Phillies vs Cubs o8.5,-105
+SKIP,50,NHL Cole Caufield o0.5 goals (Canadiens vs Lightning),145
+SKIP,50,MLB Cubs F5 ML (vs Phillies),-122
 SKIP,35,NBA Jayson Tatum o9.5 rebounds (Celtics vs 76ers),-128
 SKIP,20,NBA Jayson Tatum o5.5 assists (76ers vs Celtics),-102
 SKIP,20,MLB Ketel Marte o0.5 runs (White Sox vs Diamondbacks),-140
-SKIP,20,Football Inter to Qualify (vs Como) + Lens to Qualify (vs Toulouse),-122
 SKIP,20,NBA Spurs -9.5 (vs Trail Blazers),-143
-SKIP,20,Football Coventry ML + u4.5 TG (vs Portsmouth),100
 SKIP,20,MLB Braves ML (vs Nationals),-140
 SKIP,20,NBA Lakers ML (vs Rockets),-135
