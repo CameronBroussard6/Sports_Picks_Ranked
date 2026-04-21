@@ -2,11 +2,10 @@ Action,Score,The Pick,Odds
 MAX BET,90,NBA Jayson Tatum o15.5 RA (76ers vs Celtics),-108
 VALUE,75,Football Athletic ML (vs Osasuna),-120
 VALUE,75,eSports Gagkos o1.5 deaths M1 (Flyquest/LYON) + Impact o2.5 deaths M1 (Sentinels/C9),121
+SKIP,60,Football Man City o2.5 goals + o5.5 total corners (vs Burnley),-127
 SKIP,60,Football BTTS and Both teams to receive a card (Brighton vs Chelsea),-111
 SKIP,60,NBA Rockets -4.5 (vs Lakers),-113
-SKIP,60,Football Man City o2.5 goals + o5.5 total corners (vs Burnley),-127
 SKIP,60,NBA Jayson Tatum o9.5 rebounds (Celtics vs 76ers),-120
-SKIP,60,Football Osasuna win/draw (vs Athletico Bilbao),-108
 SKIP,60,NHL Morgan Geekie o0.5 points (Bruins vs Sabres),-105
 SKIP,60,Table Tennis Michal Kocur vs Dusan Cecotka Over 75.5,2
 SKIP,60,Football Girona vs Betis BTTS,-152
@@ -15,13 +14,13 @@ SKIP,60,MLB Giants F5 +0.5 (vs Dodgers),-120
 SKIP,60,MLB Mets -1.5 (vs Twins),125
 SKIP,50,NBA Lakers vs Rockets o206.5,-110
 SKIP,50,eSports Parivision -1.5 maps (vs South America Rejects),-109
-SKIP,50,Football Machida Zelvia vs Shabab Al-Ahli Dubai BTTS,100
-SKIP,50,Football Danny Welbeck to score or assist (Brighton vs Chelsea),-105
+SKIP,50,Football Brighton vs Chelsea o8.5 SOT,-130
+SKIP,50,NBA Blazers +7.0 1st Half (vs Spurs),-110
 SKIP,50,MLB Cubs F5 ML (vs Phillies),-122
 SKIP,50,MLB Phillies vs Cubs o8.5,-105
 SKIP,50,NBA Sengun o5.5 assists (Lakers vs Rockets),-113
-SKIP,50,NBA Blazers +7.0 1st Half (vs Spurs),-110
-SKIP,50,Football Brighton vs Chelsea o8.5 SOT,-130
+SKIP,50,Football Danny Welbeck to score or assist (Brighton vs Chelsea),-105
+SKIP,50,Football Machida Zelvia vs Shabab Al-Ahli Dubai BTTS,100
 SKIP,50,MLB Cubs -1.5 (vs Phillies),170
 SKIP,50,Football Brighton v Chelsea Over 2.5 goals,-152
 SKIP,50,NHL Cole Caufield o0.5 goals (Canadiens vs Lightning),145
