@@ -1,2 +1,15 @@
 Action,Score,The Pick,Odds
+VALUE,75,eSports Gagkos o1.5 Deaths M1 (vs LYON) + Impact o2.5 Deaths M1 (vs Cloud 9),121
+SKIP,60,NHL Morgan Geekie o0.5 points (Bruins vs Sabres),-105
+SKIP,60,NBA Rockets -4.5 (vs Lakers),-113
+SKIP,60,NBA Blazers +7.0 1st Half (vs Spurs),-110
+SKIP,60,Football Osasuna win/draw (vs Athletico Bilbao),-108
+SKIP,60,Football Girona vs Betis BTTS,-152
+SKIP,60,MLB Mets -1.5 (vs Twins),125
+SKIP,50,Football Danny Welbeck to score or assist (Brighton vs Chelsea),-105
+SKIP,50,NBA Lakers vs Rockets o206.5,-110
+SKIP,50,Cricket USA W ML (vs Rwanda W),-163
+SKIP,50,eSports Parivision -1.5 maps (vs South America Rejects),-109
+SKIP,50,Football Brighton v Chelsea Over 2.5 goals,-152
 SKIP,50,Tennis Daniel Merida Aguilar ML (vs Marco Trungelliti),-123
+SKIP,50,NHL Cole Caufield o0.5 goals (Canadiens vs Lightning),145
