@@ -1,15 +1,14 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA Desmond Bane o26.5 P+R+A (Magic vs Pistons),-105
 MAX BET,90,Football Porto vs Sporting u10.5 total corners,-167
-VALUE,75,Football PSG Over 2.5 Corners First Half (vs Nantes),-167
 VALUE,75,Football Marcus Travernier o0.5 SOT (Bournemouth vs Leeds),-132
 VALUE,75,MLB Angels F5 ML (vs Blue Jays),-165
 VALUE,75,Football Apollon ML (vs Apoel),110
 VALUE,65,MLB Angels F5 ML (vs Blue Jays),-170
 SKIP,60,NBA Magic +9 (vs Pistons),-115
+SKIP,60,NHL Stars o3.5 goals (vs Wild),160
 SKIP,60,Football Man City o2.5 goals + o5.5 total corners (vs Burnley),-127
 SKIP,60,Football Celta Vigo vs Barcelona o2.5 TG + Inter Miami vs Real Salt Lake o2.5 TG,-115
-SKIP,60,NHL Stars o3.5 goals (vs Wild),160
 SKIP,60,MLB Bryce Harper 2+ Total Bases (Phillies vs Cubs),146
 SKIP,60,MLB White Sox vs Diamondbacks o9.0,-122
 SKIP,60,Football Man City to score in both halves (vs Burnley),-156
@@ -21,8 +20,8 @@ SKIP,60,NBA Paolo Banchero o20.5 points (Magic vs Pistons),-128
 SKIP,60,NBA Suns +17.5 (vs Thunder),-110
 SKIP,60,Football Man City -2.0 AH (vs Burnley),-139
 SKIP,60,Tennis Droguet ML (vs Bonzi),-145
-SKIP,50,NBA Tobias Harris 15+ points (Pistons vs Magic),-125
 SKIP,50,Football Manchester City -1.5 + More Shots on Target each Half (vs Burnley),-114
+SKIP,50,NBA Tobias Harris 15+ points (Pistons vs Magic),-125
 SKIP,50,Football Salt Lake vs Inter Miami BTTS + 02.5 TG,-154
 SKIP,50,MLB LA Angels -1.5 vs Toronto Blue Jays,135
 SKIP,20,MLB Cardinals vs Marlins o8.5 runs,-111
