@@ -1,14 +1,9 @@
 Action,Score,The Pick,Odds
-VALUE,75,eSports Gagkos o1.5 deaths M1 (Flyquest/LYON) + Impact o2.5 deaths M1 (Sentinels/C9),121
-SKIP,60,MLB Giants F5 +0.5 (vs Dodgers),-120
-SKIP,60,NHL Morgan Geekie o0.5 points (Bruins vs Sabres),-105
-SKIP,60,NBA Rockets -4.5 (vs Lakers),-113
-SKIP,50,NBA Sengun o5.5 assists (Lakers vs Rockets),-113
-SKIP,50,NBA Lakers vs Rockets o206.5,-110
-SKIP,50,eSports Parivision -1.5 maps (vs South America Rejects),-109
-SKIP,50,NBA Blazers +7.0 1st Half (vs Spurs),-110
-SKIP,50,MLB Royals ML (vs Orioles),-122
-SKIP,50,MLB Cubs -1.5 (vs Phillies),170
-SKIP,20,NBA Lakers ML (vs Rockets),-135
-SKIP,20,MLB Ketel Marte o0.5 runs (White Sox vs Diamondbacks),-140
-SKIP,20,NBA Spurs -9.5 (vs Trail Blazers),-143
+VALUE,75,Football PSG Over 2.5 Corners First Half (vs Nantes),-167
+SKIP,60,NBA Magic +9 (vs Pistons),-115
+SKIP,60,Football Man City o2.5 goals + o5.5 total corners (vs Burnley),-127
+SKIP,60,Football Manchester City -2.5 (vs Burnley),115
+SKIP,60,Football Man City to score in both halves (vs Burnley),-156
+SKIP,60,NHL Porter Martone over 0.5 points (Philadelphia Flyers vs Pittsburgh Penguins),-125
+SKIP,50,Football Manchester City -1.5 + More Shots on Target each Half (vs Burnley),-114
+SKIP,50,MLB LA Angels -1.5 vs Toronto Blue Jays,135
