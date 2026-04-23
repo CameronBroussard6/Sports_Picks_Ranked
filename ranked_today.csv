@@ -1,39 +1,35 @@
 Action,Score,The Pick,Odds
-MAX BET,90,Football Spartak u5.5 corners (vs Krasnodar),-161
-MAX BET,80,Tennis Alicia Dudeney ML (vs Viktoria Hruncakova),-143
-VALUE,75,MLB Yankees vs Red sox YRFI (o0.5 runs in the first inning),-105
-VALUE,75,MLB Yankees vs Red sox YRFI (o0.5 runs in the first inning),-105
-VALUE,75,Football Levante ML (vs Sevilla),150
 VALUE,75,Football STUTTGART VS FREIBURG O 3.5 g,160
+VALUE,75,MLB Yankees vs Red sox YRFI (o0.5 runs in the first inning),-105
+VALUE,75,MLB Yankees vs Red sox YRFI (o0.5 runs in the first inning),-105
 VALUE,65,NBA Sandro Mamukelashvili 6+ rebounds (Raptors vs Cavaliers),118
 VALUE,65,Rugby Jahream Bula to score a Try (Tigers vs Raiders),-120
 SKIP,60,MLB Dodgers ML (vs Giants),-155
+SKIP,60,AFL SYDNEY TT OVER 105.5 POINTS (Western Bulldogs vs Sydney),-115
 SKIP,60,Table Tennis Piotr Kedzierski vs Bartosz Matachowski o74.5,-125
-SKIP,60,MLB Pirates vs Rangers NRSI,-150
 SKIP,60,NPB SoftBank Hawks o3.5 runs (vs Seibu Lions),-125
 SKIP,60,Golf Gerard/Yellamaraju to beat Wallace/Penge (Zurich Classic),-107
-SKIP,60,AFL SYDNEY TT OVER 105.5 POINTS (Western Bulldogs vs Sydney),-115
-SKIP,60,NBA Nuggets -2.5 (vs Timberwolves),-105
-SKIP,60,NBA Gobert 2+ 1Q points + Randle 4+ 1Q points (Nuggets vs Timberwolves),-161
+SKIP,60,NBA CJ McCollum over 6.5 FGs made (NY Knicks vs ATL Hawks),-152
 SKIP,60,Football Rayo Vallecano vs Espanyol BTTS - NO,-110
 SKIP,60,Rugby Taylan May ATTS (West Tigers vs Raiders),130
-SKIP,60,NBA CJ McCollum over 6.5 FGs made (NY Knicks vs ATL Hawks),-152
+SKIP,60,NBA Gobert 2+ 1Q points + Randle 4+ 1Q points (Nuggets vs Timberwolves),-161
 SKIP,60,NHL Logan Stankoven over 0.5 points (Carolina Hurricanes vs Ottawa Senators),104
+SKIP,60,NBA Nuggets -2.5 (vs Timberwolves),-105
 SKIP,60,MLB Cubs ML (vs Phillies),106
 SKIP,60,NBA Nikola Jokić o9.5 assists (Nuggets vs Timberwolves),-136
 SKIP,60,MLB New York Yankees -1.5 (vs Boston Red Sox),110
+SKIP,60,MLB Pirates vs Rangers NRSI,-150
 SKIP,60,Football Real Oviedo vs Villareal o2.5 total goals,100
-SKIP,50,Tennis Vallejo 1st set ML vs Dimitrov,-110
+SKIP,60,MLB Pirates vs Rangers u8.0,-125
 SKIP,50,NBA Hawks +2.5 (vs Knicks),-125
 SKIP,50,MLB Tyler Glasnow o17.5 outs recorded (Dodgers vs Giants),-135
 SKIP,50,NBA Colin Murray-Boyles o10.5 points (Cavaliers vs Raptors),-110
-SKIP,50,Tennis Merida ML (vs Trungelliti),-145
 SKIP,50,NBA Donovan Mitchell o27.5 points (Cavaliers vs Raptors),-115
 SKIP,50,Football St Truiden vs Anderlecht o9.5 corners,-120
 SKIP,50,Cricket Mumbai Indians ML (vs Chennai Super Kings),-167
 SKIP,20,Football Liepāja to Win (vs Super Nova),-112
 SKIP,20,MLB Phillies ML (vs Cubs),-120
-SKIP,20,Rugby Wests Tigers ML (vs Raiders),-200
 SKIP,20,Golf Griffin/Novak to finish Top 10 Zurich Classic (resolves Sunday),135
 SKIP,20,MLB NRFI & Tigers first five innings ML (Tigers vs Brewers),107
 SKIP,20,MLB Padres -1.0 (vs Rockies),-125
+SKIP,20,Disc Golf Holyn Handley + Gannon Buhr finish o3.5,-150
