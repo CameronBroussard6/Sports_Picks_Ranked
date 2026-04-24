@@ -1,28 +1,28 @@
 Action,Score,The Pick,Odds
 MAX BET,90,Tennis Alex De Minaur ML (vs Rafael Jodar),-125
-MAX BET,90,AFL Richmond vs Melbourne u182.5 points,-111
-VALUE,75,Tennis Ignacio Buse to win a set (vs Arthur Fils),150
 VALUE,75,NHL Jackson LaCombe o0.5 points (Ducks vs Oilers),-125
-VALUE,75,NBA Spurs ML (vs Trail Blazers),-137
+VALUE,75,Tennis Ignacio Buse to win a set (vs Arthur Fils),150
 VALUE,75,Football Sunderland vs Nottingham BTTS,-116
+VALUE,75,NBA Spurs ML (vs Trail Blazers),-137
 VALUE,75,MLB Braves ML (vs Phillies),-135
+VALUE,75,MLB Giants F5 +0.5 (vs Marlins),-150
 VALUE,65,Tennis Yulia Putinsteva +4.5 game handicap (vs Marta Kostyuk),109
 SKIP,60,NPB Yokohama BayStars ML (vs Yomiuri Giants),-155
-SKIP,60,NHL Oilers u3.5 goals (vs Ducks),-103
 SKIP,60,Football Millwall vs Leicester o9.5 corners,-169
+SKIP,60,NHL Oilers u3.5 goals (vs Ducks),-103
 SKIP,60,MLB Marlins F5 ML (vs Giants),-113
-SKIP,60,Tennis Machac ML (vs Norrie),-135
 SKIP,60,NBA Reed Sheppard o11.5 points (Lakers vs Rockets),102
+SKIP,60,Tennis Machac ML (vs Norrie),-135
 SKIP,50,Football Cercle Brugge o4.5 SOT + o3.5 corners (vs Dender),-161
+SKIP,50,MLB Jose Altuve 2+ total bases (Yankees vs Astros),160
 SKIP,50,Darts Krohne & Klose -1.5 leg handicap (vs Duff & mcKee),-167
 SKIP,50,Football AACHEN vs DUISBURG o2.5 TG,-133
-SKIP,50,MLB Jose Altuve 2+ total bases (Yankees vs Astros),160
 SKIP,50,NBA Luke Kennard o11.5 points + o1.5 3PM (Lakers vs Rockets),-147
 SKIP,50,NHL Cole Caufield o0.5 goals (Lightning vs Canadiens),120
 SKIP,50,Football Betis vs Real Madrid BTTS + o2.5 TG,-128
 SKIP,20,Football Millwall ML (vs Leicester City),-130
-SKIP,20,MLB Phillies ML (vs Braves),127
-SKIP,20,MLB Yankees ML (vs Astros),-145
 SKIP,20,NHL Oilers to win the series (vs Ducks) (resolves May 2nd),-190
+SKIP,20,MLB Yankees ML (vs Astros),-145
 SKIP,20,Football Cambuur vs Vitesse o2.75 asian goal line,-133
 SKIP,20,Tennis Elmer Moller to win (vs Gabriel Diallo),120
+SKIP,20,MLB Phillies ML (vs Braves),127
