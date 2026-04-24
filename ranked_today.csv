@@ -1,23 +1,29 @@
 Action,Score,The Pick,Odds
+VALUE,75,MLB Yankees -1.5 (vs Red Sox),120
 VALUE,75,eSports Stavn u7.5 headshots Map 2 (Sharks vs Ninjas in Pyjamas),-145
-VALUE,65,NBA Sandro Mamukelashvili 6+ rebounds (Raptors vs Cavaliers),118
+VALUE,75,NBA Nuggets 1H o57.5 (vs Timberwolves),-110
 VALUE,65,Rugby Jahream Bula to score a Try (Tigers vs Raiders),-120
+VALUE,65,NBA Sandro Mamukelashvili 6+ rebounds (Raptors vs Cavaliers),118
+VALUE,65,NBA Hawks +2.5 (vs Knicks),-125
 SKIP,60,Table Tennis Piotr Kedzierski vs Bartosz Matachowski o74.5,-125
-SKIP,60,Golf Gerard/Yellamaraju to beat Wallace/Penge (Zurich Classic),-107
 SKIP,60,NPB SoftBank Hawks o3.5 runs (vs Seibu Lions),-125
-SKIP,60,AFL SYDNEY TT OVER 105.5 POINTS (Western Bulldogs vs Sydney),-115
-SKIP,60,Rugby Taylan May ATTS (West Tigers vs Raiders),130
-SKIP,60,NBA Nuggets -2.5 (vs Timberwolves),-105
+SKIP,60,NBA Knicks vs Hawks u216.5,-125
 SKIP,60,NBA Gobert 2+ 1Q points + Randle 4+ 1Q points (Nuggets vs Timberwolves),-161
-SKIP,60,NBA Nikola Jokić o9.5 assists (Nuggets vs Timberwolves),-136
-SKIP,60,NHL Logan Stankoven over 0.5 points (Carolina Hurricanes vs Ottawa Senators),104
-SKIP,60,MLB Pirates vs Rangers u8.0,-125
+SKIP,60,NBA Nuggets -2.5 (vs Timberwolves),-105
 SKIP,60,NBA CJ McCollum over 6.5 FGs made (NY Knicks vs ATL Hawks),-152
+SKIP,60,NHL Logan Stankoven over 0.5 points (Carolina Hurricanes vs Ottawa Senators),104
+SKIP,60,AFL SYDNEY TT OVER 105.5 POINTS (Western Bulldogs vs Sydney),-115
+SKIP,60,Golf Gerard/Yellamaraju to beat Wallace/Penge (Zurich Classic),-107
+SKIP,60,Rugby Taylan May ATTS (West Tigers vs Raiders),130
+SKIP,60,NBA Knicks vs Hawks Under 215.0,-115
+SKIP,60,MLB Pirates vs Rangers u8.0,-125
+SKIP,60,NBA Nikola Jokić o9.5 assists (Nuggets vs Timberwolves),-136
+SKIP,60,NBA Anthony Edwards o10.5 R+A (Nuggets vs Timberwolves),102
 SKIP,60,MLB Pirates vs Rangers NRSI,-150
-SKIP,50,NBA Hawks +2.5 (vs Knicks),-125
 SKIP,50,NBA Jalen Brunson o2.5 3PM (Knicks vs Hawks),104
-SKIP,50,NBA Colin Murray-Boyles o10.5 points (Cavaliers vs Raptors),-110
 SKIP,50,NBA Donovan Mitchell o27.5 points (Cavaliers vs Raptors),-115
-SKIP,20,Disc Golf Holyn Handley + Gannon Buhr finish o3.5,-150
-SKIP,20,Golf Griffin/Novak to finish Top 10 Zurich Classic (resolves Sunday),135
+SKIP,50,NBA Colin Murray-Boyles o10.5 points (Cavaliers vs Raptors),-110
+SKIP,20,NHL Avalanche ML 3-way (vs Kings),105
 SKIP,20,NBA Nuggets vs Timberwolves u234.5,-115
+SKIP,20,Golf Griffin/Novak to finish Top 10 Zurich Classic (resolves Sunday),135
+SKIP,20,Disc Golf Holyn Handley + Gannon Buhr finish o3.5,-150

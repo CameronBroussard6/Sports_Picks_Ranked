@@ -1,1 +1,9 @@
 Action,Score,The Pick,Odds
+VALUE,75,MLB Braves ML (vs Phillies),-135
+VALUE,65,NBA Spurs ML (vs Trail Blazers),-137
+VALUE,65,Tennis Qinwen Zheng ML (vs Sofia Kenin) + Elise Mertens ML (vs Alexandra Eala),-141
+SKIP,60,NHL Jackson LaCombe o0.5 points (Ducks vs Oilers),-125
+SKIP,50,Football FC Tokyo -1 AH (vs Mito Hollyhock),125
+SKIP,50,Football Cercle Brugge o4.5 SOT + o3.5 corners (vs Dender),-161
+SKIP,50,Football Betis vs Real Madrid BTTS + o2.5 TG,-128
+SKIP,50,NHL Cole Caufield o0.5 goals (Lightning vs Canadiens),120
