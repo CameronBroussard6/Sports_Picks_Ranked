@@ -1,20 +1,10 @@
 Action,Score,The Pick,Odds
-VALUE,75,NHL Jackson LaCombe o0.5 points (Ducks vs Oilers),-125
-VALUE,75,MLB Giants F5 +0.5 (vs Marlins),-150
-VALUE,75,NBA Spurs ML (vs Trail Blazers),-137
-VALUE,75,eSports Stavn u6.5 headshots Map 2 (Ninjas in Pajamas vs Monte),-125
-SKIP,60,NHL Oilers u3.5 goals (vs Ducks),-103
-SKIP,60,MLB Reds ML (vs Tigers),113
-SKIP,60,NBA Reed Sheppard o11.5 points (Lakers vs Rockets),102
-SKIP,60,MLB Marlins F5 ML (vs Giants),-113
-SKIP,60,NPB Yokohama BayStars ML (vs Yomiuri Giants),-155
-SKIP,60,NBA Jrue Holiday o22.5 P+A (Trail Blazers vs Spurs),-111
-SKIP,60,MLB Goerge Kirby o17.5 outs recorded (Mariners vs Cardinals),-200
-SKIP,50,Darts Krohne & Klose -1.5 leg handicap (vs Duff & mcKee),-167
-SKIP,50,NBA Luke Kennard o11.5 points + o1.5 3PM (Lakers vs Rockets),-147
-SKIP,50,MLB Jose Altuve 2+ total bases (Yankees vs Astros),160
-SKIP,20,MLB MLB Grand Salami o122.5 total runs combined 14 games total,-125
-SKIP,20,Tennis Elmer Moller to win (vs Gabriel Diallo),120
-SKIP,20,NHL Oilers to win the series (vs Ducks) (resolves May 2nd),-190
-SKIP,20,NBA Lakers +9.0 (vs Rockets),-110
-SKIP,20,MLB Cardinals ML (vs Mariners),135
+MAX BET,90,Tennis Vallejo 1st set ML (vs Tien),-145
+SKIP,60,Football Middlesbrough Over 6.5 Corners (vs Watford),-154
+SKIP,60,Football Kawasaki Frontale ML + O 1.5g (vs JEF United),100
+SKIP,60,Baseball Fukuoka Softbank ML + Hanshin Tigers ML,102
+SKIP,60,Football TOTTENHAM Over 5.50 Corners (WOLVES),-139
+SKIP,50,AFL ESSENDON +16.5 (vs COLLINGWOOD),-110
+SKIP,50,Rugby Dolphins +5.5 (vs Warriors),-105
+SKIP,50,Tennis A.Bublik ML (Stefanos Tsitsipas),-160
+SKIP,50,Football Wolves vs Tottenham (over 2.5 goals),-141
