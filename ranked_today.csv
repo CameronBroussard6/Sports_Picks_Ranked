@@ -3,26 +3,25 @@ MAX BET,90,NBA Lakers 1Q +1.5 (vs Rockets),-110
 VALUE,75,NBA RJ Barrett 25+ P+R + Ja’Kobe Walter 2+ 3PM (Cavaliers vs Raptors),125
 VALUE,75,NBA Scottie Barnes o5.5 Q1 points (Cavaliers vs Raptors),-103
 VALUE,75,NBA Scottie Barnes 16+ points + Cavaliers vs Raptors o212.5 points,-156
+VALUE,75,MLB Phillies First 5 ML (vs Marlins),-130
 VALUE,75,MLB William Contreras 2+ total bases (Brewers vs Nationals),107
 VALUE,75,eSports Jabbi u9.5 headshots Map 1 (GamerLegion vs Astralis),-128
-VALUE,65,Tennis Akil/Cayetano ML (vs Reasco/Vidmanova),-120
-VALUE,65,MLB Giants vs Rays NRFI,-125
 VALUE,65,MLB Dodgers vs Cardinals YRFI,-105
-SKIP,60,NBA Jalen Duren u13.5 points (Pistons vs Magic),-120
-SKIP,60,Curling Australia ML (vs Italy),110
+VALUE,65,MLB Giants vs Rays NRFI,-125
+VALUE,65,NBA Desmond Bane o2.5 3PM (Pistons vs Magic),115
 SKIP,60,MLB Dodgers ML (vs Cardinals),-180
-SKIP,60,MLB Giants vs Rays u7.5,-108
 SKIP,60,NBA Los Angeles Lakers +3.5 (vs Houston Rockets),-110
+SKIP,60,NBA Jalen Duren u13.5 points (Pistons vs Magic),-120
 SKIP,60,NBA Desmond Bane u2.5 assists (Detroit vs Orlando),115
 SKIP,60,NBA Orlando Magic +3.5 (vs Pistons),-110
+SKIP,60,MLB Giants vs Rays u7.5,-108
 SKIP,50,MLB MLB Grand Salami Over 132.5,-110
 SKIP,50,NBA Jarrett Allen 2+ blocks (Cavaliers vs Raptors),121
-SKIP,50,NBA Rui Hachimura to score 12+ points (Lakers vs Rockets),-125
-SKIP,50,MLB Ryan O'Hearn 2+ HRR (Reds vs Pirates),-110
 SKIP,50,NBA Donovan Mitchell o4.5 rebounds (Cavaliers vs Raptors),116
-SKIP,50,MLB Guardians vs Athletics F5 u5.5 runs,-130
+SKIP,50,NBA Rui Hachimura to score 12+ points (Lakers vs Rockets),-125
 SKIP,50,MLB Texas Rangers ML (vs Detroit Tigers),100
+SKIP,50,MLB Ryan O'Hearn 2+ HRR (Reds vs Pirates),-110
 SKIP,50,MLB Yankees -1.5 (vs Orioles),120
+SKIP,50,MLB Guardians vs Athletics F5 u5.5 runs,-130
 SKIP,50,MLB Mariners F5 ML (vs Royals),-140
-SKIP,20,Football Legia Warsaw to win (vs Widzew Lodz),122
 SKIP,20,MLB Philadelphia Phillies ML (vs Miami Marlins),-120
