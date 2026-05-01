@@ -1,37 +1,9 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA Hawks vs Knicks o213.5,-110
-VALUE,75,NBA OG Anunoby 6+ rebounds + Jordan Clarkson 5+ points (Knicks @ Hawks),-110
-VALUE,75,Football Ricardo Horta o0.5 SOT (Braga vs Freiburg),-135
-VALUE,75,NHL Leo Carlsson over 3.5 shots (Oilers vs Ducks),105
-VALUE,65,MLB Braves ML (vs Tigers),-120
-VALUE,65,MLB Kevin Gausman o17.5 outs recorded (Blue Jays vs Twins),-154
-VALUE,65,MLB Braves ML (vs Tigers),-110
-SKIP,60,eSports Xiaohao>Climber Map 1 Kills (Ultra Prime vs. EDG),-147
-SKIP,60,MLB Braves vs Tigers o8.5 runs,-110
-SKIP,60,MLB Athletics ML (vs Royals),-126
-SKIP,60,NBA OG Anunoby o7.5 rebounds (Knicks @ Hawks),110
-SKIP,60,NBA Tyrese Maxey o6.5 AST (76ers vs Celtics),-132
-SKIP,60,Tennis Ruud vs. Blockx o22.5 games + Cobolli vs. Zverev o22.5 games,200
-SKIP,60,MLB Rockies vs Reds F5 o4.5 runs,-140
-SKIP,60,NBA Celtics vs 76ers u212.5 points,-106
-SKIP,60,NBA OG Anunoby o7.5 rebounds (Knicks vs Hawks),110
-SKIP,60,MLB Nationals ML (vs Mets),180
-SKIP,60,MLB Matt Olson 2+ HRR (Braves vs Tigers),-110
-SKIP,60,NBA J. Murray 4+ rebounds + C. Johnson 1+ steals (Nuggets vs Timberwolves),-135
-SKIP,60,NBA 76ers +6 (vs Celtics),-111
-SKIP,60,Cricket Gujarat Titans vs Royal Challenges Banglore u0.5 total run outs,-125
-SKIP,60,Tennis Ruud ML (vs Blockx) + Andreeva ML (vs Baptiste),-130
-SKIP,60,"Golf Chris Gotterup Top 20 of Cadillac Championship, Doral (resolves 05/03)",138
-SKIP,50,NBA OG Anunoby 7+ rebounds + Knicks vs Hawks o206.5 points,130
-SKIP,50,MLB Dillon Dingler 2+ total bases (Tigers vs Braves),140
-SKIP,50,UFL BattleHawks @ Kings u45.5,-110
-SKIP,50,NBA Derrick White u12.5 points (Celtics vs 76ers),-125
-SKIP,50,NBA Joel Embiid o4.5 assists (Celtics vs 76ers),105
-SKIP,50,Tennis Droguet ML (vs Safiullin),-120
-SKIP,50,Golf Viktor Hovland u70.5 Round 1 (Cadillac Championship),-110
-SKIP,50,NBA Celtics -6.0 (vs 76ers),-115
-SKIP,50,MLB Blue Jays vs Twins u8.0 runs,-125
-SKIP,20,MLB Diamondbacks ML (vs Brewers),104
-SKIP,20,NBA Nuggets vs Timberwolves o224.5 points,-135
-SKIP,20,Cricket GT vs RCB 1st Innings o197.5 points,-103
-SKIP,20,MLB Ildemaro Vargas o0.5 Hits (Diamondbacks @ Brewers),-185
+MAX BET,90,NBA Lakers 1Q +1.5 (vs Rockets),-110
+MAX BET,90,NPB Golden Eagles vs Ham Fighters NRFI + Tigers vs Yakult Swallows NRFI,144
+VALUE,75,NBA RJ Barrett 25+ P+R + Ja’Kobe Walter 2+ 3PM (Cavaliers vs Raptors),125
+VALUE,75,NBA Scottie Barnes 16+ points + Cavaliers vs Raptors o212.5 points,-156
+SKIP,60,NBA Jalen Duren u13.5 points (Pistons vs Magic),-120
+SKIP,50,NBA Jarrett Allen 2+ blocks (Cavaliers vs Raptors),121
+SKIP,50,NBA Donovan Mitchell o4.5 rebounds (Cavaliers vs Raptors),116
+SKIP,50,MLB Yankees -1.5 (vs Orioles),120
