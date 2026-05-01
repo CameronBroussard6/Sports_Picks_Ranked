@@ -3,7 +3,15 @@ MAX BET,90,NBA Lakers 1Q +1.5 (vs Rockets),-110
 MAX BET,90,NPB Golden Eagles vs Ham Fighters NRFI + Tigers vs Yakult Swallows NRFI,144
 VALUE,75,NBA RJ Barrett 25+ P+R + Ja’Kobe Walter 2+ 3PM (Cavaliers vs Raptors),125
 VALUE,75,NBA Scottie Barnes 16+ points + Cavaliers vs Raptors o212.5 points,-156
+VALUE,75,eSports Jabbi u9.5 headshots Map 1 (GamerLegion vs Astralis),-128
+VALUE,75,MLB William Contreras 2+ total bases (Brewers vs Nationals),107
+VALUE,65,Rugby Herbie Farnworth ATTS (Dolphins vs Storm),-120
 SKIP,60,NBA Jalen Duren u13.5 points (Pistons vs Magic),-120
+SKIP,60,Cricket Rajasthan Royals highest scoring over o20.5 runs (vs Delhi Capitals),-125
+SKIP,60,AFL Western Bulldogs vs Fremantle o184.5 points,-107
 SKIP,50,NBA Jarrett Allen 2+ blocks (Cavaliers vs Raptors),121
+SKIP,50,NBA Rui Hachimura to score 12+ points (Lakers vs Rockets),-125
 SKIP,50,NBA Donovan Mitchell o4.5 rebounds (Cavaliers vs Raptors),116
 SKIP,50,MLB Yankees -1.5 (vs Orioles),120
+SKIP,50,Cricket Delhi Capitals ML (vs Rajasthan Royals),122
+SKIP,20,Rugby Jamayne Isaako ATTS + Dolphins -3.5 (vs Storms 1U),160
