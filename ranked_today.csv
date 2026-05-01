@@ -1,15 +1,16 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA Lakers 1Q +1.5 (vs Rockets),-110
 MAX BET,90,Football Bolivar vs Fluminense u3.0 TG + Corinthians to win (vs Penarol),133
-VALUE,75,NBA RJ Barrett 25+ P+R + Ja’Kobe Walter 2+ 3PM (Cavaliers vs Raptors),125
-VALUE,75,MLB William Contreras 2+ total bases (Brewers vs Nationals),107
+MAX BET,90,NBA Lakers 1Q +1.5 (vs Rockets),-110
 VALUE,75,NBA Scottie Barnes 16+ points + Cavaliers vs Raptors o212.5 points,-156
+VALUE,75,NBA RJ Barrett 25+ P+R + Ja’Kobe Walter 2+ 3PM (Cavaliers vs Raptors),125
 VALUE,75,eSports Jabbi u9.5 headshots Map 1 (GamerLegion vs Astralis),-128
-VALUE,65,Tennis Fils o0.5 breaks (vs Sinner),-175
+VALUE,75,MLB William Contreras 2+ total bases (Brewers vs Nationals),107
 VALUE,65,Tennis Akil/Cayetano ML (vs Reasco/Vidmanova),-120
+VALUE,65,Tennis Fils o0.5 breaks (vs Sinner),-175
 VALUE,65,Rugby Herbie Farnworth ATTS (Dolphins vs Storm),-120
 SKIP,60,NBA Jalen Duren u13.5 points (Pistons vs Magic),-120
 SKIP,60,AFL Western Bulldogs vs Fremantle o184.5 points,-107
+SKIP,60,NBA Desmond Bane u2.5 assists (Detroit vs Orlando),115
 SKIP,60,Cricket Rajasthan Royals highest scoring over o20.5 runs (vs Delhi Capitals),-125
 SKIP,60,Curling Australia ML (vs Italy),110
 SKIP,50,NBA Rui Hachimura to score 12+ points (Lakers vs Rockets),-125
