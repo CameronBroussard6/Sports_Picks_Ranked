@@ -1,27 +1,31 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA 76ers +8 (vs Celtics),-110
+MAX BET,90,MLB Atlanta Braves vs Colorado Rockies YRFI (o0.5 runs in the first inning),-125
 MAX BET,90,Football Villarreal u6.5 corners (vs Levante),-175
-VALUE,75,NBA Jayson Tatum Double-Double & Tyrese Maxey 5+ AST (76ers @ Celtics),-110
-VALUE,75,Multi Bayern Munich ML (vs Heidenheim) + Celtics ML (vs 76ers),-140
 VALUE,75,MLB Wilyer Abreu 2+ total bases (Astros vs Red Sox),123
+VALUE,75,Multi Bayern Munich ML (vs Heidenheim) + Celtics ML (vs 76ers),-140
+VALUE,75,NBA Jayson Tatum Double-Double & Tyrese Maxey 5+ AST (76ers @ Celtics),-110
 VALUE,75,UFC Colby Thicknesse ML (vs Vince Morales),-149
 VALUE,75,eSports HongQ>Karis M1 Kills (WE vs JD) + Neityu u7.5 HS M2 (Natus Vincere vs FaZe),108
-VALUE,65,NHL Logan Stankoven over 0.5 points (Carolina Hurricanes vs Philadelphia Flyers),-115
-VALUE,65,Football Urawa Reds To Win -1 Asian Handicap (vs JEF United),125
 VALUE,65,Football Brighton ML (vs Newcastle),166
-SKIP,60,Football Arsenal to win + u3.5 total goals (vs Fulham),114
+VALUE,65,NHL Logan Stankoven over 0.5 points (Carolina Hurricanes vs Philadelphia Flyers),-115
 SKIP,60,NBA Payton Pritchard 5+ assists (PHI 76ers vs BOS Celtics),149
+SKIP,60,Football Valur Reykjavík Over 1 Team Goals + KR Reykjavík Over 1 Team Goals,105
+SKIP,60,Football Arsenal to win + u3.5 total goals (vs Fulham),114
 SKIP,60,Curling Canada ML (vs Italy),-109
 SKIP,60,NBA Payton Pritchard o16.5 points + assists (Celtics vs 76ers),-122
-SKIP,60,Cricket Chennai Super Kings vs Mumbai Indians o167.5 total 6's,-125
-SKIP,60,Football Hoffenheim vs Vfb o1.5 total goals in first half,-111
-SKIP,60,MLB Yankees -1.5 (vs Orioles),135
 SKIP,60,Football Villarreal to score the first goal + Villarreal o1.5 goals (vs Levante for La Liga),102
+SKIP,60,Cricket Chennai Super Kings vs Mumbai Indians o167.5 total 6's,-125
+SKIP,60,NBA Celtics Alt Line -12.5 (vs 76ers),170
+SKIP,60,Football Hoffenheim vs Vfb o1.5 total goals in first half,-111
 SKIP,60,Cricket Mumbai Indians ML (vs Chennai Super Kings),-135
-SKIP,50,UFC Steve Erceg ML (vs Tim Elliott) + Jack Della Maddalena ML (vs Carlos Prates),200
-SKIP,50,NBA Joel Embiid o4.5 assists (76ers vs Celtics),-115
+SKIP,60,MLB Yankees -1.5 (vs Orioles),135
+SKIP,60,NBA Payton Pritchard over 12.5 points (76ers vs Celtics),-115
 SKIP,50,Football Swansea vs Charlton u3.0 bookings,-110
+SKIP,50,NBA Joel Embiid o4.5 assists (76ers vs Celtics),-115
+SKIP,50,UFC Steve Erceg ML (vs Tim Elliott) + Jack Della Maddalena ML (vs Carlos Prates),200
+SKIP,50,NBA Philadelphia 76ers vs Boston Celtics - Under 208.5,-144
 SKIP,50,MLB Cubs ML (vs Diamondbacks),-151
-SKIP,20,NBA Celtics o105.5 (vs 76ers),-125
 SKIP,20,MLB Cardinals o3.5 runs (vs Dodgers),-132
-SKIP,20,Football Stevenage FC win (vs Wigan Athletic) + Ipswich Town win (vs Queens Park Rangers),-114
+SKIP,20,Football Stevenage FC ML (vs Wigan Athletic) + Ipswich Town ML (vs Queens Park Rangers),-114
+SKIP,20,NBA Celtics o105.5 (vs 76ers),-125
