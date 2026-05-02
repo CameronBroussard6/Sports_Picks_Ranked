@@ -1,29 +1,23 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA 76ers +8 (vs Celtics),-110
 MAX BET,90,Football Villarreal u6.5 corners (vs Levante),-175
-MAX BET,90,"AFL Geelong -23.5 (vs North Melbourne,)",-133
 VALUE,75,NBA Jayson Tatum Double-Double & Tyrese Maxey 5+ AST (76ers @ Celtics),-110
-VALUE,75,MLB Wilyer Abreu 2+ total bases (Astros vs Red Sox),123
-VALUE,75,UFC Ben Johnston ML (vs Wes Schultz),-150
 VALUE,75,Multi Bayern Munich ML (vs Heidenheim) + Celtics ML (vs 76ers),-140
-VALUE,75,Football Auckland Fc vs Melbourne City - Over 9.5 Total Corners,-152
-VALUE,75,eSports HongQ>Karis M1 Kills (WE vs JD) + Neityu u7.5 HS M2 (Natus Vincere vs FaZe),108
+VALUE,75,MLB Wilyer Abreu 2+ total bases (Astros vs Red Sox),123
 VALUE,75,UFC Colby Thicknesse ML (vs Vince Morales),-149
+VALUE,75,eSports HongQ>Karis M1 Kills (WE vs JD) + Neityu u7.5 HS M2 (Natus Vincere vs FaZe),108
 VALUE,65,NHL Logan Stankoven over 0.5 points (Carolina Hurricanes vs Philadelphia Flyers),-115
 VALUE,65,Football Urawa Reds To Win -1 Asian Handicap (vs JEF United),125
 VALUE,65,Football Brighton ML (vs Newcastle),166
-SKIP,60,NBA Payton Pritchard 5+ assists (PHI 76ers vs BOS Celtics),149
 SKIP,60,Football Arsenal to win + u3.5 total goals (vs Fulham),114
+SKIP,60,NBA Payton Pritchard 5+ assists (PHI 76ers vs BOS Celtics),149
 SKIP,60,Curling Canada ML (vs Italy),-109
-SKIP,60,Cricket Mumbai Indians ML (vs Chennai Super Kings),-135
-SKIP,60,Rugby Dallin Watene-Zelezniak ATTS (Eels vs Warriors),-143
-SKIP,60,Football Villarreal to score the first goal + Villarreal o1.5 goals (vs Levante for La Liga),102
 SKIP,60,NBA Payton Pritchard o16.5 points + assists (Celtics vs 76ers),-122
-SKIP,60,Football Hoffenheim vs Vfb o1.5 total goals in first half,-111
 SKIP,60,Cricket Chennai Super Kings vs Mumbai Indians o167.5 total 6's,-125
+SKIP,60,Football Hoffenheim vs Vfb o1.5 total goals in first half,-111
 SKIP,60,MLB Yankees -1.5 (vs Orioles),135
-SKIP,60,Rugby Alofiana Khan-Pereira ATTS (Warriors vs Eels),-143
-SKIP,50,Rugby Lofi Khan-Pereira ATTS + Dallin Watene-Zelezniak ATTS (Eels vs Warriors),130
+SKIP,60,Football Villarreal to score the first goal + Villarreal o1.5 goals (vs Levante for La Liga),102
+SKIP,60,Cricket Mumbai Indians ML (vs Chennai Super Kings),-135
 SKIP,50,UFC Steve Erceg ML (vs Tim Elliott) + Jack Della Maddalena ML (vs Carlos Prates),200
 SKIP,50,NBA Joel Embiid o4.5 assists (76ers vs Celtics),-115
 SKIP,50,Football Swansea vs Charlton u3.0 bookings,-110
