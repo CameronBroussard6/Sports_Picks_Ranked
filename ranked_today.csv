@@ -1,26 +1,10 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA Lakers 1Q +1.5 (vs Rockets),-110
-VALUE,75,NBA Scottie Barnes o5.5 Q1 points (Cavaliers vs Raptors),-103
-VALUE,75,NBA Scottie Barnes 16+ points + Cavaliers vs Raptors o212.5 points,-156
-VALUE,75,MLB Phillies First 5 ML (vs Marlins),-130
-VALUE,75,eSports Jabbi u9.5 headshots Map 1 (GamerLegion vs Astralis),-128
-VALUE,75,MLB William Contreras 2+ total bases (Brewers vs Nationals),107
-VALUE,65,MLB Dodgers vs Cardinals YRFI,-105
-VALUE,65,MLB Giants vs Rays NRFI,-125
-SKIP,60,MLB Giants vs Rays u7.5,-108
-SKIP,60,NBA Los Angeles Lakers +3.5 (vs Houston Rockets),-110
-SKIP,60,NBA Desmond Bane u2.5 assists (Detroit vs Orlando),115
-SKIP,60,NBA Jalen Duren u13.5 points (Pistons vs Magic),-120
-SKIP,60,NBA Orlando Magic +3.5 (vs Pistons),-110
-SKIP,60,MLB Dodgers ML (vs Cardinals),-180
-SKIP,50,MLB Ryan O'Hearn 2+ HRR (Reds vs Pirates),-110
-SKIP,50,MLB MLB Grand Salami Over 132.5,-110
-SKIP,50,NBA Jarrett Allen 2+ blocks (Cavaliers vs Raptors),121
-SKIP,50,NBA Donovan Mitchell o4.5 rebounds (Cavaliers vs Raptors),116
-SKIP,50,NBA Rui Hachimura to score 12+ points (Lakers vs Rockets),-125
-SKIP,50,MLB Texas Rangers ML (vs Detroit Tigers),100
-SKIP,50,NBA Cavaliers vs Raptors Over 218.5,-106
-SKIP,50,MLB Guardians vs Athletics F5 u5.5 runs,-130
-SKIP,50,MLB Yankees -1.5 (vs Orioles),120
-SKIP,50,MLB Mariners F5 ML (vs Royals),-140
-SKIP,20,MLB Philadelphia Phillies ML (vs Miami Marlins),-120
+MAX BET,90,NBA 76ers +8 (vs Celtics),-110
+MAX BET,90,"AFL Geelong -23.5 (vs North Melbourne,)",-133
+VALUE,75,NBA Jayson Tatum Double-Double & Tyrese Maxey 5+ AST (76ers @ Celtics),-110
+VALUE,75,Football Auckland Fc vs Melbourne City - Over 9.5 Total Corners,-152
+VALUE,65,Football Urawa Reds To Win -1 Asian Handicap (vs JEF United),125
+VALUE,65,NHL Logan Stankoven over 0.5 points (Carolina Hurricanes vs Philadelphia Flyers),-115
+SKIP,60,NBA Payton Pritchard 5+ assists (PHI 76ers vs BOS Celtics),149
+SKIP,60,Curling Canada ML (vs Italy),-109
+SKIP,50,Rugby Lofi Khan-Pereira ATTS + Dallin Watene-Zelezniak ATTS (Eels vs Warriors),130
