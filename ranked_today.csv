@@ -1,21 +1,8 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA 76ers +8 (vs Celtics),-110
-VALUE,75,NBA Jayson Tatum Double-Double & Tyrese Maxey 5+ AST (76ers @ Celtics),-110
-VALUE,75,eSports HongQ>Karis M1 Kills (WE vs JD) + Neityu u7.5 HS M2 (Natus Vincere vs FaZe),108
-SKIP,60,Curling Canada ML (vs Italy),-109
-SKIP,60,MLB MLB Grand Salami Over 131.5,-105
-SKIP,60,NBA Celtics vs 76ers u214.5 total points + Payton Pritchard over 2.5 rebounds,-114
-SKIP,60,NBA Payton Pritchard o16.5 points + assists (Celtics vs 76ers),-122
-SKIP,60,MLB NYM vs LAA - Under 8,-115
-SKIP,60,Cricket Chennai Super Kings vs Mumbai Indians o167.5 total 6's,-125
-SKIP,60,NBA Celtics ML (vs 76ers),-160
-SKIP,60,NBA Payton Pritchard over 12.5 points (76ers vs Celtics),-115
-SKIP,60,NBA Celtics Alt Line -12.5 (vs 76ers),170
-SKIP,50,MLB Astros ML (vs Red Sox),115
-SKIP,50,MLB Nolan McLean o6.5 strikeouts (Mets vs Angels),-148
-SKIP,50,NBA Philadelphia 76ers vs Boston Celtics - Under 208.5,-144
-SKIP,20,NBA Celtics o105.5 (vs 76ers),-125
-SKIP,20,MLB Sean Burke Over 3.5 Strikeouts (White Sox vs Padres),-135
-SKIP,20,MLB Cardinals o3.5 runs (vs Dodgers),-132
-SKIP,20,NBA 76ers +8.5 (vs Celtics),-121
-SKIP,20,NBA Sixers - Celtics Over 203.5,-111
+MAX BET,90,Football Albirex Niigata -1 vs Kamatamare Sanuki,111
+MAX BET,90,AFL Gold Coast vs GWS OVER 185.5 POINTS,-111
+VALUE,75,NBA RJ Barrett 25+ PR & Scottie Barnes 7+ AST (Raptors vs Cavs),100
+VALUE,75,NHL Minnesota Wild U2.5 goals (vs Colorado Avalanches),-120
+SKIP,60,Multi Peshawar Zalmi ML (vs Hyderabad Kingsmen) + Vitality ML (vs Navi),108
+SKIP,60,Rugby Brian To'o anytime tryscorer (Penrith Panthers v Manly Sea Eagles),-161
+SKIP,60,MLB New York Yankees -1.5 (vs Baltimore Orioles),105
