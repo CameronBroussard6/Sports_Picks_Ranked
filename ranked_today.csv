@@ -3,14 +3,12 @@ MAX BET,90,NBA Tobias Harris o24.5 P+R (Magic vs Pistons),-104
 MAX BET,90,Multi Pistons ML (vs Magic) + Yankees ML (vs Orioles),-111
 MAX BET,90,Football Albirex Niigata -1 vs Kamatamare Sanuki,111
 VALUE,75,NBA RJ Barrett 25+ PR & Scottie Barnes 7+ AST (Raptors vs Cavs),100
-VALUE,75,Football Bruno Fernandes to Assist (Man Utd vs Liverpool),185
+VALUE,75,MLB Yankees -1.5 (vs Orioles),-102
 VALUE,75,NBA Jarrett Allen 2+ blocks (Raptors vs Cavaliers),159
 VALUE,75,NHL Minnesota Wild U2.5 goals (vs Colorado Avalanches),-120
-VALUE,75,MLB Yankees -1.5 (vs Orioles),-102
 VALUE,75,MLB Garrett Mitchell 2+ total bases (Brewers vs Nationals),128
 VALUE,75,NBA Scottie Barnes to get a double double (Raptors vs Cavaliers),108
 VALUE,65,NBA Collin Murray-Bowles u15.5 points + assist (Raptors vs Cavaliers),-110
-SKIP,60,Football Man United o1.5 goals (vs Liverpool),-133
 SKIP,60,NBA Anthony Black u17.5 P+R+A (Pistons vs Magic),-122
 SKIP,60,Multi Peshawar Zalmi ML (vs Hyderabad Kingsmen) + Vitality ML (vs Navi),108
 SKIP,60,MLB New York Yankees -1.5 (vs Baltimore Orioles),105
