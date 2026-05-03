@@ -2,28 +2,40 @@ Action,Score,The Pick,Odds
 MAX BET,90,NBA Tobias Harris o24.5 P+R (Magic vs Pistons),-104
 MAX BET,90,Multi Pistons ML (vs Magic) + Yankees ML (vs Orioles),-111
 MAX BET,90,Football Albirex Niigata -1 vs Kamatamare Sanuki,111
-VALUE,75,NBA RJ Barrett 25+ PR & Scottie Barnes 7+ AST (Raptors vs Cavs),100
-VALUE,75,MLB Yankees -1.5 (vs Orioles),-102
+MAX BET,90,MLB Orioles vs Yankees YRFI,-110
 VALUE,75,NBA Jarrett Allen 2+ blocks (Raptors vs Cavaliers),159
-VALUE,75,NHL Minnesota Wild U2.5 goals (vs Colorado Avalanches),-120
 VALUE,75,MLB Garrett Mitchell 2+ total bases (Brewers vs Nationals),128
+VALUE,75,MLB Yankees -1.5 (vs Orioles),-102
+VALUE,75,NBA RJ Barrett 25+ PR & Scottie Barnes 7+ AST (Raptors vs Cavs),100
+VALUE,75,NHL Minnesota Wild U2.5 goals (vs Colorado Avalanches),-120
 VALUE,75,NBA Scottie Barnes to get a double double (Raptors vs Cavaliers),108
+VALUE,75,MLB Dodgers ML (vs Cardinals),-145
+VALUE,75,UFL Stallions vs Storm o44.5,-115
+VALUE,75,MLB Dodgers ML (vs Cardinals),-134
 VALUE,65,NBA Collin Murray-Bowles u15.5 points + assist (Raptors vs Cavaliers),-110
-SKIP,60,NBA Anthony Black u17.5 P+R+A (Pistons vs Magic),-122
-SKIP,60,Multi Peshawar Zalmi ML (vs Hyderabad Kingsmen) + Vitality ML (vs Navi),108
 SKIP,60,MLB New York Yankees -1.5 (vs Baltimore Orioles),105
-SKIP,60,Football Inter Milan to win (vs Parma) + St. Gallen draw no bet (vs FC Sion),100
-SKIP,60,NBA Donovan Mitchell u4.5 assists (Raptors vs Cavaliers),-135
-SKIP,60,NBA Cavaliers o109.5 points (vs Raptors),-118
 SKIP,60,NBA RJ Barrett 5+ rebounds + Scottie Barnes 7+ assists (Raptors vs Cavaliers),-120
-SKIP,60,MLB Dodgers ML (vs Cardinals),-134
+SKIP,60,Football Inter Milan to win (vs Parma) + St. Gallen draw no bet (vs FC Sion),100
+SKIP,60,Multi Peshawar Zalmi ML (vs Hyderabad Kingsmen) + Vitality ML (vs Navi),108
+SKIP,60,NBA Anthony Black u17.5 P+R+A (Pistons vs Magic),-122
+SKIP,60,MLB Athletics ML (vs Guardians),104
+SKIP,60,NBA Donovan Mitchell u4.5 assists (Raptors vs Cavaliers),-135
+SKIP,60,MLB Padres -1.5 (vs White Sox),119
+SKIP,60,NBA Cavaliers o109.5 points (vs Raptors),-118
+SKIP,60,MLB MLB Grand Salami u139.5,-110
 SKIP,50,Football Aston Villa draw no bet + Both teams to receive a card (vs Tottenham),-115
+SKIP,50,Football Aston Villa vs Spurs o8.5 SOT,-164
+SKIP,50,MLB Red Sox F5 ML (vs Astros),-190
 SKIP,50,Football Sittard -0.75 asian handicap (vs Feyenoord),-167
-SKIP,50,Tennis Sinner vs Zverev o21.5 games,-133
-SKIP,50,MLB Brice Turang 2+ H+R+R (Brewers vs Red Sox),150
 SKIP,50,Football Eli Junior Kroupi 2+ shots (Bournemouth vs Crystal Palace),-137
+SKIP,50,NASCAR Daniel Suarez to finish in Top 10 (Wurth 400 @ Texas Motor Speedway),150
+SKIP,50,MLB Guardians ML(vs Athletics),-120
+SKIP,50,MLB Brice Turang 2+ H+R+R (Brewers vs Red Sox),150
+SKIP,50,MLB Andrew McCutchen o0.5 hits (Rangers vs Tigers),105
 SKIP,50,NBA Raptors vs Cavaliers 0210.5,-112
 SKIP,50,NBA Magic vs Pistons u202.5,-115
-SKIP,20,UFL Storm -3.5 (vs Stallions),-115
-SKIP,20,WNBA Dream -6.5 (vs Mystics),-110
+SKIP,20,MLB Braves -1.5 (vs Rockies),-110
 SKIP,20,NBA Raptors +8.5 (vs Cavaliers),-120
+SKIP,20,WNBA Dream -6.5 (vs Mystics),-110
+SKIP,20,UFL Storm -3.5 (vs Stallions),-115
+SKIP,20,NBA Tobias Harris 24.5+ PTS+REB (Magic vs Pistons),-120
