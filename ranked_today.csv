@@ -1,30 +1,21 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA 76ers +8 (vs Celtics),-110
-MAX BET,90,MLB Atlanta Braves vs Colorado Rockies YRFI (o0.5 runs in the first inning),-125
 VALUE,75,NBA Jayson Tatum Double-Double & Tyrese Maxey 5+ AST (76ers @ Celtics),-110
-VALUE,75,MLB Blue Jays ML & Cease 5+ Ks (vs Twins),115
-VALUE,75,NBA Joel Embiid o1.5 Q1 assists (76ers vs Celtics),111
-VALUE,75,MLB Wilyer Abreu 2+ total bases (Astros vs Red Sox),123
 VALUE,75,eSports HongQ>Karis M1 Kills (WE vs JD) + Neityu u7.5 HS M2 (Natus Vincere vs FaZe),108
-VALUE,65,NHL Logan Stankoven over 0.5 points (Carolina Hurricanes vs Philadelphia Flyers),-115
 SKIP,60,Curling Canada ML (vs Italy),-109
-SKIP,60,MLB Oakland Athletics ML (vs Guardians),-136
-SKIP,60,NBA Payton Pritchard 5+ assists (PHI 76ers vs BOS Celtics),149
-SKIP,60,Football Valur Reykjavík Over 1 Team Goals + KR Reykjavík Over 1 Team Goals,105
 SKIP,60,MLB MLB Grand Salami Over 131.5,-105
+SKIP,60,NBA Celtics vs 76ers u214.5 total points + Payton Pritchard over 2.5 rebounds,-114
 SKIP,60,NBA Payton Pritchard o16.5 points + assists (Celtics vs 76ers),-122
-SKIP,60,NBA Celtics Alt Line -12.5 (vs 76ers),170
+SKIP,60,MLB NYM vs LAA - Under 8,-115
 SKIP,60,Cricket Chennai Super Kings vs Mumbai Indians o167.5 total 6's,-125
-SKIP,60,MLB Milwaukee Brewers vs Washington Nationals Over 7.5 Runs,-105
+SKIP,60,NBA Celtics ML (vs 76ers),-160
 SKIP,60,NBA Payton Pritchard over 12.5 points (76ers vs Celtics),-115
-SKIP,60,MLB Guardians vs Athletics o10.0 runs,-110
-SKIP,60,Cricket Mumbai Indians ML (vs Chennai Super Kings),-135
-SKIP,60,MLB Yankees -1.5 (vs Orioles),135
+SKIP,60,NBA Celtics Alt Line -12.5 (vs 76ers),170
+SKIP,50,MLB Astros ML (vs Red Sox),115
 SKIP,50,MLB Nolan McLean o6.5 strikeouts (Mets vs Angels),-148
-SKIP,50,NBA Joel Embiid o4.5 assists (76ers vs Celtics),-115
 SKIP,50,NBA Philadelphia 76ers vs Boston Celtics - Under 208.5,-144
-SKIP,50,MLB Cubs ML (vs Diamondbacks),-151
-SKIP,20,Football Stevenage FC ML (vs Wigan Athletic) + Ipswich Town ML (vs Queens Park Rangers),-114
 SKIP,20,NBA Celtics o105.5 (vs 76ers),-125
-SKIP,20,MLB Cardinals o3.5 runs (vs Dodgers),-132
 SKIP,20,MLB Sean Burke Over 3.5 Strikeouts (White Sox vs Padres),-135
+SKIP,20,MLB Cardinals o3.5 runs (vs Dodgers),-132
+SKIP,20,NBA 76ers +8.5 (vs Celtics),-121
+SKIP,20,NBA Sixers - Celtics Over 203.5,-111
