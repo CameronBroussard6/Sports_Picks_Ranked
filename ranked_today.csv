@@ -1,19 +1,13 @@
 Action,Score,The Pick,Odds
-MAX BET,90,Football Albirex Niigata -1 vs Kamatamare Sanuki,111
-VALUE,75,NBA RJ Barrett 25+ PR & Scottie Barnes 7+ AST (Raptors vs Cavs),100
-VALUE,75,NBA Jarrett Allen 2+ blocks (Raptors vs Cavaliers),159
-VALUE,75,NBA Scottie Barnes to get a double double (Raptors vs Cavaliers),108
-VALUE,75,NHL Minnesota Wild U2.5 goals (vs Colorado Avalanches),-120
-VALUE,75,UFL Stallions vs Storm o44.5,-115
-VALUE,65,NBA Collin Murray-Bowles u15.5 points + assist (Raptors vs Cavaliers),-110
-SKIP,60,MLB MLB Grand Salami u139.5,-110
-SKIP,60,Multi Peshawar Zalmi ML (vs Hyderabad Kingsmen) + Vitality ML (vs Navi),108
-SKIP,60,NBA Donovan Mitchell u4.5 assists (Raptors vs Cavaliers),-135
-SKIP,60,NBA Cavaliers o109.5 points (vs Raptors),-118
-SKIP,60,NBA RJ Barrett 5+ rebounds + Scottie Barnes 7+ assists (Raptors vs Cavaliers),-120
-SKIP,50,MLB Brice Turang 2+ H+R+R (Brewers vs Nationals),150
-SKIP,50,NBA Raptors vs Cavaliers 0210.5,-112
-SKIP,50,MLB Andrew McCutchen o0.5 hits (Rangers vs Tigers),105
-SKIP,20,NBA Raptors +8.5 (vs Cavaliers),-120
-SKIP,20,WNBA Dream -6.5 (vs Mystics),-110
-SKIP,20,UFL Storm -3.5 (vs Stallions),-115
+MAX BET,90,NBA 76ers vs Knicks o212.5,-110
+VALUE,75,Football Omari Hutchinson o0.5 SoT (Chelsea vs Nottm Forest),100
+VALUE,75,NBA OG Anunoby o6.5 rebounds (Knicks vs 76ers),-137
+VALUE,65,NBA Joel Embiid 35+ PTS/REB/AST + OG Anunoby 15+ PTS (Knicks vs 76ers),-115
+SKIP,60,Football Man City ML (vs Everton),-200
+SKIP,60,NBA Paul George o2.5 threes made (Knicks vs 76ers),118
+SKIP,60,Football Hearts of Midlothian vs Rangers BTTS,-175
+SKIP,60,NPB Hanshin Tigers ML (vs Chunichi Dragons),-132
+SKIP,60,MLB Marlins ML (vs Phillies),100
+SKIP,50,NBA Josh Hart o12.5 R+A (Knicks vs 76ers),-116
+SKIP,50,Tennis Pablo Carreño Busta ML (vs Martin Damm Jr.),-170
+SKIP,20,NBA Mikal Bridges o10.5 points (Knicks vs 76ers),100
