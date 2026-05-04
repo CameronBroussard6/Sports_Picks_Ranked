@@ -1,21 +1,19 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA 76ers vs Knicks o212.5,-110
 MAX BET,90,NBA Embiid 4+ assists + Towns 4+ assists (76ers vs Knicks),-110
-MAX BET,90,MLB Atlanta Braves vs Seattle Mariners YRFI (o0.5 runs in the first inning),100
 MAX BET,90,MLB Yankees -1.5 (vs Orioles),100
+MAX BET,90,MLB Atlanta Braves vs Seattle Mariners YRFI (o0.5 runs in the first inning),100
 VALUE,75,NBA OG Anunoby o6.5 rebounds (Knicks vs 76ers),-137
 VALUE,75,NBA Maxey 30+ P+R+A + Towns o26.5 P+R (Knicks vs 76ers),-139
 VALUE,75,NBA Tyrese Maxey o25.5 points (76ers vs Knicks),-105
 VALUE,65,NBA Joel Embiid 35+ PTS/REB/AST + OG Anunoby 15+ PTS (Knicks vs 76ers),-115
 VALUE,65,MLB Braves +1.5 (vs Mariners),-164
-SKIP,60,Football Man City ML (vs Everton),-200
 SKIP,60,MLB Shohei Ohtani o0.1 RBI (Dodgers vs Astros),110
-SKIP,60,MLB Marlins ML (vs Phillies),100
 SKIP,60,NBA Paul George o2.5 threes made (Knicks vs 76ers),118
 SKIP,60,MLB Phillies vs Marlins o8.5,-115
 SKIP,60,MLB Angels ML (vs White Sox),-150
+SKIP,60,MLB Marlins ML (vs Phillies),100
 SKIP,50,MLB Blue Jays vs Rays under 8,-115
-SKIP,50,Football Man City ML (vs Everton) + Hearts +1 AH (vs Rangers),-114
 SKIP,50,NBA Josh Hart o12.5 R+A (Knicks vs 76ers),-116
 SKIP,50,MLB Seattle Mariners ML (vs Atlanta Braves),132
 SKIP,50,Football Real Sociedad +0.25 AH First Half (vs Molde),-175
