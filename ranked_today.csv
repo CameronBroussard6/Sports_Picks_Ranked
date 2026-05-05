@@ -1,25 +1,17 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA 76ers vs Knicks o212.5,-110
-MAX BET,90,NBA Embiid 4+ assists + Towns 4+ assists (76ers vs Knicks),-110
-MAX BET,90,MLB Yankees -1.5 (vs Orioles),100
-MAX BET,90,MLB Atlanta Braves vs Seattle Mariners YRFI (o0.5 runs in the first inning),100
-VALUE,75,NBA OG Anunoby o6.5 rebounds (Knicks vs 76ers),-137
-VALUE,75,NBA Maxey 30+ P+R+A + Towns o26.5 P+R (Knicks vs 76ers),-139
-VALUE,75,NBA Tyrese Maxey o25.5 points (76ers vs Knicks),-105
-VALUE,65,NBA Joel Embiid 35+ PTS/REB/AST + OG Anunoby 15+ PTS (Knicks vs 76ers),-115
+VALUE,75,MLB MLB Grand Salami o108.5,-120
+VALUE,75,MLB Mets ML (vs Rockies),-140
 VALUE,65,MLB Braves +1.5 (vs Mariners),-164
-SKIP,60,MLB Shohei Ohtani o0.1 RBI (Dodgers vs Astros),110
-SKIP,60,NBA Paul George o2.5 threes made (Knicks vs 76ers),118
-SKIP,60,MLB Phillies vs Marlins o8.5,-115
+VALUE,65,MLB Toby Rumfield 2+ total bases (Mets vs Rockies),130
+SKIP,60,NBA Keldon Johnson 1+ 3PM (Timberwolves vs Spurs),-155
+SKIP,60,MLB White Sox +1.0 (vs Angels),-117
+SKIP,60,MLB Padres vs Giants u8.0,-109
 SKIP,60,MLB Angels ML (vs White Sox),-150
-SKIP,60,MLB Marlins ML (vs Phillies),100
-SKIP,50,MLB Blue Jays vs Rays under 8,-115
-SKIP,50,NBA Josh Hart o12.5 R+A (Knicks vs 76ers),-116
-SKIP,50,MLB Seattle Mariners ML (vs Atlanta Braves),132
-SKIP,50,Football Real Sociedad +0.25 AH First Half (vs Molde),-175
 SKIP,50,MLB J.T. Realmuto u1.5 total bases (Phillies vs Marlins),-188
 SKIP,50,MLB Houston Astros ML (vs LA Dodgers),163
-SKIP,50,NBA Joel Embiid OVER 1.5 Blocks (76ers vs Knicks),120
-SKIP,50,Cricket Mumbai Indians vs Lucknow Super Giants o20.5 sixes,-125
+SKIP,50,MLB Seattle Mariners ML (vs Atlanta Braves),132
 SKIP,50,MLB Giants vs Padres u8.0 runs,-110
-SKIP,20,NBA Mikal Bridges o10.5 points (Knicks vs 76ers),100
+SKIP,50,NBA Stephon Castle o1.5 3PM (Spurs vs Timberwolves),110
+SKIP,50,NBA Brunson u26.5 pts (Knicks vs 76ers),-118
+SKIP,20,MLB Sugano u3.5 earned runs (Mets vs Rockies) + Petty o2.5 walks (Reds vs Cubs),263
+SKIP,20,MLB Payton Tolle 5+ Strikeouts (Red Sox vs Tigers),-170
