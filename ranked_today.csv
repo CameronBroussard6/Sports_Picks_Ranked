@@ -1,27 +1,11 @@
 Action,Score,The Pick,Odds
-MAX BET,90,Multi Dodgers ML (vs Astros) + Thunder o108.5 (vs Lakers),-101
-MAX BET,90,NHL Nazem Kadri o2.5 shots on goal (Avalanche vs Wild),114
-MAX BET,90,MLB Atlanta Braves @ Seattle Mariners YRFI (o0.5 runs in the first inning),105
-MAX BET,90,MLB Dodgers -1.5 (vs Astros),-130
-MAX BET,80,NBA Tobias Harris o16.5 points (Cavaliers vs Pistons),-115
-VALUE,75,NBA Evan Mobley o23.5 P+R (Cavaliers vs Pistons),-130
-VALUE,75,NBA Rui Hachimura to score 12+ points (Lakers vs Thunder),-125
-VALUE,75,NBA Jarrett Allen u7.5 R (Cavaliers vs Pistons),100
-VALUE,65,NBA Jalen Duren 25+ P+R + Ausar Thompson 1+ block (Pistons vs Cavalier),100
-VALUE,65,NBA Rui Hachimura 12+ points (Lakers vs Thunder),-127
-SKIP,60,NBA Cavaliers +9.5 (vs Pistons) + Thunder -9.5 (vs Lakers),-110
-SKIP,60,Multi PSG +1.5 (vs Bayern) + Rays +2.0 (vs Blue Jays),-102
-SKIP,60,NBA Tobias Harris o23.5 points + rebounds (Pistons vs Cavaliers),-114
-SKIP,60,NBA Cade Cunningham a9.5 AST (Pistons vs Cavaliers),-105
-SKIP,60,Football Palmeiras o1.5 goals (vs Sporting Crystal),-122
-SKIP,60,NBA Tobias Harris 23.5+ PTS+REB (Pistons vs Cavaliers),-112
-SKIP,60,MLB Pirates F5 +0.5 (vs Diamondbacks),-125
-SKIP,60,MLB Shohei Ohtani o6.5 Strikeouts (Dodgers vs Astros),-155
-SKIP,60,NBA Jalen Duren o10.5 rebounds (Cavaliers vs Pistons),-110
-SKIP,50,MLB MJ Melendez o0.5 hits (Mets vs Rockies),-180
-SKIP,50,NHL Avalanche ML (vs Wild),-194
-SKIP,50,NBA Pistons -3.0 (vs Cavaliers),-110
-SKIP,50,NBA Pistons -3.5 (vs Cavaliers),-110
-SKIP,50,MLB Braves ML (vs Mariners),123
-SKIP,50,MLB Braves F5 +0.5 (vs Mariners),-112
-SKIP,20,NBA Jalen Duren p3.5P 1Q (Pistons vs Cavaliers),-172
+MAX BET,80,Football FC Tokyo To Win + o1.5 (vs JEF United) + Nagoya Grampus vs Gamba Osaka BTTS,191
+VALUE,75,eSports TOP Esports Map 1 ML (vs. JDG),-110
+VALUE,65,NHL Canadiens vs Sabres o5.5,-120
+SKIP,60,Football Bayern ML + BTTS (vs PSG),125
+SKIP,60,Tennis Comesana ML (vs Struff),-162
+SKIP,50,Football Bayern Munich o7.5 SOT (vs PSG),-164
+SKIP,50,Boxing Nikita Tszyu by KO (vs Oscar Diaz),-120
+SKIP,50,Football Bayern Munich to qualify (vs PSG),-118
+SKIP,50,MLB Yankees -1.5 (vs Rangers),115
+SKIP,20,Handball Achenheim Truchtersheim (W) u30.5 goals scored (vs Havre Athletic Club),-118
