@@ -2,41 +2,31 @@ Action,Score,The Pick,Odds
 MAX BET,90,NBA Mikal Bridges o14.5 PA (76ers vs Knicks),-120
 MAX BET,90,MLB Angels ML (vs White Sox),100
 MAX BET,90,NBA Paul George o2.5 3PM (Knicks vs 76ers),-102
-MAX BET,80,MLB Dodgers vs Astros YRFI,-115
 MAX BET,80,NBA 76ers vs Knicks o215.0,-110
+MAX BET,80,MLB Dodgers vs Astros YRFI,-115
 VALUE,75,NBA Stephon Castle 2+ threes made (Timberwolves vs Spurs),127
-VALUE,75,Football Bayern Munich to qualify + u5.5 total goals (vs PSG),174
-VALUE,75,NBA Kelly Oubre Jr. o5.5 rebounds (76ers vs Knicks),-112
 VALUE,75,eSports TOP Esports Map 1 ML (vs. JDG),-110
-VALUE,65,MLB MLB Grand Salami Over 133.5,-105
-VALUE,65,Football Both teams o0.5 goals from 1-60 minutes (Bayern vs PSG),100
+VALUE,75,NBA Kelly Oubre Jr. o5.5 rebounds (76ers vs Knicks),-112
 VALUE,65,NHL Canadiens vs Sabres o5.5,-120
-SKIP,60,NBA Paul George o2.5 threes made (Knicks vs 76ers),108
+VALUE,65,MLB MLB Grand Salami Over 133.5,-105
 SKIP,60,Multi PSG +2 spread (vs Bayern) + Phillies ML (vs Athletics),141
-SKIP,60,MLB Pirates F5 ML (vs Diamondbacks),-151
-SKIP,60,MLB Yankees -1.5 (vs Rangers),115
-SKIP,60,MLB Shohei Ohtani o1.5 total bases (Dodgers vs Astros),-110
-SKIP,60,Football Bayern Munich vs PSG o4.5 TG,120
 SKIP,60,NBA Kelly Oubre Jr o1.5 rebounds 1Q (Knicks vs 76ers),-118
+SKIP,60,NBA MIN Timberwolves +10.5 (vs Spurs),-110
 SKIP,60,NBA Paul George u5.5 rebounds (76ers vs Knicks),-127
 SKIP,60,NBA Joel Embiid u1.5 three points made (76ers vs Knicks),-148
-SKIP,60,Football Bayern ML + BTTS (vs PSG),125
-SKIP,60,MLB Jackson Merrill 3+ Hit + Run + RBI (Padres vs Giants),165
-SKIP,60,NBA OG Anunoby 15+ PTS + Jaden McDaniels UNDER 1.5 3's (76ers vs Knicks),120
-SKIP,60,Football Bayern Munich vs PSG BTTS + under 11.5 total corners in 90 min,-106
-SKIP,60,NBA MIN Timberwolves +10.5 (vs Spurs),-110
-SKIP,60,MLB Jackson Merrill 2+ Hit + Run + RBI (Padres vs Giants),-117
-SKIP,60,Cricket Sunrisers Hyderabad vs Punjab Kings o21.5 sixes,-118
-SKIP,60,Tennis Comesana ML (vs Struff),-162
 SKIP,60,NBA Joel Embiid under 1.5 three point (76ers vs Knicks),-114
-SKIP,50,MLB MLB - TOR vs TB - Under 7.5,-104
-SKIP,50,Football Bayern vs PSG u19.5 shots,-123
-SKIP,50,Football Bayern Munich o7.5 SOT (vs PSG),-164
-SKIP,50,Boxing Nikita Tszyu by KO (vs Oscar Diaz),-120
+SKIP,60,NBA OG Anunoby 15+ PTS + Jaden McDaniels UNDER 1.5 3's (76ers vs Knicks),120
+SKIP,60,MLB Jackson Merrill 3+ Hit + Run + RBI (Padres vs Giants),165
+SKIP,60,Cricket Sunrisers Hyderabad vs Punjab Kings o21.5 sixes,-118
+SKIP,60,NBA Paul George o2.5 threes made (Knicks vs 76ers),108
+SKIP,60,MLB Shohei Ohtani o1.5 total bases (Dodgers vs Astros),-110
+SKIP,60,MLB Yankees -1.5 (vs Rangers),115
+SKIP,60,MLB Pirates F5 ML (vs Diamondbacks),-151
+SKIP,60,MLB Jackson Merrill 2+ Hit + Run + RBI (Padres vs Giants),-117
 SKIP,50,NBA Anthony Edwards u2.5 three points made (Timberwolves vs Spurs),-120
+SKIP,50,Boxing Nikita Tszyu by KO (vs Oscar Diaz),-120
+SKIP,50,MLB MLB - TOR vs TB - Under 7.5,-104
 SKIP,50,MLB Guardians vs Royals NRFI,-125
-SKIP,50,Football Bayern Munich to qualify (vs PSG),-118
-SKIP,50,Football Bayern vs PSG o1.5 TG in 1H,-152
 SKIP,50,NBA Mitchell Robinson u7.5 rebounds (Knicks vs 76ers),-145
 SKIP,20,Table Tennis Brazil M ML (vs England M),-180
 SKIP,20,MLB Athletics ML (vs Phillies),145
