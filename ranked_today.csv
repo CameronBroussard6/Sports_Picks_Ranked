@@ -1,13 +1,30 @@
 Action,Score,The Pick,Odds
+MAX BET,90,NBA Marcus Smart o6.5 R+A (Lakers vs Thunder),-128
 MAX BET,90,MLB Byron Buxton o2.5 Hits + Runs + RBIs (Twins vs Nationals),119
+MAX BET,90,NBA Rui Hachimura 10+ points + Lebron James 18+ points (Lakers vs Thunder),-125
 MAX BET,80,NBA LeBron James o21.5 points (Lakers vs Thunder),-116
 VALUE,75,NBA Jarrett Allen 2+ blocks (Pistons vs Cavaliers),170
+VALUE,75,Cricket Lucknow Super Giants u85.5 10 overs runs (vs Royal Challengers Banglore),-125
+VALUE,75,eSports GIDEON o2.5 kills Map 1 (BRO vs FearX),-139
 VALUE,65,AFL Fremantle vs Hawthorn either team to win by 24 or less,-113
-SKIP,60,NBA Chet Holmgren o16.5 points (Lakers vs Thunder),-110
+SKIP,60,NBA Duncan Robinson 2+ three pointers + Tobias Harris 15+ points (Cavaliers vs Pistons),-135
 SKIP,60,Football Nottm Forest o0.5 SOT 1H (vs Aston Villa) + T. Harris 15+ P (CLE vs DET),-156
-SKIP,60,Football Freiburg vs Braga - Both teams to receive 2+ cards,100
 SKIP,60,Football SHAKHTAR Over +0.50 (vs CRYSTAL PALACE),-167
-SKIP,50,Tennis Marin Cilic ML (vs Marcos Giron),-165
+SKIP,60,Rugby Dolphins -8.5 (vs Bulldogs),-105
+SKIP,60,NBA Chet Holmgren o16.5 points (Lakers vs Thunder),-110
+SKIP,60,NBA Shai Gilgeous-Alexander u1.5 threes made (Lakers vs Thunder),-118
+SKIP,60,Table Tennis Sweden M ML (vs Chinese Taipei M),-160
+SKIP,60,Football Freiburg vs Braga - Both teams to receive 2+ cards,100
+SKIP,60,Rugby Jamayne Isaako ATTS (Dolphins vs Bulldogs),-118
+SKIP,50,MLB Michael King u5.5 strikeouts (Cardinals vs Padres),-118
 SKIP,50,Rugby Jamayne Isaako ATTS + Dolphins ML (vs Bulldogs),150
+SKIP,50,Football Nottingham Forest o3.5 shots on target (vs Aston Villa),-114
+SKIP,50,Tennis Marin Cilic ML (vs Marcos Giron),-165
+SKIP,50,Football Freiburg vs Sporting Braga o2.5 TG,100
+SKIP,50,NBA Donovan Mitchell 2+ threes made + James Harden 15+ points (Cavaliers vs Pistons),-165
 SKIP,50,Golf Si Woo Kim Top 20,150
+SKIP,50,Football Nottingham Forest to qualify (vs Aston Villa),-125
+SKIP,20,AFL Hawthorn ML (vs Freemantle),118
+SKIP,20,Golf Ludvig Aberg o4.5 birdies or eagles Round 1 (PGA Truist Championship),100
+SKIP,20,NBA Jalen Duren over 11.5 rebound (Pistons vs Cavaliers),-110
 SKIP,20,Handball CSU Suceava under 32.5 goals vs CSM Bucaresti,-133
