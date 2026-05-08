@@ -6,36 +6,29 @@ MAX BET,90,NBA Paul George to score 3+ 3PM (76ers vs Knicks),105
 MAX BET,80,MLB Brewers ML (vs Yankees),106
 MAX BET,80,MLB Mariners vs White Sox u8.0 runs,-114
 MAX BET,80,NHL Sabres 60-Minute ML (vs Canadiens),120
+VALUE,75,MLB Phillies -1.5 (vs Rockies),100
 VALUE,75,MLB MLB Grand Salami u129.5,-110
 VALUE,75,NHL Canadiens vs Sabres o5.5,-125
-VALUE,75,MLB Phillies -1.5 (vs Rockies),100
-VALUE,75,Football Lens to win + o1.5 goals (vs Nantes) + HamKam vs Vålerenga BTTS,146
-VALUE,75,Football Cádiz vs La Coruña BTTS,-139
 VALUE,75,eSports 1xn>Hena Map 1 Kills (Ultra Prime vs LNG) + TDK Map 2 ML (vs TNC),-116
 VALUE,65,Cricket Kolkata Knight Riders vs Delhi Capitals o20.5 sixes,-111
-SKIP,60,NBA Naz Reid o1.5 three point made (Spurs vs Timberwolves),-152
 SKIP,60,MLB Angels vs Blue Jays F5 u4.5 runs,-145
 SKIP,60,NBA 76ers ML (vs Knicks),-118
-SKIP,60,Basketball Khasiin Khuleguud u95.5 points (vs New Taipei Kings),-102
-SKIP,60,Football Hull City vs Millwall o8.5 total corners + RC Lens o5.5 team corners (vs Nantes),-127
-SKIP,60,Football Dortmund to have the most corners + BTTS (vs Frankfurt),-120
+SKIP,60,NBA Naz Reid o1.5 three point made (Spurs vs Timberwolves),-152
 SKIP,60,WNBA Tempo ML (vs Mystics),-110
+SKIP,60,Basketball Khasiin Khuleguud u95.5 points (vs New Taipei Kings),-102
+SKIP,60,Disc Golf Cameron Young Top 10 at Truist Championship (will resolve 05/10),-162
 SKIP,60,NBA Karl-Anthony Towns o20.5 Pts (Knicks vs 76ers),-109
 SKIP,60,AFL Port Adelaide ML (vs Western Bulldogs),-118
-SKIP,60,Football Hull vs Millwall u1.25 first half asian goals,-179
-SKIP,60,Disc Golf Cameron Young Top 10 at Truist Championship (will resolve 05/10),-162
 SKIP,60,NBA Josh Hart u18.5 points + assists (Knicks vs 76ers),-128
 SKIP,50,NBA Josh Hart o1.5 steals (Knicks @ 76ers),178
+SKIP,50,MLB Rockies ML (vs Phillies),179
+SKIP,50,NBA Terrence Shannon o10.5 points (Timberwolves vs Spurs),-105
 SKIP,50,NBA Anthony Edwards u9.5 R+A (Spurs vs Timberwolves),-123
 SKIP,50,NBA Rudy Gobert u8.5 pts (Timberwolves vs Spurs),-120
-SKIP,50,NBA Terrence Shannon o10.5 points (Timberwolves vs Spurs),-105
-SKIP,50,Football Torino u5.5 corners (vs Sassuolo),-167
-SKIP,50,MLB Rockies ML (vs Phillies),179
-SKIP,50,Tennis Alejandro Tabilo vs Francisco Cerundolo o22.5 games,-125
 SKIP,50,MLB JJ Bleday 2+ HRR (Reds vs Astros),-110
 SKIP,50,Table Tennis France ML (vs Brazil),-155
+SKIP,50,Tennis Alejandro Tabilo vs Francisco Cerundolo o22.5 games,-125
 SKIP,50,NHL Ducks ML (vs Golden Knights),-110
-SKIP,50,Football Bari double chance (vs Catanzaro) + Avellino draw no bet (vs Modena),-141
 SKIP,50,MLB Pirates vs Giants u7.5 runs,-105
 SKIP,50,MLB Jackson Merrill 2+ total bases (Cardinals vs Padres),-110
 SKIP,50,MLB Braves ML (vs Dodgers),100
