@@ -1,14 +1,28 @@
 Action,Score,The Pick,Odds
-MAX BET,90,AFL Brisbane TT o112.5 (vs Carlton),-117
-VALUE,75,Rugby Robert Toia ATTS (Roosters vs Titans),120
+MAX BET,90,NBA Paul George o4.5 Q1 points (Knicks vs 76ers),109
+MAX BET,90,NBA Paul George to score 3+ 3PM (76ers vs Knicks),105
+MAX BET,90,NBA Naz Reid o1.5 Threes (Spurs vs Timberwolves),-125
+VALUE,75,Football Cádiz vs La Coruña BTTS,-139
+VALUE,75,Football Lens to win + o1.5 goals (vs Nantes) + HamKam vs Vålerenga BTTS,146
 VALUE,75,NHL Canadiens vs Sabres o5.5,-125
-VALUE,65,eSports 1xn>Hena Map 1 Kills (Ultra Prime vs LNG) + TDK Map 2 ML (vs TNC),-116
-SKIP,60,Rugby Sam Walker anytime try scorer (Roosters vs Titans),160
-SKIP,60,WNBA Tempo ML (vs Mystics),-110
-SKIP,60,Rugby North Queensland Cowboys -8.5 (vs Parramatta),-139
+VALUE,75,eSports 1xn>Hena Map 1 Kills (Ultra Prime vs LNG) + TDK Map 2 ML (vs TNC),-116
+VALUE,65,Cricket Kolkata Knight Riders vs Delhi Capitals o20.5 sixes,-111
+SKIP,60,MLB Angels vs Blue Jays F5 u4.5 runs,-145
+SKIP,60,Football Dortmund to have the most corners + BTTS (vs Frankfurt),-120
+SKIP,60,Basketball Khasiin Khuleguud u95.5 points (vs New Taipei Kings),-102
+SKIP,60,NBA 76ers ML (vs Knicks),-118
 SKIP,60,Football Hull City vs Millwall o8.5 total corners + RC Lens o5.5 team corners (vs Nantes),-127
+SKIP,60,WNBA Tempo ML (vs Mystics),-110
 SKIP,50,NBA Josh Hart o1.5 steals (Knicks @ 76ers),178
-SKIP,50,Rugby Robert Toia Anytime Try Scorer (Roosters vs Titans),120
+SKIP,50,NBA Terrence Shannon o10.5 points (Timberwolves vs Spurs),-105
+SKIP,50,NBA Anthony Edwards u9.5 R+A (Spurs vs Timberwolves),-123
+SKIP,50,MLB JJ Bleday 2+ HRR (Reds vs Astros),-110
+SKIP,50,Tennis Alejandro Tabilo vs Francisco Cerundolo o22.5 games,-125
+SKIP,50,Table Tennis France ML (vs Brazil),-155
+SKIP,50,Football Bari double chance (vs Catanzaro) + Avellino draw no bet (vs Modena),-141
+SKIP,50,MLB Jackson Merrill 2+ total bases (Cardinals vs Padres),-110
 SKIP,50,MLB Braves ML (vs Dodgers),100
-SKIP,20,Basketball Khasiin Khuleguud u95.5 points (vs New Taipei Kings),-102
+SKIP,50,MLB Mariners vs White Sox NRSI,-145
+SKIP,20,Cycling Dylan Groenewegen Top 3 Finish Stage 1 (Giro d'Italia Stage 1),175
+SKIP,20,WNBA Flau'jae Johnson o12 points (Valkyries vs Storm),100
 SKIP,20,NHL Hurricanes vs Flyers Regulation Time Tie,290
