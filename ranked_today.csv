@@ -5,17 +5,15 @@ MAX BET,80,NBA LeBron James o21.5 points (Lakers vs Thunder),-116
 VALUE,75,Cricket Lucknow Super Giants u85.5 10 overs runs (vs Royal Challengers Banglore),-125
 VALUE,65,MLB MLB Grand Salami Over 93.5,100
 VALUE,65,eSports GIDEON o2.5 kills Map 1 (BRO vs FearX),-139
-SKIP,60,NBA Duncan Robinson 2+ three pointers + Tobias Harris 15+ points (Cavaliers vs Pistons),-135
-SKIP,60,NBA Chet Holmgren o16.5 points (Lakers vs Thunder),-110
 SKIP,60,NBA Shai Gilgeous-Alexander u1.5 threes made (Lakers vs Thunder),-118
-SKIP,60,MLB Jackson Merrill 2+ total bases (Cardinals vs Padres),120
 SKIP,60,Table Tennis Sweden M ML (vs Chinese Taipei M),-160
+SKIP,60,NBA Chet Holmgren o16.5 points (Lakers vs Thunder),-110
+SKIP,60,NBA Shai Gilgeous-Alexander u29.5 points (Lakers vs Thunder),-112
 SKIP,50,MLB Michael King u5.5 strikeouts (Cardinals vs Padres),-118
+SKIP,50,NBA Thunder -15 (vs Lakers),-110
 SKIP,50,KBO Giants vs Wiz u9.0 runs,-150
-SKIP,50,MLB Josh Jung 2+ Hits+Runs+RBIs (Rangers vs Yankees),-125
-SKIP,50,MLB Jake Irvin H2H Ks + Simeon Woods Richardson 3+ Ks (Twins vs Nationals),102
 SKIP,50,Golf Si Woo Kim Top 20,150
-SKIP,20,NBA Rui Hachimura o12.5 points (Lakers vs Thunder),-128
 SKIP,20,Handball CSU Suceava under 32.5 goals vs CSM Bucaresti,-133
-SKIP,20,NBA Jalen Duren over 11.5 rebound (Pistons vs Cavaliers),-110
+SKIP,20,NBA Rui Hachimura o12.5 points (Lakers vs Thunder),-128
+SKIP,20,MLB Orioles ML (vs Marlins),110
 SKIP,20,Golf Ludvig Aberg o4.5 birdies or eagles Round 1 (PGA Truist Championship),100
