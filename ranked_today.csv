@@ -1,42 +1,24 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA Paul George o4.5 Q1 points (Knicks vs 76ers),109
 MAX BET,90,MLB Braves vs Dodgers YRFI (o0.5 runs in the first inning),105
 MAX BET,90,NBA Naz Reid o1.5 Threes (Spurs vs Timberwolves),-125
-MAX BET,90,NBA Paul George to score 3+ 3PM (76ers vs Knicks),105
-MAX BET,80,MLB Brewers ML (vs Yankees),106
-MAX BET,80,MLB Mariners vs White Sox u8.0 runs,-114
-MAX BET,80,NHL Sabres 60-Minute ML (vs Canadiens),120
-VALUE,75,MLB Phillies -1.5 (vs Rockies),100
 VALUE,75,MLB MLB Grand Salami u129.5,-110
-VALUE,75,NHL Canadiens vs Sabres o5.5,-125
+VALUE,75,MLB Phillies -1.5 (vs Rockies),100
 VALUE,75,eSports 1xn>Hena Map 1 Kills (Ultra Prime vs LNG) + TDK Map 2 ML (vs TNC),-116
-VALUE,65,Cricket Kolkata Knight Riders vs Delhi Capitals o20.5 sixes,-111
-SKIP,60,MLB Angels vs Blue Jays F5 u4.5 runs,-145
-SKIP,60,NBA 76ers ML (vs Knicks),-118
 SKIP,60,NBA Naz Reid o1.5 three point made (Spurs vs Timberwolves),-152
-SKIP,60,WNBA Tempo ML (vs Mystics),-110
-SKIP,60,Basketball Khasiin Khuleguud u95.5 points (vs New Taipei Kings),-102
 SKIP,60,Disc Golf Cameron Young Top 10 at Truist Championship (will resolve 05/10),-162
-SKIP,60,NBA Karl-Anthony Towns o20.5 Pts (Knicks vs 76ers),-109
-SKIP,60,AFL Port Adelaide ML (vs Western Bulldogs),-118
-SKIP,60,NBA Josh Hart u18.5 points + assists (Knicks vs 76ers),-128
-SKIP,50,NBA Josh Hart o1.5 steals (Knicks @ 76ers),178
+SKIP,60,WNBA Tempo ML (vs Mystics),-110
 SKIP,50,MLB Rockies ML (vs Phillies),179
-SKIP,50,NBA Terrence Shannon o10.5 points (Timberwolves vs Spurs),-105
 SKIP,50,NBA Anthony Edwards u9.5 R+A (Spurs vs Timberwolves),-123
-SKIP,50,NBA Rudy Gobert u8.5 pts (Timberwolves vs Spurs),-120
-SKIP,50,MLB JJ Bleday 2+ HRR (Reds vs Astros),-110
+SKIP,50,NHL Ducks ML (vs Golden Knights),-110
 SKIP,50,Table Tennis France ML (vs Brazil),-155
 SKIP,50,Tennis Alejandro Tabilo vs Francisco Cerundolo o22.5 games,-125
-SKIP,50,NHL Ducks ML (vs Golden Knights),-110
+SKIP,50,MLB JJ Bleday 2+ HRR (Reds vs Astros),-110
+SKIP,50,NBA Terrence Shannon o10.5 points (Timberwolves vs Spurs),-105
+SKIP,50,NBA Rudy Gobert u8.5 pts (Timberwolves vs Spurs),-120
+SKIP,50,MLB Braves ML (vs Dodgers),100
 SKIP,50,MLB Pirates vs Giants u7.5 runs,-105
 SKIP,50,MLB Jackson Merrill 2+ total bases (Cardinals vs Padres),-110
-SKIP,50,MLB Braves ML (vs Dodgers),100
-SKIP,50,MLB Mariners vs White Sox NRSI,-145
-SKIP,20,NBA 76ers -1.5 (vs Knicks),-110
-SKIP,20,WNBA Flau'jae Johnson o12 points (Valkyries vs Storm),100
-SKIP,20,NHL Hurricanes vs Flyers Regulation Time Tie,290
-SKIP,20,Cycling Dylan Groenewegen Top 3 Finish Stage 1 (Giro d'Italia Stage 1),175
-SKIP,20,NBA Jalen Brunson o0.5 steals (Knicks vs 76ers),-135
 SKIP,20,NBA Devin Vassell 7+ R+A (Spurs vs Timberwolves),-110
-SKIP,20,MLB Hancock o6.0 strikeouts (Mariners vs White Sox),100
+SKIP,20,Cycling Dylan Groenewegen Top 3 Finish Stage 1 (Giro d'Italia Stage 1),175
+SKIP,20,NHL Hurricanes vs Flyers Regulation Time Tie,290
+SKIP,20,WNBA Flau'jae Johnson o12 points (Valkyries vs Storm),100
