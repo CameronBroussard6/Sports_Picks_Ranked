@@ -1,26 +1,27 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA Paul George 2+ 3PM (NYK/PHI) + Victor Wembanyama 11+ R (SAS/MIN),-142
-MAX BET,80,NBA Josh Hart o8.5 rebounds (76ers vs Knicks),-132
 MAX BET,80,Football Aston Villa ML (vs Burnley),-155
+MAX BET,80,NBA Josh Hart o8.5 rebounds (76ers vs Knicks),-132
 MAX BET,80,Football Atlético Mineiro vs Botafogo BTTS,-133
 VALUE,75,Football Nagoya vs Kyoto Sanga BTTS + Shimizu vs Avispa Fukuoka Draw no Bet,175
 VALUE,75,NHL Alex Newhook O 1.5 SOG (Montreal Canadiens vs Buffalo Sabres),105
 VALUE,75,NBA Knicks ML (vs 76ers),-115
-VALUE,65,eSports NertZ>Xelex Map 1 Kills,-139
 VALUE,65,Football Feyenoord ML (vs AZ Alkmaar),100
+VALUE,65,eSports NertZ>Xelex Map 1 Kills,-139
 SKIP,60,Football Arsenal F.C. HT/FT (vs West Ham United F.C.),2
+SKIP,60,MLB Nationals vs Marlins o8.5 runs,-105
 SKIP,60,NBA Karl Anthony Townes o5.5 assists (76ers vs Knicks),124
 SKIP,60,MLB Noah Cameron o4.5 strikeouts (Tigers vs Royals),-149
-SKIP,60,NBA Knicks ML (vs 76ers) + Spurs ML (vs Timberwolves),182
 SKIP,60,NBA Mikal Bridges o14.5 points (Knicks vs 76ers),-125
-SKIP,60,MLB Nationals vs Marlins o8.5 runs,-105
-SKIP,50,Football Arsenal ML (vs West Ham),-195
+SKIP,60,NBA Knicks ML (vs 76ers) + Spurs ML (vs Timberwolves),182
 SKIP,50,MLB Gavin Williams o6.5 strikeouts (Guardians vs Twins),-138
-SKIP,50,Football Milan vs Atalanta u1.25 1H asian goals,-152
+SKIP,50,Football Arsenal ML (vs West Ham),-195
 SKIP,50,NBA Naz Reid 7+ rebounds (Timberwolves vs Spurs),-102
-SKIP,50,Cricket Royal challengers Bangalore vs Mumbai Indians o20.5 sixes,-125
+SKIP,50,Football Milan vs Atalanta u1.25 1H asian goals,-152
 SKIP,50,Football Barcelona -1.0 AH (vs Real Madrid),-109
 SKIP,50,WNBA Sonia Citron o1.5 3 pointers made (Liberty vs Mystics),-175
+SKIP,50,Cricket Royal challengers Bangalore vs Mumbai Indians o20.5 sixes,-125
+SKIP,50,NBA Mikal Bridges o14.5 points (Knicks vs 76ers(,-115
 SKIP,50,Tennis Bublik ML (vs Tien) + Zverev ML (vs Blockx),-113
 SKIP,50,MLB Jackson Merrill 2+ total bases (Cardinals vs Padres),-105
 SKIP,50,MLB Angels F5 ML (vs Dodgers),-128
