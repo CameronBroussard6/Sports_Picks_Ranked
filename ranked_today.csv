@@ -1,5 +1,21 @@
 Action,Score,The Pick,Odds
 MAX BET,90,Football Tottenham vs Leeds BTTS,-143
+MAX BET,90,Football Tottenham ML (vs Leeds),-125
+MAX BET,80,NBA Rui Hachimura o2.5 3PM (Thunder vs Lakers),125
+MAX BET,80,NBA Lebron James 6+ AST + Rui Hachimura 12+ PTs (Lakers vs Thunder),-154
+VALUE,75,Football Dominic Calvert-Lewin 1+ SoT (Tottenham vs Leeds),-172
+VALUE,75,Football Tottenham ML (vs Leeds),-120
+VALUE,75,NBA Pistons o104.5 points (vs Cavaliers),-115
+SKIP,60,Football Richarlison o0.5 goals (Tottenham vs Leeds),137
 SKIP,60,NBA Tobias Harris 20+ P+R (DET/CLE) + Rui Hachimura 2+ 3PM (LAL/OKC),-108
+SKIP,60,NBA Ausar Thompson o15.5 PRA + Cade Cunningham 25+ points (Pistons vs Cavaliers),-104
 SKIP,60,NBA Cavaliers -2.5 (vs Pistons),-128
+SKIP,60,Table Tennis Japan +1.5 sets (vs China),-200
+SKIP,60,Football Safiullin ML (vs Rocha),-154
+SKIP,50,MLB Ildemaro Vargas o0.5 hits (Diamondbacks vs Rangers),-190
+SKIP,50,Football Leeds o10.5 shots (vs Tottenham),-103
+SKIP,50,Football Gil Vicente FC vs FC Arouca o2.5 TG,-115
+SKIP,50,Tennis Anna Kalinskaya ML (vs Jelena Ostapenko),110
 SKIP,20,Football Napoli ML (vs Bologna),-180
+SKIP,20,Cricket PBKS ML (vs DC),-145
+SKIP,20,Football Milwall win or draw + u3.5 goals (vs Hull),-143
