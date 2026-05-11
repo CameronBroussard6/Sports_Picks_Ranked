@@ -1,8 +1,5 @@
 Action,Score,The Pick,Odds
-VALUE,75,MLB MLB Grand Salami o133.5,100
-VALUE,65,eSports NertZ>Xelex Map 1 Kills,-139
-SKIP,60,NBA Knicks ML (vs 76ers) + Spurs ML (vs Timberwolves),182
-SKIP,50,NBA Ayo Dosunmu o19.5 PRA (Timberwolves vs Spurs),-103
-SKIP,50,NBA Naz Reid 7+ rebounds (Timberwolves vs Spurs),-102
-SKIP,50,Cricket Royal challengers Bangalore vs Mumbai Indians o20.5 sixes,-125
-SKIP,50,WNBA Sonia Citron o1.5 3 pointers made (Liberty vs Mystics),-175
+MAX BET,90,Football Tottenham vs Leeds BTTS,-143
+SKIP,60,NBA Tobias Harris 20+ P+R (DET/CLE) + Rui Hachimura 2+ 3PM (LAL/OKC),-108
+SKIP,60,NBA Cavaliers -2.5 (vs Pistons),-128
+SKIP,20,Football Napoli ML (vs Bologna),-180
