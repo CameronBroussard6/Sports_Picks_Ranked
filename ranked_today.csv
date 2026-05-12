@@ -1,22 +1,36 @@
 Action,Score,The Pick,Odds
+MAX BET,90,NBA Rudy Gobert o2.5 Q1 points (Timberwolves vs Spurs),128
+MAX BET,90,MLB Athletics -1 (vs Cardinals),-114
+MAX BET,90,MLB Nick Kurtz 2+ HRR + Shea Langeliers 2+ HRR (Cardianls vs Athletics),108
+MAX BET,90,MLB Yankees vs Orioles YRFI,-110
 MAX BET,80,MLB Pirates -2.5 (vs Rockies),100
+MAX BET,80,NBA Victor Wembyanama o12.5 reb (Timberwolves vs Spurs),-144
+VALUE,75,Football Al-NAssr vs Al-Hilal BTTS + Southampton DNB (vs Middlesbrough),165
+VALUE,75,MLB Grand Salami Under 137.5,-125
 VALUE,75,Football Southampton vs Middlesbrough o9.5 corners,-137
 VALUE,75,NHL Alex Newhook o1.5 shots on goal (Canadiens vs Sabres),-120
-SKIP,60,Football Real Betis u15.5 shots (vs Elche),-114
+VALUE,75,MLB Oakland Athletics ML (vs Cardinals),109
 SKIP,60,MLB Dodgers F5 ML (vs Giants),-165
-SKIP,60,Football Southampton vs Middlesbrough u1.25 1H asian goals,-175
+SKIP,60,Football Real Betis u15.5 shots (vs Elche),-114
+SKIP,60,MLB Tampa Bay Rays ML (vs Blue Jays),142
+SKIP,60,Football Osasuna Team Total Corners Under 5.5 (vs Atletico Madrid),-159
 SKIP,60,eSports Vitality 2-0 (vs betboom) + Navi ML (vs Gamerlegion),-127
 SKIP,60,MLB Pirates ML (vs Rockies) + Dodgers ML (vs Giants),-127
+SKIP,60,MLB Phillies -1.5 (vs Red Sox),120
+SKIP,60,Football Southampton vs Middlesbrough u1.25 1H asian goals,-175
+SKIP,50,MLB Pittsburg Pirates -2 (vs Colorado Rockies),-115
+SKIP,50,MLB Pirates -1.5 (vs Rockies),-145
 SKIP,50,Football Southampton to win (vs Middlesbrough),145
-SKIP,50,WNBA Wings o88.5 points (vs Dreamers),-128
 SKIP,50,MLB Hyeseong Kim o0.5 hits (Giants vs Dodgers),-166
+SKIP,50,WNBA Wings o88.5 points (vs Dreamers),-128
 SKIP,50,NBA Naz Reid o11.5 points (Timberwolves vs Spurs),-104
+SKIP,50,eSports ScrunK u13.5 Kills Map 1 (BC Game vs B8),-118
 SKIP,50,Football BETIS vs ELCHE o2.5 TG,-152
 SKIP,50,Football Atlético Madrid ML (vs Osasuna),182
-SKIP,50,eSports ScrunK u13.5 Kills Map 1 (BC Game vs B8),-118
-SKIP,20,Football Betis double chance + BTTS (vs Elche),-105
 SKIP,20,Cricket GT ML (vs SRH),105
-SKIP,20,NBA Spurs -9.5 (vs Timberwolves),-110
 SKIP,20,NBA Naz Reid +6.5 rebounds (Timberwolves vs Spurs),-135
+SKIP,20,Football Betis double chance + BTTS (vs Elche),-105
+SKIP,20,NBA Spurs -9.5 (vs Timberwolves),-110
 SKIP,20,Football Real Betis vs Elche BTTS,-154
+SKIP,20,MLB Philadelphia Phillies -1.5 (vs Boston Redsox),115
 SKIP,20,MLB Paul Skenes to record the win (Rockies vs Pirates),-135
