@@ -1,27 +1,12 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA Rui Hachimura o2.5 3PM (Thunder vs Lakers),125
-MAX BET,90,NBA Thunder o112.5 (vs Lakers),-116
-MAX BET,90,NBA Pistons o104.5 points (vs Cavaliers),-115
-MAX BET,80,NBA Lebron James 6+ AST + Rui Hachimura 12+ PTs (Lakers vs Thunder),-154
-VALUE,75,MLB SF vs LAD - Under 9,-110
-VALUE,75,MLB Arizona Diamondbacks ML (vs Texas Rangers),109
-VALUE,65,MLB Aaron Judge 2+ Total Bases (New York Yankees vs Baltimore Orioles),-105
-VALUE,65,MLB MLB Grand Salami Under 50.5,100
-VALUE,65,Football Curico Unido vs San Marcos de Arica BTTS,-110
-SKIP,60,NBA Ausar Thompson o15.5 PRA + Cade Cunningham 25+ points (Pistons vs Cavaliers),-104
-SKIP,60,NBA Tobias Harris 20+ P+R (DET/CLE) + Rui Hachimura 2+ 3PM (LAL/OKC),-108
-SKIP,60,NBA OKC vs LAL - Over 214.5 Total Points,-104
-SKIP,60,NBA Pistons team total O104.5 (vs Cavaliers),-120
-SKIP,60,NBA Jarrett Allen u7.5 Rebounds (Detroit vs Cleveland),110
-SKIP,60,NBA Cavaliers -2.5 (vs Pistons),-128
-SKIP,60,NBA Jarrett Allen over 12.5 points (Pistons vs Cavs),-114
-SKIP,60,MLB Rays ML (vs Blue Jays),123
-SKIP,50,NBA Thunder -11.5 (vs Lakers),-110
-SKIP,50,MLB Ildemaro Vargas o0.5 hits (Diamondbacks vs Rangers),-190
-SKIP,50,MLB Giants +1.5 (vs Dodgers),-130
-SKIP,50,MLB Yankees ML (vs Orioles) + Dodgers ML (vs Giants),161
-SKIP,20,MLB Baltimore Orioles ML (vs Yankees),137
-SKIP,20,MLB Yankees F5 ML (vs Baltimore),-115
-SKIP,20,Football Noah Okafor 1+ shot on target (Tottenham vs Leeds),-120
-SKIP,20,NBA Deandre Ayton o8.5 rebounds (Lakers vs Thunder),-113
-SKIP,20,Football Rayo Vallecano Draw no bet (vs Girona),-175
+VALUE,75,NHL Alex Newhook o1.5 shots on goal (Canadiens vs Sabres),-120
+VALUE,65,Tennis Ruud ML (vs Musetti) + Jodar ML (vs Tien),-105
+SKIP,60,Football Real Betis u15.5 shots (vs Elche),-114
+SKIP,50,Football BETIS vs ELCHE o2.5 TG,-152
+SKIP,50,MLB Hyeseong Kim o0.5 hits (Giants vs Dodgers),-166
+SKIP,50,WNBA Wings o88.5 points (vs Dreamers),-128
+SKIP,50,eSports ScrunK u13.5 Kills Map 1 (BC Game vs B8),-118
+SKIP,50,Football Atlético Madrid ML (vs Osasuna),182
+SKIP,20,Cricket GT ML (vs SRH),105
+SKIP,20,Football Betis double chance + BTTS (vs Elche),-105
+SKIP,20,Football Real Betis vs Elche BTTS,-154
