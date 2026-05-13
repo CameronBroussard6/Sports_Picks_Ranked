@@ -1,10 +1,22 @@
 Action,Score,The Pick,Odds
 MAX BET,90,Football Motherwell vs Celtic BTTS + Hearts vs Falkirk o2.5 TG,152
+MAX BET,90,NBA Jalen Duren u12.5 points (Pistons vs Cavaliers),-116
 MAX BET,90,NBA Ausar Thomson o6.5 R + Cade Cunningham 6+ A (Pistons vs Cavaliers),-127
+MAX BET,80,Football Manchester City -2.0 Ah (vs Crystal Palace),-120
 VALUE,75,Football Kyoto Sanga o1.0 goals (vs Vissel Kobe),160
 VALUE,75,eSports Techno u8.5 headshots Map 1 (Aurora vs MongolZ),-147
+SKIP,60,NHL Avalanche -1.5 (vs Wild),125
+SKIP,60,Football Manchester City -1.5 (vs Crystal Palace),-170
 SKIP,60,WNBA Caitlin Clark 20+ points (Fever vs Sparks),-120
 SKIP,60,Football Barcelona u2.5 goals + Alaves o2.5 shots on target,-133
-SKIP,60,Football Manchester City -1.5 (vs Crystal Palace),-170
+SKIP,60,Football Villareal ML (vs Sevilla),105
+SKIP,60,NBA Cade Cunningham o1.5 made threes (Cavaliers vs Pistons),-200
 SKIP,50,NBA Evan Mobley 4+ assists (Pistons vs Cavaliers),128
+SKIP,50,MLB Brandon Marsh o0.5 hits (Red Sox vs Phillies),-185
+SKIP,50,Football Villareal to win (vs Sevilla),102
+SKIP,50,Football Rijeka vs Dinamo u2.5 TG,102
+SKIP,50,Cricket KKR ML (vs RCB),125
+SKIP,50,MLB Marlins F5 ML (vs Twins),-125
 SKIP,50,Football Anyang vs Gimcheon Sangmu BTTS,-125
+SKIP,20,NBA Daniss Jenkins 3+ assists (Pistons vs Timberwolves),-115
+SKIP,20,MLB Angels vs Guardians o6.5 runs,-139
