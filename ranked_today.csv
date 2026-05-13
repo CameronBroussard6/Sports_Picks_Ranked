@@ -1,14 +1,11 @@
 Action,Score,The Pick,Odds
-MAX BET,90,NBA Rudy Gobert o2.5 Q1 points (Timberwolves vs Spurs),128
-MAX BET,90,MLB Athletics -1 (vs Cardinals),-114
 MAX BET,90,MLB Nick Kurtz 2+ HRR + Shea Langeliers 2+ HRR (Cardianls vs Athletics),108
-MAX BET,90,MLB Yankees vs Orioles YRFI,-110
-MAX BET,80,MLB Pirates -2.5 (vs Rockies),100
+MAX BET,90,MLB Athletics -1 (vs Cardinals),-114
 MAX BET,80,NBA Victor Wembyanama o12.5 reb (Timberwolves vs Spurs),-144
+MAX BET,80,MLB Pirates -2.5 (vs Rockies),100
+VALUE,75,Football Southampton vs Middlesbrough o9.5 corners,-137
 VALUE,75,Football Al-NAssr vs Al-Hilal BTTS + Southampton DNB (vs Middlesbrough),165
 VALUE,75,MLB Grand Salami Under 137.5,-125
-VALUE,75,Football Southampton vs Middlesbrough o9.5 corners,-137
-VALUE,75,NHL Alex Newhook o1.5 shots on goal (Canadiens vs Sabres),-120
 VALUE,75,MLB Oakland Athletics ML (vs Cardinals),109
 SKIP,60,MLB Dodgers F5 ML (vs Giants),-165
 SKIP,60,Football Real Betis u15.5 shots (vs Elche),-114
