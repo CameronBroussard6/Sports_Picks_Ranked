@@ -1,32 +1,12 @@
 Action,Score,The Pick,Odds
-MAX BET,90,MLB Seattle Mariners ML (vs Houston Astros),-131
-MAX BET,90,MLB Elly De La Cruz 2+ HRR (WAS vs CIN) + Shohei Ohtani 6+ Ks (SF vs LA),121
-MAX BET,90,NBA Ausar Thomson o6.5 R + Cade Cunningham 6+ A (Pistons vs Cavaliers),-127
-MAX BET,90,NBA Jalen Duren u12.5 points (Pistons vs Cavaliers),-116
-MAX BET,80,MLB Diamondbacks ML (vs Rangers),-110
-VALUE,75,MLB MLB Grand Salami Under 133.5,-112
-VALUE,75,MLB SF vs LAD Under 7.5,-108
-VALUE,75,eSports Techno u8.5 headshots Map 1 (Aurora vs MongolZ),-147
-VALUE,65,NBA Daniss Jenkins PRA O15.5 (Pistons vs Cavaliers),110
-SKIP,60,WNBA Caitlin Clark 20+ points (Fever vs Sparks),-120
-SKIP,60,NHL Avalanche -1.5 (vs Wild),125
-SKIP,60,MLB Padres vs Brewers NRFI,-137
-SKIP,60,NBA Cade Cunningham o1.5 made threes (Cavaliers vs Pistons),-200
-SKIP,60,NBA Pistons -4.5 (vs Cavaliers,-112
-SKIP,50,NBA Evan Mobley 4+ assists (Pistons vs Cavaliers),128
-SKIP,50,NHL Avalanche ML (vs Wild) + Pistons vs Cavs Over 210,146
-SKIP,50,MLB Detroit Tigers ML (vs Mets),-108
-SKIP,50,NBA Pistons ML + Tobias Harris 25+ PRA (vs Cavaliers),-103
-SKIP,50,MLB Marlins F5 ML (MIA vs MIN),-104
-SKIP,50,eSports Vitality 2-0 (vs B8) + Playtime ML (vs Nigma Galaxy),110
-SKIP,50,MLB Brandon Marsh o0.5 hits (Red Sox vs Phillies),-185
-SKIP,50,MLB Milwaukee Brewers ML (vs San Diego Padres),-115
-SKIP,50,Cricket KKR ML (vs RCB),125
-SKIP,50,MLB Marlins F5 ML (vs Twins),-125
-SKIP,20,MLB Parker Messick Over 6.5 Strikeouts (Cleveland vs LA Angels),-110
-SKIP,20,NBA Daniss Jenkins 3+ assists (Pistons vs Timberwolves),-115
-SKIP,20,MLB Orioles ML (vs Yankees),155
-SKIP,20,MLB Yankees ML (vs Orioles),-167
-SKIP,20,MLB Angels vs Guardians o6.5 runs,-139
-SKIP,20,Football Seattle Sounders vs San Jose Earthquakes BTTS,-154
-SKIP,20,Tennis Karen Khachanov +5.5 (vs Ruud) and Elina Svitolina +4.5 (vs Rybakina),127
+MAX BET,90,AFL Brisbane -11.5 (vs Geelong),-133
+VALUE,75,NHL Beckett Sennecke over 0.5 points (Ducks vs Golden Knights),100
+VALUE,75,NHL Alex Newhook 3+ SOG (Canadiens vs Sabres),198
+VALUE,75,eSports Zicssi o2.5 Deaths Map 1 (GiantX vs Solary),-118
+SKIP,60,MLB Minnesota Twins ML (vs Miami Marlins),-130
+SKIP,60,Football Royale Union SG ML (vs Anderlecht),-182
+SKIP,60,Football Valencia vs Rayo Vallecano u2.5,-120
+SKIP,60,WNBA Kayla McBride Over 1.5 3s (Lynx vs Wings),-135
+SKIP,50,AFL Brisbane v Geelong o183.5,-112
+SKIP,50,Golf Bryson DeChambeau u69.5 Round 1 score (PGA Championship),-110
+SKIP,20,Rugby Women’s State Of Origin II u39.5,-139
