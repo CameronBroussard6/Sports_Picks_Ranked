@@ -1,12 +1,17 @@
 Action,Score,The Pick,Odds
-MAX BET,90,AFL Brisbane -11.5 (vs Geelong),-133
 VALUE,75,NHL Beckett Sennecke over 0.5 points (Ducks vs Golden Knights),100
 VALUE,75,NHL Alex Newhook 3+ SOG (Canadiens vs Sabres),198
 VALUE,75,eSports Zicssi o2.5 Deaths Map 1 (GiantX vs Solary),-118
-SKIP,60,MLB Minnesota Twins ML (vs Miami Marlins),-130
+VALUE,75,Football Valencia vs Rayo Vallecano u2.5,-120
+VALUE,75,Football Valencia vs Rayo Vallecano u2.5,-137
+VALUE,65,Golf Ludvig Aberg u69.5 1st round score (PGA Championship),-150
 SKIP,60,Football Royale Union SG ML (vs Anderlecht),-182
-SKIP,60,Football Valencia vs Rayo Vallecano u2.5,-120
+SKIP,60,MLB Minnesota Twins ML (vs Miami Marlins),-130
+SKIP,60,Tennis Landaluce +4.5 (vs Medvedev) + Cirstea +5.5 (vs Gauff),128
 SKIP,60,WNBA Kayla McBride Over 1.5 3s (Lynx vs Wings),-135
-SKIP,50,AFL Brisbane v Geelong o183.5,-112
+SKIP,50,MLB Nationals @ Reds NRFI,-130
+SKIP,50,Football Girona vs Real Sociedad BTTS,-156
+SKIP,50,Football Union Saint-Gilloise vs. Anderlecht BTTS,-125
 SKIP,50,Golf Bryson DeChambeau u69.5 Round 1 score (PGA Championship),-110
-SKIP,20,Rugby Women’s State Of Origin II u39.5,-139
+SKIP,20,Darts Bradley van der Velden vs Giovanni Matther: Final leg total checkout u40.5,-164
+SKIP,20,MLB Cardinals ML (vs Athletics),118
