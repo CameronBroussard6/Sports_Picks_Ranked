@@ -1,35 +1,38 @@
 Action,Score,The Pick,Odds
+MAX BET,90,MLB Bobby Witt Jr. 1+ runs (Royals vs Cardinals),-108
 MAX BET,90,NBA De’Aaron Fox o17.5 points (Spurs @ Timberwolves),-105
+MAX BET,90,NBA Donavan Mitchell o26.5 points (Cavaliers vs Pistons),-114
 MAX BET,80,NBA Chennedy Carter o13.5 points (Aces vs Sun),100
-VALUE,75,MLB Braves ML (vs Red Sox),-152
 VALUE,75,NBA Donovan Mitchell PRA O37.5 (Cavs vs Pistons),120
 VALUE,75,eSports Xertion>Soulfly Map 2 Kills (MOUZ vs Aurora),-172
 VALUE,75,MLB Braves ML (vs Red Sox),-150
-VALUE,65,Tennis Ruud vs Darderi o21.5 games,-135
-SKIP,60,Football Aston Villa vs Liverpool BTTS,-190
+VALUE,75,MLB Braves ML (vs Red Sox),-152
 SKIP,60,eSports Spirit ML (vs G2) + Vitality ML (vs Navi) - PGL Astana 2026 & IEM Alanta,-123
-SKIP,60,NBA De'Aaron Fox u5.5 assists (Spurs @ Timberwolves),-119
-SKIP,60,NBA Cavaliers ML (vs Pistons),-172
+SKIP,60,Football Aston Villa vs Liverpool BTTS,-190
 SKIP,60,NBA San Antonio Spurs vs Minnesota Timberwolves OVER 219.5,-105
-SKIP,60,Tennis Casper Ruud 2-0 (vs Luciano Darderi),-115
+SKIP,60,NBA Cavaliers ML (vs Pistons),-172
+SKIP,60,NBA De'Aaron Fox u5.5 assists (Spurs @ Timberwolves),-119
+SKIP,60,Football Rizespor vs Besiktas u4.5 yellow cards,-133
 SKIP,60,Football Rizespor vs Besiktas Under 3.5 Goals,-135
 SKIP,60,Cricket LSG vs CSK - 1st Innings Under 184.5,-120
 SKIP,60,Football Al Taawon o4.5 corners + total corners over 8.5 (vs Al Riyadh),-133
 SKIP,60,Football Sandnes vs Egersund u3.5 TG,-200
+SKIP,50,WNBA Shakira Austin 14+ points (Mystics vs Fever),-125
+SKIP,50,Multi Liverpool vs Crystal Palace BTTS + James Harden o20.5 P+A (Cavaliers vs Pistons),-115
 SKIP,50,NBA Evan Mobley 4+ assists + Jalen Duren u21.5 PRA (Pistons @ Cavaliers),169
 SKIP,50,MLB Pirates F5 ML (vs Phillies),-140
-SKIP,50,Multi Liverpool vs Crystal Palace BTTS + James Harden o20.5 P+A (Cavaliers vs Pistons),-115
-SKIP,50,WNBA Shakira Austin 14+ points (Mystics vs Fever),-125
 SKIP,50,MLB Oakland Athletics ML (SF Giants),-136
 SKIP,50,NBA Dylan Harper o10.5 Pts (Spurs vs Timberwolves),-120
+SKIP,50,Golf Matt Fitzpatrick to win R2 H2H tie no bet (vs Justin Rose),-136
 SKIP,20,NBA Jalen Duren u11.5 pts (Pistons @ Cavaliers),-132
 SKIP,20,NBA Cade Cunningham o27.5 points (Cavaliers vs Pistons),107
 SKIP,20,MLB Alec Bohm u1.5 Total Bases (Phillies @ Pirates),-190
+SKIP,20,MLB Pittsburgh Pirates ML (Philadelphia Phillies),-136
+SKIP,20,MLB Toronto Blue Jays ML (Detroit Tigers),-130
+SKIP,20,MLB Vierling u1.5 HRR (Tigers vs Blue Jays),-132
 SKIP,20,AFL Adelaide Crows win by 1-39 (vs North Melbourne),120
 SKIP,20,NBA Caris Levert over 0.5 Rebs 1st q (Cavs vs Pistons),105
-SKIP,20,MLB Toronto Blue Jays ML (Detroit Tigers),-130
-SKIP,20,Tennis Ruud ML O 18.5 games (vs Darderi),-105
-SKIP,20,MLB Pittsburgh Pirates ML (Philadelphia Phillies),-136
-SKIP,20,MLB Vierling u1.5 HRR (Tigers vs Blue Jays),-132
+SKIP,20,Tennis Busta +1.5 sets (vs Manur),-150
 SKIP,20,NBA Cade Cunningham 30+ P+A + Evan Mobley 20+ P+R (Cavaliers vs Pistons),-165
+SKIP,20,MLB Braves -1.5 (vs Red Sox),150
 SKIP,20,Football Adelaide United vs Auckland FC o1.5 TG + Aston Villa vs Liverpool o1.5 TG,-150
