@@ -1,16 +1,19 @@
 Action,Score,The Pick,Odds
-MAX BET,90,MLB Nick Kurtz 2+ HRR + Shea Langeliers 2+ HRR (Cardinals vs Athletics),128
-MAX BET,90,WNBA Carla Leite 15+ Pts ( Liberty vs Fire),-152
-VALUE,75,MLB MLB Grand Salami u94.5,-110
-VALUE,75,NHL Ducks ML (vs Golden Knights),-103
-VALUE,75,NHL Beckett Sennecke over 0.5 points (Ducks vs Golden Knights),100
-VALUE,75,NHL Alex Newhook 3+ SOG (Canadiens vs Sabres),198
-VALUE,75,eSports Zicssi o2.5 Deaths Map 1 (GiantX vs Solary),-118
-VALUE,65,Football Real Madrid 1H ML + Real Madrid 1H most corners (vs Real Oviedo),109
-SKIP,60,Tennis Landaluce +4.5 (vs Medvedev) + Cirstea +5.5 (vs Gauff),128
-SKIP,60,WNBA Kayla McBride Over 1.5 3s (Lynx vs Wings),-135
-SKIP,60,MLB Cardinals F5 ML (vs Athletics),122
-SKIP,50,Football Real Sociedad u4.5 corners (vs Girona),-133
-SKIP,50,MLB Foster Griffin u5.5 hits allowed (Nationals vs Reds),-152
-SKIP,20,Darts Bradley van der Velden vs Giovanni Matther: Final leg total checkout u40.5,-164
-SKIP,20,MLB Mariners vs Astros u9.5 total runs,-139
+MAX BET,90,AFL Sydney -35.5 (vs Collingwood),-112
+MAX BET,90,NBA De’Aaron Fox o17.5 points (Spurs @ Timberwolves),-105
+MAX BET,80,Rugby Iro anytime tryscorer (Sharks vs Bulldogs),100
+VALUE,75,eSports Xertion>Soulfly Map 2 Kills (MOUZ vs Aurora),-172
+VALUE,65,Tennis Ruud vs Darderi o21.5 games,-135
+VALUE,65,NPB Hiroshima Carp +0.5 First 5 Innings (vs Hanshin Tigers),-145
+SKIP,60,eSports Spirit ML (vs G2) + Vitality ML (vs Navi) - PGL Astana 2026 & IEM Alanta,-123
+SKIP,60,NBA De'Aaron Fox u5.5 assists (Spurs @ Timberwolves),-119
+SKIP,60,Football Aston Villa vs Liverpool BTTS,-190
+SKIP,60,NBA Cavaliers ML (vs Pistons),-172
+SKIP,60,Tennis Casper Ruud 2-0 (vs Luciano Darderi),-115
+SKIP,60,MLB Braves ML (vs Red Sox),-150
+SKIP,60,Cricket LSG vs CSK - 1st Innings Under 184.5,-120
+SKIP,60,Football Al Taawon o4.5 corners + total corners over 8.5 (vs Al Riyadh),-133
+SKIP,50,NBA Evan Mobley 4+ assists + Jalen Duren u21.5 PRA (Pistons @ Cavaliers),169
+SKIP,20,NBA Jalen Duren u11.5 pts (Pistons @ Cavaliers),-132
+SKIP,20,NBA Cade Cunningham o27.5 points (Cavaliers vs Pistons),107
+SKIP,20,MLB Alec Bohm u1.5 Total Bases (Phillies @ Pirates),-190
