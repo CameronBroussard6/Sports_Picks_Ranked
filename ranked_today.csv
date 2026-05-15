@@ -2,15 +2,15 @@ Action,Score,The Pick,Odds
 MAX BET,90,MLB Nick Kurtz 2+ HRR + Shea Langeliers 2+ HRR (Cardinals vs Athletics),128
 MAX BET,90,WNBA Carla Leite 15+ Pts ( Liberty vs Fire),-152
 VALUE,75,MLB MLB Grand Salami u94.5,-110
-VALUE,75,NHL Alex Newhook 3+ SOG (Canadiens vs Sabres),198
-VALUE,75,NHL Beckett Sennecke over 0.5 points (Ducks vs Golden Knights),100
-VALUE,75,eSports Zicssi o2.5 Deaths Map 1 (GiantX vs Solary),-118
 VALUE,75,NHL Ducks ML (vs Golden Knights),-103
+VALUE,75,NHL Beckett Sennecke over 0.5 points (Ducks vs Golden Knights),100
+VALUE,75,NHL Alex Newhook 3+ SOG (Canadiens vs Sabres),198
+VALUE,75,eSports Zicssi o2.5 Deaths Map 1 (GiantX vs Solary),-118
 VALUE,65,Football Real Madrid 1H ML + Real Madrid 1H most corners (vs Real Oviedo),109
 SKIP,60,Tennis Landaluce +4.5 (vs Medvedev) + Cirstea +5.5 (vs Gauff),128
 SKIP,60,WNBA Kayla McBride Over 1.5 3s (Lynx vs Wings),-135
 SKIP,60,MLB Cardinals F5 ML (vs Athletics),122
 SKIP,50,Football Real Sociedad u4.5 corners (vs Girona),-133
 SKIP,50,MLB Foster Griffin u5.5 hits allowed (Nationals vs Reds),-152
-SKIP,20,MLB Mariners vs Astros u9.5 total runs,-139
 SKIP,20,Darts Bradley van der Velden vs Giovanni Matther: Final leg total checkout u40.5,-164
+SKIP,20,MLB Mariners vs Astros u9.5 total runs,-139
