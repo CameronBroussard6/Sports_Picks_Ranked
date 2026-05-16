@@ -1,23 +1,20 @@
 Action,Score,The Pick,Odds
 MAX BET,90,UFC Daniel Santos o1.5 takedowns (vs Doo Ho Choi),-150
 MAX BET,90,Football Internacional vs Vasco BTTS,-111
-VALUE,75,eSports jojopyun O 2.5 Kills Map 1 (Movistar KOI vs NAVI),-145
 VALUE,75,MLB Dillon Dingler o1.5 Hits Runs & RBI’s (Blue Jays vs Tigers),-130
 VALUE,75,MLB Braves ML (vs Red Sox),-138
 VALUE,75,NHL Josh Doan 1+ point (Sabres vs Canadiens),-105
-VALUE,65,NHL Canadiens vs Sabres u6.5 TG,-120
 VALUE,65,MLB Braves ML (vs Red Sox),-138
-SKIP,60,MLB Diamondbacks ML (vs Rockies),-133
-SKIP,60,Tennis Gauff to win (vs Svitolina),-152
+VALUE,65,NHL Canadiens vs Sabres u6.5 TG,-120
 SKIP,60,MLB Braves ML + Matt Olson 2+ HRR (vs Red Sox),165
-SKIP,60,MLB Rays ML (vs Marlins),-149
-SKIP,60,Football Bremen u1.5 TT (vs Dortmund),-125
-SKIP,60,Football Casa Pia to win (vs Rio Ave),-132
-SKIP,60,MLB Rockies vs Diamondbacks u11.5,-122
+SKIP,60,MLB Diamondbacks ML (vs Rockies),-133
 SKIP,60,MLB Phillies vs Pirates NRFI,-130
+SKIP,60,MLB Rays ML (vs Marlins),-149
+SKIP,60,Football Casa Pia to win (vs Rio Ave),-132
+SKIP,60,Tennis Gauff to win (vs Svitolina),-152
 SKIP,60,Golf Cameron Young H2H vs Justin Thomas,-137
+SKIP,60,MLB Rockies vs Diamondbacks u11.5,-122
 SKIP,50,Football ALNASSR to win +01.5 TG (vs GAMBA OSAKA),-143
-SKIP,50,Football Follo vs Lorenskog BTTS + o2.5 TG,-139
 SKIP,20,MLB Rays vs Marlins NRFI,-135
 SKIP,20,Football Salt Lake ML (vs Colorado),-154
 SKIP,20,UFC Bukauskas ML (vs Edwards) + Gantt ML (vs Minev),105
