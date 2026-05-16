@@ -1,14 +1,15 @@
 Action,Score,The Pick,Odds
-MAX BET,90,UFC Daniel Santos o1.5 takedowns (vs Doo Ho Choi),-150
 MAX BET,90,Football Internacional vs Vasco BTTS,-111
-VALUE,75,MLB Dillon Dingler o1.5 Hits Runs & RBI’s (Blue Jays vs Tigers),-130
+MAX BET,90,UFC Daniel Santos o1.5 takedowns (vs Doo Ho Choi),-150
+MAX BET,80,MLB Orioles vs Nationals YRFI,-130
 VALUE,75,MLB Braves ML (vs Red Sox),-138
 VALUE,75,NHL Josh Doan 1+ point (Sabres vs Canadiens),-105
-VALUE,65,MLB Braves ML (vs Red Sox),-138
+VALUE,75,MLB Red Sox vs Braves u7.5,-106
+VALUE,65,MLB MLB Grand Salami u136.5,-110
 VALUE,65,NHL Canadiens vs Sabres u6.5 TG,-120
+VALUE,65,MLB Braves ML (vs Red Sox),-138
 SKIP,60,MLB Braves ML + Matt Olson 2+ HRR (vs Red Sox),165
 SKIP,60,MLB Diamondbacks ML (vs Rockies),-133
-SKIP,60,MLB Phillies vs Pirates NRFI,-130
 SKIP,60,MLB Rays ML (vs Marlins),-149
 SKIP,60,Football Casa Pia to win (vs Rio Ave),-132
 SKIP,60,Tennis Gauff to win (vs Svitolina),-152
