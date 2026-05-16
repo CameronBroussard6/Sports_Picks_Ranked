@@ -1,10 +1,25 @@
 Action,Score,The Pick,Odds
 MAX BET,90,UFC Daniel Santos o1.5 takedowns (vs Doo Ho Choi),-150
+MAX BET,90,Football Internacional vs Vasco BTTS,-111
 VALUE,75,eSports jojopyun O 2.5 Kills Map 1 (Movistar KOI vs NAVI),-145
-VALUE,65,Football Tochigi City vs Montedio Yamagata o2.5 TG + Kofu draw no bet (vs Gifu),178
-VALUE,65,Rugby Harry Grant ATTS (Eels vs Storm),200
+VALUE,75,MLB Dillon Dingler o1.5 Hits Runs & RBI’s (Blue Jays vs Tigers),-130
+VALUE,75,MLB Braves ML (vs Red Sox),-138
+VALUE,75,NHL Josh Doan 1+ point (Sabres vs Canadiens),-105
+VALUE,65,Tennis Daniel Elahi Galan ML (vs Nishesh Basavareddy),110
 VALUE,65,NHL Canadiens vs Sabres u6.5 TG,-120
+VALUE,65,MLB Braves ML (vs Red Sox),-138
+SKIP,60,MLB Braves ML + Matt Olson 2+ HRR (vs Red Sox),165
+SKIP,60,Tennis Gauff to win (vs Svitolina),-152
 SKIP,60,Football Manchester City to win (vs Chelsea),-133
-SKIP,60,Football Follo vs Lorenskog BTTS + o2.5 TG,-139
-SKIP,50,AFL Melbourne vs Hawthorn o183.5 points,-112
+SKIP,60,MLB Rays ML (vs Marlins),-149
+SKIP,60,Football Celtic vs Hearts o1.5 TG + Falkirk vs Rangers o1.5 TG,-285
+SKIP,60,MLB Rockies vs Diamondbacks u11.5,-122
+SKIP,60,MLB Diamondbacks ML (vs Rockies),-133
+SKIP,60,Golf Cameron Young H2H vs Justin Thomas,-137
+SKIP,50,Football Man City ML (vs Chelsea),-135
 SKIP,50,Football Man City ML including extra time + both teams o0.5 cards each (vs Chelsea),-128
+SKIP,50,Football Man City to lift the trophy (vs Chelsea) + Franfurt vs Stuttgart BTTS,-128
+SKIP,50,Football Follo vs Lorenskog BTTS + o2.5 TG,-139
+SKIP,50,Football Chelsea vs Manchester 2-3 total goals range,-104
+SKIP,20,MLB Rays vs Marlins NRFI,-135
+SKIP,20,Tennis Svitolina ML (vs Gauff),125
