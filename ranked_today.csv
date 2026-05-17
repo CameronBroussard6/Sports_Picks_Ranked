@@ -3,16 +3,16 @@ MAX BET,90,NBA Evan Mobley o3.5 Steals + Blocks (Cavaliers vs Pistons),115
 MAX BET,80,Rugby Jacob Saifiti o39.5 PP (Knights vs Titans),-143
 VALUE,75,MLB Diamondbacks vs Rockies F1 o1.5 runs,180
 VALUE,75,eSports Xiaoxu o2.5 Kills Map 1 (Invictus Gaming vs JD Gaming),-139
-VALUE,75,NBA Daniss Jenkins o11.5 points (Cavaliers vs Pistons),-108
 VALUE,65,Tennis Edas Butvilas ML (vs James Duckworth),-135
 SKIP,60,AFL LACHIE WHITFIELD o31.5 disposals (West Coast v GWS),-115
 SKIP,60,Football Levante DNB (vs Mallorca),-172
-SKIP,60,Tennis Jannik Sinner -5.5 (vs Ruud),117
-SKIP,60,MLB Andy Pages o0.5 hits (Dodgers vs Angels),-190
 SKIP,60,Football Brentford double chance (vs Crystal Palace) + ‎Nttn Forest +1.5 (vs Man U),-120
+SKIP,60,Tennis Casper Ruud +5.5 (vs Jannik Sinner),-145
+SKIP,60,MLB Andy Pages o0.5 hits (Dodgers vs Angels),-190
 SKIP,50,NBA Evan Mobley 4+ assists (Pistons vs Cavaliers),120
 SKIP,50,NBA Cade Cunningham 2+ three pointers + Paul Reed 5+ points (Pistons vs Cavaliers),-115
+SKIP,50,Tennis Jannik Sinner -5.5 (vs Ruud),117
 SKIP,50,Football Paok ML (vs Panathinaikos),102
 SKIP,50,MLB Guardians ML (vs Reds),-164
-SKIP,20,Tennis Casper Ruud +5.5 (vs Jannik Sinner),-145
+SKIP,50,NBA Daniss Jenkins o11.5 points (Cavaliers vs Pistons),-108
 SKIP,20,Football Miami ML (vs Atlanta),150
