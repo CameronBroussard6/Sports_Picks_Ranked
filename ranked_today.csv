@@ -2,13 +2,11 @@ Action,Score,The Pick,Odds
 MAX BET,90,WNBA Jade Melbourne o13.5 PA (Storm vs Fever),-130
 MAX BET,90,NBA Evan Mobley o3.5 Steals + Blocks (Cavaliers vs Pistons),115
 MAX BET,90,Cricket Jofra Archer total player performance o26.5 (Delhi capitals vs Rajasthan Royals),-125
-MAX BET,90,Football Bahia o1.5 TTG (vs Grêmio),-120
 MAX BET,80,Rugby Jacob Saifiti o39.5 PP (Knights vs Titans),-143
 VALUE,75,MLB Grand Salami under 135.5,-110
-VALUE,75,eSports Xiaoxu o2.5 Kills Map 1 (Invictus Gaming vs JD Gaming),-139
 VALUE,75,MLB Diamondbacks vs Rockies F1 o1.5 runs,180
-VALUE,65,MLB White Sox ML +116 (vs Cubs),116
 VALUE,65,MLB James Wood 2+ HRR (BAL vs WAS) + Corbin Carroll 2+ HRR (ARI vs COL),133
+VALUE,65,MLB White Sox ML +116 (vs Cubs),116
 VALUE,65,WNBA Caitlin Clark 20+ points + 6+ assists (Fever vs Storm),-120
 SKIP,60,AFL LACHIE WHITFIELD o31.5 disposals (West Coast v GWS),-115
 SKIP,60,Football Levante DNB (vs Mallorca),-172
