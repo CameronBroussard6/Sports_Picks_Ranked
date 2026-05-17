@@ -1,34 +1,30 @@
 Action,Score,The Pick,Odds
-MAX BET,90,Rugby Alofiana Khan-Pereira ATTS + Dallin Watene-Zelezniak ATTS (Warriors vs Broncos),175
 MAX BET,90,Football Bahia o1.5 TTG (vs Grêmio),-120
-MAX BET,90,Cricket Jofra Archer total player performance o26.5 (Delhi capitals vs Rajasthan Royals),-125
 MAX BET,90,NBA Evan Mobley o3.5 Steals + Blocks (Cavaliers vs Pistons),115
+MAX BET,90,Cricket Jofra Archer total player performance o26.5 (Delhi capitals vs Rajasthan Royals),-125
 MAX BET,80,Rugby Jacob Saifiti o39.5 PP (Knights vs Titans),-143
 VALUE,75,MLB Diamondbacks vs Rockies F1 o1.5 runs,180
 VALUE,75,eSports Xiaoxu o2.5 Kills Map 1 (Invictus Gaming vs JD Gaming),-139
-VALUE,65,Tennis Edas Butvilas ML (vs James Duckworth),-135
 VALUE,65,WNBA Caitlin Clark 20+ points + 6+ assists (Fever vs Storm),-120
 SKIP,60,AFL LACHIE WHITFIELD o31.5 disposals (West Coast v GWS),-115
 SKIP,60,Football Levante DNB (vs Mallorca),-172
-SKIP,60,Tennis Casper Ruud +5.5 (vs Jannik Sinner),-145
 SKIP,60,Cricket Delhi Capitals vs Rajasthan Royals o19.5 sixes,-111
 SKIP,60,MLB Braves vs Red Sox o8.5 runs,-115
-SKIP,60,Football Brentford double chance (vs Crystal Palace) + ‎Nttn Forest +1.5 (vs Man U),-120
-SKIP,60,NBA James Harden 18+ points (Cavaliers vs Pistons),-138
 SKIP,60,Football Roma vs Lazio o1.5 TG + Brentford vs Crystal Palace o1.5 TG,-185
+SKIP,60,Tennis Casper Ruud +5.5 (vs Jannik Sinner),-145
+SKIP,60,Football Brentford double chance (vs Crystal Palace) + ‎Nttn Forest +1.5 (vs Man U),-120
 SKIP,60,Football Everton vs Sunderland o2.5 TG,-138
 SKIP,60,MLB Andy Pages o0.5 hits (Dodgers vs Angels),-190
-SKIP,50,NBA Evan Mobley 4+ assists (Pistons vs Cavaliers),120
-SKIP,50,NBA Cade Cunningham 2+ three pointers + Paul Reed 5+ points (Pistons vs Cavaliers),-115
-SKIP,50,MLB Guardians ML (vs Reds),-164
+SKIP,60,NBA James Harden 18+ points (Cavaliers vs Pistons),-138
 SKIP,50,Tennis Jannik Sinner -5.5 (vs Ruud),117
+SKIP,50,NBA Cade Cunningham 2+ three pointers + Paul Reed 5+ points (Pistons vs Cavaliers),-115
+SKIP,50,NBA Evan Mobley 4+ assists (Pistons vs Cavaliers),120
+SKIP,50,MLB Guardians ML (vs Reds),-164
 SKIP,50,NBA Daniss Jenkins o11.5 points (Cavaliers vs Pistons),-108
 SKIP,50,Football Paok ML (vs Panathinaikos),102
-SKIP,50,Football Manchester City ML + 0.15 TG (vs Nottingham),-130
 SKIP,50,Football Barcelona -1.5 (vs Real Betis),-105
+SKIP,50,Football Manchester City ML + o1.5 TG (vs Nottingham),-130
 SKIP,50,MLB Pirates F5 ML (vs Phillies),-150
-SKIP,20,Football Manchester United vs Nottingham Forest BTTS + o2.5 TG,-150
 SKIP,20,Football Miami ML (vs Atlanta),150
-SKIP,20,Football Roma ML (vs Lazio),-200
 SKIP,20,eSports Team Falcons ML (vs Team Spirit),140
 SKIP,20,Football Slaven double chance (vs Dinamo),175
