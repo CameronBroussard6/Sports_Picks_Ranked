@@ -1,12 +1,22 @@
 Action,Score,The Pick,Odds
 VALUE,75,eSports Enosh u5.5 kills Map 1 (DNS vs NS),-137
-VALUE,75,eSports Enosh u5.5 Kills Map 1 (DN Soopers vs. Nongshim Redforce),-137
-VALUE,75,Tennis Andrea Pellegrino -1.5 sets (vs Nicolas Moreno de Alboran),-154
 VALUE,75,WNBA Bueckers 15+ points (Wings vs Mystics) + Leite 15+ points (Sun vs Fire),-111
+VALUE,75,MLB Rays ML (vs Orioles),-149
+VALUE,65,Tennis Stefanos Sakellaridis -3.0 games (vs Sho Shimabukuro),-152
 VALUE,65,Tennis Noha Augue ML (vs Tatiana),-141
+VALUE,65,MLB Rays ML (vs Orioles),-147
+SKIP,60,NBA Isaiah Hartenstein 20+ PRA (Spurs vs Thunder),111
+SKIP,60,Cricket CSK ML (vs SRH),105
 SKIP,60,Football Alex de Minaur +1.5 set spread (vs Francisco Cerundolo),-155
+SKIP,60,Football Arsenal u21.5 team shots (vs Burnley),-150
+SKIP,60,Football Arsenal win to nil (vs Burnley) + Sirius o0.5 TTG (vs Djurgarden),-108
+SKIP,60,MLB Marlins vs Braves u8.5 runs,-115
+SKIP,60,NHL Canadiens vs Sabres o5.5 goals,105
+SKIP,60,Football Orgryte IS vs IFK Goteborg o2.5 TG,-133
+SKIP,60,Football Arsenal -2.5 (vs Burnley),100
 SKIP,50,Football Germany u1.5 goals (vs Switzerland),104
 SKIP,50,Tennis Cerundolo ML (vs De Minaur) + Rinderknech +3.5 games (vs Tirante),127
 SKIP,50,Football Arsenal ML 1H + Burnley u0.5 goals,-110
 SKIP,50,Football Puszcza vs LKS Lodz BTTS,-125
+SKIP,50,MLB Cubs ML (vs Brewers),-150
 SKIP,20,MLB Red Sox vs Royals u9,-101
