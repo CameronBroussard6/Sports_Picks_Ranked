@@ -1,26 +1,18 @@
 Action,Score,The Pick,Odds
-MAX BET,90,WNBA Brittney Griner o13.5 points (Sun vs Fire),100
-MAX BET,90,NBA Shai Gilgeous-Alexander Over 6.5 Assists (San Antonio vs Oklahoma),-120
-MAX BET,90,NBA Victor Wembanyama o10.5 rebounds + Spurs vs Thunder u227.5,-132
-VALUE,75,WNBA Bueckers 15+ points (Wings vs Mystics) + Leite 15+ points (Sun vs Fire),-111
-VALUE,75,eSports Enosh u5.5 kills Map 1 (DNS vs NS),-137
-VALUE,75,NBA Spurs vs Thunder o214.5,-170
-VALUE,75,MLB Marlins ML (vs Marlins),-110
-VALUE,75,MLB Rays ML (vs Orioles),-149
-VALUE,65,MLB MLB Grand Salami o130.5,-115
-VALUE,65,MLB Rays ML (vs Orioles),-147
-VALUE,65,MLB Dodgers vs Padres u7.5,-122
-SKIP,60,NBA Isaiah Hartenstein 20+ PRA (Spurs vs Thunder),111
-SKIP,60,NBA San Antonio Spurs vs Oklahoma City Thunder O 220.5,-110
-SKIP,60,MLB Guardians ML (vs Tigers),135
-SKIP,60,MLB Cubs -1.5 runs (vs Brewers),123
-SKIP,60,NHL Canadiens vs Sabres o5.5 goals,105
-SKIP,60,MLB Marlins vs Braves u8.5 runs,-115
-SKIP,60,NBA Spurs vs Thunder o219.5,-120
-SKIP,60,WNBA Mystics +6.5 (vs Wings),-165
-SKIP,60,NBA Dylan Harper o10.5 pts (Thunder vs Spurs),-105
-SKIP,50,MLB Cubs ML (vs Brewers),-150
-SKIP,50,MLB Reds ML (vs Phillies),105
-SKIP,20,MLB Rockies ML (vs Rangers),130
-SKIP,20,MLB Red Sox vs Royals u9,-101
-SKIP,20,NBA Thunder -6.5 (vs Spurs),-110
+MAX BET,90,Tennis Pierre-Hugues Herbert -4.5 games (vs Kaichi Uchida),-141
+VALUE,75,NBA Josh Hart 1+ STL + OG Anunoby 2+ 3PM (Knicks vs Cavaliers),-110
+VALUE,65,NPB Hanshin Tigers TT o2.5 Runs (vs Chunichi Dragons),-154
+VALUE,65,Football Marcus Tavernier o0.5 SOT (Bournemouth vs Man City),110
+SKIP,60,Football Bournemouth +2 (vs Manchester City),-185
+SKIP,60,MLB Rays ML (vs Orioles),-116
+SKIP,60,Tennis Grigor Dimitrov ML (vs Jaime Faria),125
+SKIP,60,MLB Guardians ML (@ Tigers),-143
+SKIP,60,MLB Cleveland Guardians ML (vs Detroit Tigers),-120
+SKIP,60,Football Bournemouth vs Manchester City BTTS and over 2.5 goals,-133
+SKIP,60,Football Tottenham @ Chelsea u3.5,-200
+SKIP,60,NBA OG Anunoby o15.5 Pts (Cavaliers @ Knicks),-125
+SKIP,60,MLB Nick Fortes Over 0.5 Hits (Orioles @ Rays),-152
+SKIP,50,NBA Mikal Bridges 1+ steal + OG Anunoby 1+ block (Cavaliers @ Knicks),128
+SKIP,50,Football Cruzeiro DC (vs Boca Juniors),100
+SKIP,50,Football Helsingborg vs Varberg Total goals over 2.5,-125
+SKIP,20,eSports Nongshim Red Force +1.5 Maps (vs BFX),-175
