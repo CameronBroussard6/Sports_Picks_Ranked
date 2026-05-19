@@ -1,18 +1,28 @@
 Action,Score,The Pick,Odds
 MAX BET,90,Tennis Pierre-Hugues Herbert -4.5 games (vs Kaichi Uchida),-141
+MAX BET,90,NBA Jalen Brunson o33.5 points + assists (Knicks vs Cavaliers),-111
+VALUE,75,Cricket Rajasthan Royals vs Lucknow Super Giants o21.5 sixes,-111
 VALUE,75,NBA Josh Hart 1+ STL + OG Anunoby 2+ 3PM (Knicks vs Cavaliers),-110
-VALUE,65,NPB Hanshin Tigers TT o2.5 Runs (vs Chunichi Dragons),-154
+VALUE,75,NBA Cavaliers +8.5 (vs Knicks),-134
 VALUE,65,Football Marcus Tavernier o0.5 SOT (Bournemouth vs Man City),110
 SKIP,60,Football Bournemouth +2 (vs Manchester City),-185
-SKIP,60,MLB Rays ML (vs Orioles),-116
-SKIP,60,Tennis Grigor Dimitrov ML (vs Jaime Faria),125
 SKIP,60,MLB Guardians ML (@ Tigers),-143
-SKIP,60,MLB Cleveland Guardians ML (vs Detroit Tigers),-120
+SKIP,60,MLB Rays ML (vs Orioles),-116
+SKIP,60,Football Bournemouth vs Manchester City o2.5 TG + Chelsea vs Tottenham o2.5 TG,-128
+SKIP,60,Tennis Grigor Dimitrov ML (vs Jaime Faria),125
 SKIP,60,Football Bournemouth vs Manchester City BTTS and over 2.5 goals,-133
+SKIP,60,MLB Cleveland Guardians ML (vs Detroit Tigers),-120
 SKIP,60,Football Tottenham @ Chelsea u3.5,-200
+SKIP,60,Football Manchester City asian total o6.0 corners (vs Bournemouth),-125
+SKIP,60,MLB Guardians -1.5 (vs Tigers),138
+SKIP,60,Football Manchester City to win (vs Bournemouth),-154
 SKIP,60,NBA OG Anunoby o15.5 Pts (Cavaliers @ Knicks),-125
 SKIP,60,MLB Nick Fortes Over 0.5 Hits (Orioles @ Rays),-152
 SKIP,50,NBA Mikal Bridges 1+ steal + OG Anunoby 1+ block (Cavaliers @ Knicks),128
-SKIP,50,Football Cruzeiro DC (vs Boca Juniors),100
 SKIP,50,Football Helsingborg vs Varberg Total goals over 2.5,-125
-SKIP,20,eSports Nongshim Red Force +1.5 Maps (vs BFX),-175
+SKIP,50,WNBA Brittney Sykes o19.5 points (Tempo vs Mercury),-105
+SKIP,50,Football Cruzeiro DC (vs Boca Juniors),100
+SKIP,20,Cycling Michael Storer to beat Jai Hindley H2H (Giro d'Italia Stage 10),120
+SKIP,20,NBA Cavaliers o105.5 (vs Knicks),-106
+SKIP,20,NBA Knicks -7.5 (vs Cavaliers),-105
+SKIP,20,MLB Blue Jays vs Yankees NRSI,-128
