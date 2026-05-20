@@ -1,25 +1,37 @@
 Action,Score,The Pick,Odds
-VALUE,75,Football Inter Turku win or draw (vs Ilves) + Dukla Prague II win or draw (vs Petrin Plzen),-135
-VALUE,65,Tennis Emilio Nava ML (vs Thiago Seyboth Wild),-185
-SKIP,60,MLB Athletics ML (vs Angels),-133
-SKIP,60,Football Aston Villa to win (vs Freiburg),-133
-SKIP,60,MLB Twins ML (vs Astros),-156
-SKIP,60,Football Willem II ML (vs Volendam),120
+MAX BET,80,WNBA Paige Bueckers 2+ 3PM (Wings vs Sky),130
+VALUE,75,MLB LAD vs SD - Under 7.5,-126
+VALUE,65,MLB MLB Grand Salami under 132.5,-110
+VALUE,65,MLB Chris Sale o6.5 Ks (Braves vs Marlins) + Juan Soto o1.5 HRR (Mets vs Nationals),140
+VALUE,65,WNBA Caitlin Clark to score 20+ PTs and 6+ AST (Fever vs Fire),-169
+VALUE,65,MLB Tigers ML vs Guardians,105
 SKIP,60,MLB Braves -1.5 (vs Marlins),-106
-SKIP,60,Tennis Karen Khachanov -1.5 set 1 game spread (vs Miomir Kecmanović),-154
-SKIP,60,Football Grindavik/Njardvik W vs Stjarnan W o2.5 TG,-143
-SKIP,60,MLB Dodgers vs Padres NRSI,-159
-SKIP,60,eSports T1 -1.5 Map Handicap (vs DRX) + KT ML (vs KRX),-135
-SKIP,60,NBA Wembanyama +3.5 H2H points vs Gilgeous-Alexander (Thunder vs Spurs),-114
+SKIP,60,Football Aston Villa to win (vs Freiburg),-133
+SKIP,60,MLB Athletics ML (vs Angels),-133
+SKIP,60,MLB Twins ML (vs Astros),-156
+SKIP,60,NBA Spurs vs Thunder UNDER 217,-110
+SKIP,60,Football Willem II ML (vs Volendam),120
 SKIP,60,Football SE Palmeiras vs Club Cerro Porteno u2.5 TG,100
+SKIP,60,Tennis Karen Khachanov -1.5 set 1 game spread (vs Miomir Kecmanović),-154
+SKIP,60,MLB Los Angeles Dodgers vs San Diego Padres NRFI,-145
+SKIP,60,MLB Dodgers vs Padres NRSI,-159
 SKIP,60,MLB Brewers vs Cubs o6.0 Runs,-115
-SKIP,50,NBA Julian Champagnie 5+ rebounds + Devin Vassell 10+ points (Spurs vs Thunder),122
-SKIP,50,Football Brann o1.5 TTG (vs Aalesunds),-152
-SKIP,50,NBA Chet Holmgren u8.5 rebounds (Spurs vs Thunder),100
-SKIP,50,NBA Dylan Harper o3.5 rebounds (Spurs vs Thunder),-160
-SKIP,50,NBA Braves ML (vs Marlins),-194
-SKIP,50,Football Start vs Bodo/Glimt o3.0 TG,-200
+SKIP,60,Football Grindavik/Njardvik W vs Stjarnan W o2.5 TG,-143
+SKIP,60,NBA Wembanyama +3.5 H2H points vs Gilgeous-Alexander (Thunder vs Spurs),-114
+SKIP,50,Football Raufoss vs Bryne BTTS + Aston Villa ML & 1.5 (vs Freiburg),224
 SKIP,50,MLB Aaron Judge o0.5 RBI (Blue Jays vs Yankees),145
+SKIP,50,Cricket KKR ML vs MI,105
+SKIP,50,Football Brann o1.5 TTG (vs Aalesunds),-152
+SKIP,50,NBA Julian Champagnie 5+ rebounds + Devin Vassell 10+ points (Spurs vs Thunder),122
+SKIP,50,MLB Cubs vs Brewers Over 6.5,-109
+SKIP,50,NBA Braves ML (vs Marlins),-194
+SKIP,50,NBA Dylan Harper o3.5 rebounds (Spurs vs Thunder),-160
+SKIP,50,NBA Chet Holmgren u8.5 rebounds (Spurs vs Thunder),100
+SKIP,50,Football Freiburg vs Aston Villa - Corners Under 9.5,-167
+SKIP,50,Football Start vs Bodo/Glimt o3.0 TG,-200
+SKIP,20,NBA Stephon Castle o1.5 3 pointers (Spurs vs Thunder),100
+SKIP,20,Football Al Ahli ML and over 2.5 goals (vs Al-Khaleej),-110
 SKIP,20,NBA Shai Gilgeous-Alexander o28.5 points (Thunder vs Spurs),-102
-SKIP,20,Football Aston Villa ML (vs Freiburg),-152
+SKIP,20,Football Bodo vs IK Start BTTS,-163
 SKIP,20,NBA Stephon Castle u7.5 FG attempted (Spurs vs Thunder),-105
+SKIP,20,Football Aston Villa ML (vs Freiburg),-152
