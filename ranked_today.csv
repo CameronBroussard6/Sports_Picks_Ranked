@@ -1,26 +1,10 @@
 Action,Score,The Pick,Odds
-MAX BET,90,WNBA Jovana Nogic 3+ 3PM (Tempo vs Mercury),148
-MAX BET,90,NBA Jalen Brunson o33.5 points + assists (Knicks vs Cavaliers),-111
-VALUE,75,MLB MLB Grand Salami u133.5,-106
-VALUE,75,MLB Phillies -1.0 (vs Red),-106
-VALUE,75,NBA Josh Hart 1+ STL + OG Anunoby 2+ 3PM (Knicks vs Cavaliers),-110
-VALUE,75,MLB Brewers vs Cubs u7.5,-114
-VALUE,75,NBA Cavaliers +8.5 (vs Knicks),-134
-VALUE,65,MLB N. McLean o5.5 Ks (Blue Jays vs Yankees) + D. Cease o5.5 Ks (Mets vs Nationals),140
-SKIP,60,MLB Rays ML (vs Orioles),-116
-SKIP,60,MLB Guardians -1.5 (vs Tigers),138
-SKIP,60,MLB Guardians ML (@ Tigers),-143
-SKIP,60,MLB Cleveland Guardians ML (vs Detroit Tigers),-120
-SKIP,60,NBA Knicks -7.0 (vs Cavaliers),-110
-SKIP,60,MLB Nick Fortes Over 0.5 Hits (Orioles @ Rays),-152
-SKIP,60,NBA OG Anunoby o15.5 Pts (Cavaliers @ Knicks),-125
-SKIP,50,NBA Mikal Bridges 1+ steal + OG Anunoby 1+ block (Cavaliers @ Knicks),128
-SKIP,50,WNBA Brittney Sykes o19.5 points (Tempo vs Mercury),-105
-SKIP,50,MLB Aaron Judge o0.5 RBI (Blue Jays vs Yankees),132
-SKIP,50,Football Cruzeiro DC (vs Boca Juniors),100
-SKIP,50,MLB Cubs vs Brewers NRSI (2nd Inning),-145
-SKIP,20,MLB Astros ML (vs Twins),-182
-SKIP,20,NBA Knicks -7.5 (vs Cavaliers),-105
-SKIP,20,NBA Karl Anthony Towns 6+ assists (Knicks vs Cavaliers),130
-SKIP,20,NBA Cavaliers o105.5 (vs Knicks),-106
-SKIP,20,MLB Blue Jays vs Yankees NRSI,-128
+VALUE,75,NPB Orix Buffaloes o3.5 runs (vs Fukuoka SoftBank Hawks),-105
+VALUE,65,Tennis Emilio Nava ML (vs Thiago Seyboth Wild),-185
+SKIP,60,Football Aston Villa to win (vs Freiburg),-133
+SKIP,60,MLB Braves -1.5 (vs Marlins),-106
+SKIP,60,eSports T1 -1.5 Map Handicap (vs DRX) + KT ML (vs KRX),-135
+SKIP,60,Football Grindavik/Njardvik W vs Stjarnan W o2.5 TG,-143
+SKIP,50,Tennis Gonzalo Bueno ML (vs Vitaliy Sachko),-120
+SKIP,50,MLB Aaron Judge o0.5 RBI (Blue Jays vs Yankees),145
+SKIP,20,NBA Stephon Castle u7.5 FG attempted (Spurs vs Thunder),-105
