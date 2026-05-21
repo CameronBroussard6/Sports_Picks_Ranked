@@ -1,38 +1,24 @@
 Action,Score,The Pick,Odds
 MAX BET,90,NBA Jalen Brunson o33.5 points + assists (Cavaliers vs Knicks),-112
 MAX BET,90,MLB Nationals ML (vs Mets),100
-VALUE,75,MLB MLB Grand Salami u59.5,100
 VALUE,75,NPB Tigers o1.5 runs F5 innings (vs Dragons),-145
-VALUE,75,MLB Braxton Ashcraft o4.5 Ks (Pirates vs Cardinals),-180
-VALUE,75,Football Wolfsburg ML (vs Paderborn),-132
-VALUE,75,eSports ScrunK u11.5 Ks M1 (BC Game/paiN) + C4llM3Su3 u7.5 HS M2 (NIP/Lynn Vision),155
-VALUE,75,Football Wolfsburg ML (vs Paderborn),-137
 VALUE,75,NBA Mikal Bridges 15+ PR & 1+ steal (Knicks vs Cavaliers),-106
-VALUE,65,MLB Cardinals ML (vs Pirates),110
+VALUE,75,MLB MLB Grand Salami u59.5,100
 VALUE,65,NBA Evan Mobley 3PM & 1+ BLK + Jalen Brunson 30+ PA (Knicks vs Cavaliers),100
-SKIP,60,Football Brugge to win + o2.5 TG (vs KV Mechelen),-125
+SKIP,60,NBA Mikal Bridges 20+ PRA & 1+ steal (Cavaliers @ Knicks),146
+SKIP,60,MLB K'Andre Miller o1.5 shots on goal (Canadiens vs Hurricanes),105
 SKIP,60,NBA Diamondbacks ML (vs Rockies),-200
 SKIP,60,NBA Evan Mobley Double Double (Knicks vs Cavaliers),162
-SKIP,60,MLB K'Andre Miller o1.5 shots on goal (Canadiens vs Hurricanes),105
 SKIP,60,NBA Jalen Brunson 25+ pts + Mikal Bridges 12+ pts (Cavaliers @ Knicks),125
-SKIP,60,MLB Pirates ML (vs Cardinals),-126
 SKIP,60,MLB Diamondbacks -1.5 (vs Rockies),112
-SKIP,60,Football Al Hazm vs Al Taawoun BTTS + o2.5 TG,-110
-SKIP,60,Cycling Orluis Aular to beat Ben Turner (Giro d'Italia Stage 12),162
-SKIP,60,NBA Mikal Bridges 20+ PRA & 1+ steal (Cavaliers @ Knicks),146
-SKIP,60,MLB Guardians vs Tigers o7.0 runs,-120
-SKIP,60,Cricket GT ML (vs CSK),-145
 SKIP,60,NBA Cavaliers 1H team total points o50.5 (vs Knicks),-106
-SKIP,50,Football Club Brugge to win (vs Mechelen) + Wolfsburg vs Paderborn 07 BTTS,137
 SKIP,50,NBA Knicks -6 (vs Cavaliers),-110
-SKIP,50,eSports Dplus KIA -1.5 Maps (vs HANJIN Bro),130
-SKIP,50,MLB Athletics -1.5 (vs Angels),169
 SKIP,50,WNBA Brittney Sykes o20.5 points (Tempo vs Lynx),-118
+SKIP,50,MLB Athletics -1.5 (vs Angels),169
 SKIP,50,NBA Karl Anthony-Towns o4.5 Assists (Knicks vs Cavaliers),-155
 SKIP,50,Golf Ryo Hisatsune Top 30 CJ Cup Byron Nelson (resolves on Sunday),-120
 SKIP,50,MLB Blue Jays vs Yankees o8.0,-115
 SKIP,50,MLB Aaron Judge o0.5 RBI (Blue Jays vs Yankees),155
 SKIP,50,MLB Braves F5 ML (vs Marlins),-132
-SKIP,20,Tennis Alex Michelsen ML (vs Learner Tien),-109
 SKIP,20,NHL Logan Stankoven o2.5 Shots on Goal (Hurricanes vs Canadiens),-125
 SKIP,20,NBA Steve Merrill o2.5 three pointers (Cavaliers vs Knicks),140
